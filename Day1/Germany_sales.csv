@@ -1,0 +1,1001 @@
+SaleId,Country,SaleDate,ProductId,Category,ProductName,Qty,Price,Amount
+f45e0a21-579b-4424-8ae4-eca0593b5528,Germany,2024-06-14,6311.0,Water bottles,Smart,2.0,12.78,25.56
+aa6248e0-7a04-48fc-9411-876018011cfb,Germany,2025-04-29,6856.0,Smart Phone,Galaxy,5.0,9.34,46.7
+384ca561-af2b-4e5c-817c-0907500ac7b5,Germany,2025-02-05,8434.0,Shoes,,3.0,12.33,36.99
+c3ce7118-ec7e-41c6-8800-0a94b2d35cb1,Germany,2024-10-23,9909.0,Smart Phone,OnePlus,1.0,11.98,11.98
+74a40131-6a6d-4c9d-9b8f-2eefd85f18ce,Germany,2024-07-30,7312.0,Jeans,Regular Fit,10.0,8.5,85.0
+23f1127b-d7eb-400b-bf68-728e18709d0d,Germany,2025-04-07,7969.0,Tshirts,Tank Top,6.0,7.98,47.88
+2c7e254b-19fc-4491-a20a-558241e04166,Germany,2025-03-02,7951.0,Water bottles,Steel,2.0,6.42,12.84
+86958649-41ee-4c23-8381-8bda075bfc90,Germany,2024-06-29,7426.0,Shoes,Sandals,8.0,6.78,54.24
+9f16723f-96d2-4428-839d-148b28e796b2,Germany,2025-05-11,7945.0,Perfumes,Fresh,1.0,12.82,12.82
+9a7f7500-1576-4b3e-bbea-22db922e5cc6,Germany,2025-04-02,1330.0,Tshirts,Polo Shirt,9.0,11.48,103.32
+ec4643db-3c20-47bf-9815-c81bca43f7c5,Germany,2025-01-09,6505.0,Water bottles,Smart,5.0,5.94,29.7
+bea6bb61-6f92-44fd-92e1-84cef3276dbb,Germany,2024-11-21,6498.0,Tshirts,Cotton Tee,1.0,8.73,8.73
+b89a3e7c-5476-4d30-b657-c7e808510276,Germany,2025-01-08,3340.0,Tshirts,V-neck,7.0,10.14,70.98
+ea14c6e5-2002-4c5a-9225-c7f3eaed6c60,Germany,2025-01-31,4527.0,Shoes,Sneakers,6.0,7.96,47.76
+d3e9b1f3-3aa9-402b-8819-dcb447c8195c,Germany,2025-03-11,9226.0,Water bottles,Smart,5.0,6.7,33.5
+1727d487-ef8d-474d-99a7-4d36581aa085,Germany,2025-01-24,5780.0,Jeans,Skinny,8.0,9.05,72.4
+252f152a-0ea3-4189-a6fa-1827a6745a3f,Germany,2024-10-04,5878.0,Perfumes,Aqua,1.0,7.77,7.77
+adf52580-dbe8-4d0d-8bd3-a0c55dc3b9be,Germany,2024-07-09,7079.0,Tshirts,Cotton Tee,9.0,10.11,90.99
+2f4f6761-7770-4cdc-a0eb-b712710a4cd6,Germany,2025-01-04,2047.0,Smart Phone,OnePlus,2.0,10.61,21.22
+4af53dfe-54cb-4831-b7e4-d6981c360249,Germany,2024-12-29,1397.0,Smart Phone,Xiaomi,1.0,8.51,8.51
+423e25ce-a0f3-40b4-8905-5447bf9cd75c,Germany,2024-07-28,7103.0,Perfumes,Aqua,8.0,7.29,58.32
+15a57d60-cba8-4d6e-aa54-79f2399b29fc,Germany,2025-04-23,1624.0,Water bottles,Steel,10.0,10.13,101.3
+2822f0a9-db12-4d2e-a736-6835af887619,Germany,2025-01-27,8924.0,Perfumes,Fresh,8.0,7.86,62.88
+1b71a8e3-a47b-4b9a-ad9e-c1651e6346ad,Germany,2024-09-15,1258.0,Smart Phone,Galaxy,6.0,6.75,40.5
+95a4d81b-aeee-4e2c-a5a6-dcf86872b415,Germany,2024-06-27,8662.0,Smart Phone,Pixel,7.0,11.4,79.8
+e73b63f3-63cb-4148-a062-c43e9ade704c,Germany,2025-03-13,6566.0,Perfumes,Spicy,7.0,10.87,76.09
+73b0aaf0-e8e2-4a61-9071-75c2cf13ee0c,Germany,2024-08-04,3649.0,Perfumes,Fresh,4.0,11.45,45.8
+6d67831d-d783-4c0d-9c8e-1029825d22b4,Germany,2024-07-07,2366.0,Jeans,Skinny,8.0,6.28,50.24
+80e01d95-bb2c-4d3f-8db7-1a95be5f24a3,Germany,2024-11-19,8930.0,Water bottles,Glass,6.0,5.85,35.1
+5be66e9e-06e3-4f44-85db-348f1d2918e0,Germany,2024-07-06,6673.0,Perfumes,Floral,4.0,9.78,39.12
+9e666d60-bd90-4e59-9848-89f0d9b69c3f,Germany,2025-04-05,1925.0,Water bottles,Foldable,10.0,6.29,62.9
+0d16192b-515b-4487-862f-9d6e41198320,Germany,2024-05-18,3145.0,Shoes,Sandals,9.0,7.24,65.16
+be0e023b-6095-4a9f-a56d-7dbac6af63a8,Germany,2025-03-23,6073.0,Shoes,Loafers,10.0,8.34,83.4
+0e277ff4-e168-4d2b-98a1-e189a350c524,Germany,2024-07-19,9241.0,Perfumes,Floral,3.0,8.74,26.22
+6587a1af-c2e0-4128-b3dc-e0e0665700be,Germany,2024-06-01,4895.0,Water bottles,Plastic,8.0,6.6,52.8
+45aef092-0c2a-49d8-8773-d861a608f248,Germany,2024-05-17,6701.0,Water bottles,Insulated,9.0,9.34,84.06
+89561001-119d-4cb0-a01c-6ce54c2f589c,Germany,2025-02-14,9875.0,Water bottles,Glass,5.0,11.66,58.3
+13551496-0b6e-4982-98a4-61ca8146ef20,Germany,2025-04-24,2174.0,Smart Phone,Xiaomi,10.0,11.04,110.4
+5046427f-c016-4336-9f10-a1ff0c686931,Germany,2024-06-21,4992.0,Tshirts,Polo Shirt,3.0,5.61,16.83
+0f6322ae-6013-461a-87e3-a4293e9bf492,Germany,2024-06-22,3616.0,Shoes,Loafers,8.0,7.32,58.56
+3c2a5ce4-1939-4bec-80bf-7f2f261e217f,Germany,2024-12-07,9960.0,Smart Phone,Pixel,9.0,12.25,110.25
+3c6d8133-cbcc-44fe-9c95-e2492b4772f4,Germany,2024-07-20,4227.0,Jeans,Bootcut,2.0,9.13,18.26
+e1a8ecda-13a8-4de4-bb30-30c3af656bef,Germany,2025-03-02,7336.0,Water bottles,Smart,3.0,6.23,18.69
+c79cb953-b942-490f-9f1e-74f585e17c3c,Germany,2025-01-16,1148.0,Perfumes,Woody,7.0,8.94,62.58
+ad3e9fa2-90ba-4411-8997-b3843cd0ab12,Germany,2025-01-28,5022.0,Jeans,Slim Fit,8.0,11.71,93.68
+033bbe59-99a8-4904-a160-4bd6bcffe03f,Germany,2024-11-10,9360.0,Tshirts,Tank Top,8.0,11.93,95.44
+a5e46132-4e66-4424-b4d8-a6c397aecc61,Germany,2024-11-18,1379.0,Water bottles,Steel,8.0,12.79,102.32
+41c962f2-14ae-4155-a120-75d15a84c172,Germany,2025-02-09,1825.0,Jeans,Straight,8.0,7.42,59.36
+02430277-e9cf-466e-b950-cd1ff76e173b,Germany,2024-11-07,5407.0,Smart Phone,Pixel,2.0,6.85,13.7
+cb55bdaf-df11-4c67-9d7c-b0478f855b48,Germany,2024-05-24,9734.0,Perfumes,Woody,6.0,7.12,42.72
+1aacd28e-5215-4776-9b4d-d12ad683e1f4,Germany,2024-07-23,4550.0,Water bottles,Insulated,9.0,12.94,116.46
+5f0e75e7-8772-4389-81a4-b9bd7572765a,,2024-06-14,2804.0,Jeans,Slim Fit,1.0,12.38,12.38
+c0e3ba61-958a-40b0-87f4-e7c7e1d4be55,Germany,2024-06-14,7886.0,Jeans,Slim Fit,3.0,6.08,18.24
+9de8eab0-244a-49f0-b8fd-07ff9b02912b,Germany,2024-10-14,6638.0,Shoes,Loafers,5.0,7.73,38.65
+1d69047d-d29c-4307-a3b5-4f0456a372ff,Germany,2025-01-02,8430.0,Smart Phone,iPhone,1.0,13.23,13.23
+3c7ff37d-1408-449b-bf9e-c3a06d8363da,Germany,2024-10-31,8309.0,Water bottles,Insulated,8.0,13.05,104.4
+1dc7bd19-cf95-4764-af31-e92dbbff1e4b,Germany,2025-02-05,9208.0,Tshirts,Tank Top,2.0,10.38,20.76
+243096bd-c005-49db-aa4f-6052801f30df,Germany,2025-04-07,7973.0,Perfumes,Fresh,2.0,10.93,21.86
+669a4e0c-5ab8-48a0-95ab-e7ae3d9290f0,Germany,2024-06-24,8219.0,Water bottles,Foldable,6.0,10.46,62.76
+06776680-f0a0-4ebb-b800-91ac8b3d36ba,Germany,2024-10-05,4399.0,Smart Phone,Pixel,5.0,10.15,50.75
+8b626ce4-3212-483b-9933-bad67571b6d7,Germany,2025-04-07,9597.0,Perfumes,Fresh,7.0,13.26,92.82
+d2bae51d-4957-4530-bf58-359f7a52e4f6,Germany,2024-06-01,7238.0,Jeans,,5.0,8.8,44.0
+4c1003df-4d4b-4444-919f-fe03f61f4793,Germany,2025-03-15,7405.0,Jeans,Regular Fit,3.0,8.73,26.19
+7e8673bf-2d08-4b30-a19a-77cde2c045e6,Germany,2024-10-25,4355.0,Smart Phone,Realme,4.0,9.67,38.68
+4bfecfa6-0037-4b0c-b7e9-df35ba3ed4f4,Germany,2025-02-02,7817.0,Perfumes,Floral,3.0,7.6,22.8
+4c5632d4-af27-466d-98c5-6a57c7756900,Germany,2024-07-20,7137.0,Perfumes,Aqua,4.0,8.47,33.88
+3a0d3859-82e8-4755-8ba7-4d822f817051,Germany,2024-06-26,7905.0,Water bottles,Steel,1.0,10.74,10.74
+6a68934d-ec4f-46ec-a31d-e8bd350ba522,Germany,2024-08-23,5100.0,Shoes,Sandals,4.0,13.15,52.6
+89e4d2f0-608a-40f7-902d-76db636781d0,Germany,2024-12-19,1357.0,Tshirts,V-neck,10.0,11.12,111.2
+8f091ace-8d1b-4e2f-a09d-941037694eb6,Germany,2025-03-12,1048.0,Shoes,Sneakers,1.0,6.63,6.63
+384aaaa9-8a91-419e-873e-ed62073f1d91,Germany,2024-11-18,7579.0,Water bottles,Plastic,1.0,10.29,10.29
+d7cadeaf-b0aa-4503-ba1d-8916ba9b9531,Germany,2024-06-13,3375.0,Tshirts,Polo Shirt,6.0,10.08,60.48
+fce28232-b4fa-485b-b477-649bc78af9dc,Germany,2024-12-30,3747.0,Water bottles,Plastic,5.0,13.13,65.65
+622010bd-0ec2-48d5-af5e-ecaf7b88ace4,Germany,2024-09-19,1715.0,Shoes,Sports Shoes,9.0,10.7,96.3
+608af5ee-0cc4-4865-83a4-14a2e8686363,Germany,2025-02-26,8400.0,Jeans,Regular Fit,5.0,9.15,45.75
+28292b59-8378-4d18-a0d7-1ec82b9b541c,Germany,2024-08-31,8312.0,Water bottles,Plastic,8.0,9.6,76.8
+fd28a4d7-c5ce-445c-9558-fa31b24f59f9,Germany,2024-10-16,3035.0,Perfumes,Floral,5.0,6.76,33.8
+da89f0cc-8bd9-49db-8776-fcba1c41c9cf,Germany,2024-10-19,9466.0,Smart Phone,Xiaomi,5.0,6.57,32.85
+9eabeffc-8d8a-4399-984c-bb24bcde7407,Germany,2024-12-07,1154.0,Water bottles,Foldable,7.0,10.23,71.61
+36151724-7e15-4789-93b4-45ba6ec35dff,Germany,2025-01-14,7683.0,Water bottles,Plastic,1.0,7.3,7.3
+2b0cba41-1818-4465-943f-46de333ad1ae,Germany,2024-12-31,7005.0,Tshirts,Graphic Tee,7.0,7.11,49.77
+d166e1b4-72d9-40c1-9a36-d3dfd5329488,Germany,2024-07-22,2693.0,Jeans,Straight,5.0,7.15,35.75
+9bda79cc-4e1a-443a-98c0-3fd66b264020,Germany,2024-10-20,8995.0,Shoes,Boots,3.0,12.25,36.75
+,Germany,2024-06-17,1877.0,Smart Phone,Realme,5.0,6.99,34.95
+f2a05e81-fa60-491f-87c8-60bf6457be65,Germany,2024-07-17,1775.0,Water bottles,Smart,,13.2,39.6
+a49bc679-3509-4895-837b-eeab1d23dfce,Germany,2025-03-29,1212.0,Water bottles,Steel,5.0,6.52,32.6
+fdb94388-6d0f-4812-93ad-147a7fe5339c,Germany,2024-11-21,6702.0,Smart Phone,Galaxy,2.0,9.16,18.32
+b21352ae-aeea-4345-8b9b-b44130432eca,Germany,2024-07-19,7373.0,Perfumes,Woody,4.0,8.71,34.84
+b0e8db62-fbd1-45ff-8d6f-0c9838c81b7c,Germany,2024-07-28,8703.0,Smart Phone,Galaxy,4.0,10.08,40.32
+54550f94-86e1-44b3-9c69-5efe9d29e050,Germany,2024-08-25,6086.0,Water bottles,Smart,4.0,7.78,31.12
+0e6884d6-d5b5-4c21-9a20-0881b0727fa8,Germany,2024-08-16,6599.0,Smart Phone,Realme,7.0,8.0,56.0
+f7ba4319-e75f-49d8-abcd-1399b1e155ce,Germany,2025-03-28,3026.0,Jeans,Slim Fit,1.0,6.55,6.55
+47489b80-d9c1-4b2d-bb59-26b12734bf11,Germany,2025-02-22,3383.0,Tshirts,Tank Top,9.0,6.13,55.17
+f608f37b-c6f6-4c51-9278-db82e9289e9d,Germany,2025-04-25,2734.0,Perfumes,Floral,9.0,6.28,56.52
+11da787e-45b7-4b82-8f08-6740701d2fe4,Germany,2025-04-02,2093.0,Tshirts,Full Sleeve,5.0,5.57,27.85
+fb409faf-d7d1-45fc-bd32-a40aa11d19a4,Germany,2025-04-29,5162.0,Perfumes,Aqua,9.0,7.5,67.5
+6bc4cf7b-de1e-419b-be58-0c89d502a21b,Germany,2025-04-27,7648.0,Jeans,Bootcut,2.0,8.7,17.4
+b23b0c42-1f1b-4f72-898d-fa47cfa41ffa,Germany,2024-12-10,5278.0,Perfumes,Floral,1.0,12.62,12.62
+d3270cc0-1900-4321-8219-eb725ba6612b,Germany,2024-08-02,4829.0,Jeans,Slim Fit,4.0,8.51,34.04
+37b678c4-63bd-494c-905f-1c4d180453a0,Germany,2025-03-11,1863.0,Smart Phone,Pixel,4.0,6.54,26.16
+e50ebfaf-0238-472d-be0b-66229a6544ea,Germany,2025-03-09,8705.0,Smart Phone,iPhone,1.0,11.59,11.59
+a9569750-8574-4e6d-a662-a715990a74f1,Germany,2025-02-24,6936.0,Tshirts,Polo Shirt,7.0,7.09,49.63
+89d33a59-944c-4ad6-89cb-6705e1c61e1f,Germany,2024-11-10,5547.0,Shoes,Sports Shoes,8.0,8.98,71.84
+8ff9aa6c-0838-43e9-bab8-a244ea279487,Germany,2025-02-28,2763.0,Shoes,Sandals,6.0,5.57,33.42
+c6c2236c-a2d4-4fa4-bbc3-b7b175fdb0a0,Germany,2025-04-25,7561.0,Jeans,Slim Fit,1.0,6.54,6.54
+e099ab65-1108-4ec8-907a-ad8b821adae4,Germany,2024-08-02,4535.0,Water bottles,Foldable,,7.94,31.76
+312e1608-7870-404c-9f27-bc06f68695aa,Germany,2025-05-11,8845.0,Smart Phone,iPhone,8.0,12.4,99.2
+4b322b05-b4e4-4d56-b9f2-eb71a828211d,Germany,2024-05-18,6007.0,Shoes,Loafers,9.0,6.6,59.4
+a5767e70-2bf1-4f70-a684-4cf321f257f2,Germany,2024-07-19,5429.0,Tshirts,Full Sleeve,3.0,9.03,27.09
+867432ec-9de1-49ef-b037-6816181428f9,Germany,2025-04-20,2004.0,Perfumes,Floral,7.0,10.91,76.37
+3ee1d728-e990-4a64-ac78-3741696b6093,Germany,2024-07-24,1236.0,Shoes,Formal Shoes,2.0,5.86,11.72
+19919b61-8b55-4fe6-a43d-482d1819db76,Germany,2025-01-20,6079.0,Smart Phone,Pixel,2.0,10.97,21.94
+4be972b5-2b0e-42c8-84b9-7f9c4a49d83b,Germany,2025-03-05,1504.0,Smart Phone,Pixel,9.0,6.96,62.64
+3ea16e1d-478e-418e-b170-c9b928478f5d,Germany,2025-03-23,7026.0,Jeans,Skinny,7.0,8.21,57.47
+4ec22c2a-99d6-468d-b29c-e74001dfe951,Germany,2024-10-31,7739.0,Water bottles,Smart,1.0,9.6,9.6
+f01f7382-e4fa-42c2-b398-e4fc59dd9452,Germany,2024-06-18,2933.0,Water bottles,Insulated,3.0,12.8,38.4
+6d0102f9-83c6-486c-bc5f-eb6aab1635f0,Germany,2025-01-24,2067.0,Smart Phone,iPhone,3.0,12.25,36.75
+fd5c8bcd-6aa1-4b75-961b-e345fad911e5,Germany,2024-08-28,5669.0,Smart Phone,Pixel,9.0,10.57,95.13
+59ff60d6-7eb7-4909-8f15-fdac1a617eb4,Germany,2024-07-27,9833.0,Perfumes,Aqua,4.0,12.0,48.0
+e5b27ed0-10a0-4d0f-b4e9-10649ebb05ca,Germany,2024-07-27,8658.0,Smart Phone,Galaxy,6.0,10.02,60.12
+d4b07d7e-4fa0-4716-91e6-361009f76898,Germany,2025-01-16,6321.0,Perfumes,Fresh,9.0,12.37,111.33
+a228f934-af33-481d-97e5-0b8dfd786451,Germany,2025-01-11,9332.0,Tshirts,Graphic Tee,10.0,8.84,88.4
+62b2fa87-2dd8-4931-931c-6274e8c7c867,Germany,2025-04-13,2246.0,Shoes,Sports Shoes,2.0,11.61,23.22
+c7a7a071-d262-4558-a6dd-8969aada8ba0,Germany,2024-06-10,5377.0,Shoes,Sports Shoes,8.0,10.95,87.6
+97f84962-93f1-49e1-bfd5-54ff2e65a71f,Germany,2024-07-21,1577.0,Smart Phone,OnePlus,8.0,12.38,99.04
+3deaa9c7-2cac-403c-b4f1-83e5a2592eb5,Germany,2024-11-16,4776.0,Tshirts,Tank Top,9.0,7.67,69.03
+20770cc9-4e38-4d81-8b43-0603c88fa1b8,,2024-08-30,3437.0,Water bottles,Foldable,6.0,5.82,34.92
+6cb53299-60e8-4fd5-8090-38164b4742fc,Germany,2025-01-30,9394.0,Water bottles,Glass,8.0,6.95,55.6
+68fd116b-4529-4253-b015-03eebea35692,Germany,2024-07-27,4769.0,Smart Phone,OnePlus,9.0,11.01,99.09
+356c8206-41e1-4836-bcf6-1621f3c818b7,Germany,2024-11-13,2679.0,Perfumes,Aqua,10.0,7.11,71.1
+86dd0792-bcd1-4347-b502-4acdf066f27a,Germany,2024-10-09,5168.0,Shoes,Sandals,2.0,9.52,19.04
+6f45bada-81fa-4da6-898b-5863bb4db99f,Germany,2025-03-11,5657.0,Smart Phone,Galaxy,2.0,12.89,25.78
+2d355557-8fe0-4af7-ba3a-b69d3fc4520b,Germany,2024-10-10,6402.0,Shoes,Sports Shoes,1.0,10.39,10.39
+44dc6f42-7323-4ab3-8554-b14457f1480a,Germany,2024-08-01,9569.0,Water bottles,Glass,1.0,6.03,6.03
+5f8b3066-fd1b-41a3-9f18-336dce94f92b,Germany,2025-01-05,7994.0,Jeans,Bootcut,10.0,8.6,86.0
+dfa5db11-9ae4-4021-a780-ac62ce81d541,Germany,2024-10-24,7633.0,Jeans,Straight,9.0,10.6,95.4
+753961bc-4234-4b76-8b78-1dbb5400ceae,Germany,2024-07-01,1074.0,Smart Phone,OnePlus,8.0,12.79,102.32
+cc54d981-9787-4df2-8313-e1be09a27c56,Germany,2024-12-28,9333.0,Water bottles,Plastic,1.0,12.82,12.82
+ef3f6b9a-3657-497b-b490-759bf3150cf7,Germany,2024-08-28,8040.0,Perfumes,Floral,2.0,5.74,11.48
+9c7d8944-89f4-437c-96cb-832e73317cff,Germany,2024-12-25,8487.0,Jeans,Bootcut,1.0,12.72,12.72
+1b430a8a-b367-418f-a898-e5510432dd05,Germany,2024-11-07,1843.0,Perfumes,Citrus,1.0,12.63,12.63
+9f08a213-42c7-4e49-98a5-c32915c2ca8c,Germany,2024-11-01,2344.0,Jeans,Straight,7.0,5.8,40.6
+c23b4ffa-f69f-4ce8-86bc-b3c014aee34d,Germany,2024-08-05,9578.0,Perfumes,Woody,3.0,7.22,21.66
+f37ab829-f38e-4e7c-8bce-5f0242bde34a,Germany,2025-02-15,6516.0,Jeans,Skinny,4.0,12.4,49.6
+5bc66ea4-d44a-4dde-bafd-c08164667f70,Germany,2024-10-23,6337.0,Water bottles,Foldable,7.0,5.72,40.04
+139a538c-56b5-483d-a712-0dfe00036056,Germany,,1327.0,Tshirts,Cotton Tee,4.0,11.19,44.76
+7dcc0c66-6265-417a-988e-56daafac70bc,Germany,2025-01-26,9472.0,Shoes,Loafers,7.0,9.91,69.37
+f9f5abe4-e208-445f-84c6-050953e1eeef,Germany,2025-05-08,7700.0,Water bottles,Foldable,6.0,10.66,63.96
+939cfc04-b518-49e1-9b5b-f8d9689552a7,Germany,2025-03-17,8937.0,Water bottles,Smart,1.0,8.81,8.81
+22be2e23-0ba9-4532-8f94-f54557d90d12,Germany,2025-03-30,2181.0,Shoes,Sandals,5.0,6.58,32.9
+897cb965-b3f8-4398-94d9-2be878bcab5b,Germany,2024-12-28,6425.0,Water bottles,Foldable,7.0,9.71,67.97
+4cf83b40-1fd6-41df-b219-90e8cd318c53,Germany,2024-05-26,1912.0,Smart Phone,OnePlus,7.0,6.09,42.63
+dbf8cc3c-aeb7-476f-9cb9-6c70faf76850,Germany,2024-08-15,8009.0,Smart Phone,iPhone,5.0,9.64,48.2
+605b3b1b-c16d-474a-ac24-59bfbe9c0533,Germany,2025-04-18,5085.0,Shoes,Loafers,6.0,8.42,50.52
+92ae2d72-499b-4c67-a596-5343846de41e,Germany,2024-08-16,7671.0,Shoes,Sandals,7.0,12.98,90.86
+0d40d7ac-de40-4bbe-8f2d-7a0cdc0501e2,Germany,2025-01-29,4209.0,Perfumes,Fresh,6.0,10.28,61.68
+388211e0-59cd-420b-831c-313952b52069,Germany,2024-05-21,2385.0,Perfumes,Floral,5.0,13.1,65.5
+d9a3af5a-1457-4890-8510-559c059077ef,Germany,2025-03-06,7182.0,Shoes,Sports Shoes,6.0,8.13,48.78
+f782b24b-1584-46bf-955d-ddac99e0859c,Germany,2025-03-23,9023.0,Smart Phone,Realme,7.0,7.35,51.45
+6044abd0-8630-4789-99ab-d41c75acb371,Germany,2025-03-04,1799.0,Jeans,Skinny,5.0,9.98,49.9
+53da2de8-6325-4518-b75b-2b77e43b8b4c,Germany,2024-10-22,5157.0,Jeans,Regular Fit,8.0,5.87,46.96
+3616c37c-4800-4596-ae14-aa404dd5dda9,Germany,2025-01-13,5229.0,Perfumes,Citrus,9.0,5.58,50.22
+99061aac-c7e7-431f-8238-33106728cd49,Germany,2024-10-07,9801.0,Shoes,Loafers,7.0,7.34,51.38
+2689bcec-f687-4db2-ac9c-a563126a9d3c,Germany,2024-07-29,4642.0,Perfumes,Spicy,5.0,8.01,40.05
+6bf32690-adfc-41fc-b093-172e5eebafad,Germany,2024-06-17,8348.0,Water bottles,Insulated,6.0,12.31,73.86
+1fc08d8f-d694-4cdf-b847-7d4de1fedffb,Germany,2025-04-23,5586.0,Tshirts,V-neck,5.0,5.81,29.05
+762831bf-7603-4d8e-9b79-d9c0ddcb8943,Germany,2025-04-23,3835.0,Tshirts,V-neck,10.0,5.89,58.9
+22caa952-e3e3-42b2-a9d9-9775acda0a9c,Germany,2024-10-11,5014.0,Shoes,Sandals,3.0,10.79,32.37
+89c6589a-71ca-4099-a475-32f1f1759e25,Germany,2024-09-12,6802.0,Tshirts,Cotton Tee,4.0,10.73,42.92
+bff9bf1d-7235-4181-b0b4-c334d93378c0,Germany,2024-11-08,1450.0,Perfumes,Floral,1.0,11.97,11.97
+3d725a59-c8b4-4241-80d4-2af4f6597e63,Germany,2024-11-14,7879.0,Smart Phone,iPhone,3.0,11.09,33.27
+0667daa2-4809-47a4-b9ae-8ee78ebd14ca,Germany,2024-08-24,3462.0,Perfumes,Woody,6.0,8.6,51.6
+7ae27d85-ddd7-432d-b552-fd9d05c45acf,Germany,2024-10-24,2319.0,Water bottles,Steel,9.0,8.28,74.52
+59c99716-71f5-4def-98c6-1a6d4ee14e1b,Germany,2024-07-30,1762.0,Tshirts,Graphic Tee,6.0,7.1,42.6
+bd0cafd8-471b-4d74-99e2-11e3922b713c,Germany,2024-05-27,7104.0,Shoes,Sneakers,1.0,9.55,9.55
+8198fc8e-b9d9-45d8-9b68-d4a965ff6086,Germany,2024-07-11,4967.0,Water bottles,Smart,1.0,12.75,12.75
+436da10d-b8ec-46fe-8a5e-84b3beaf7c57,Germany,2024-09-24,5000.0,Shoes,Sneakers,3.0,13.0,39.0
+cceced0c-f566-49d5-bbb2-66f4867c45aa,Germany,2024-09-20,7924.0,Tshirts,V-neck,6.0,7.91,47.46
+f42e466d-578a-4568-bef9-f9775d8e96f7,Germany,2024-07-23,4281.0,Tshirts,Polo Shirt,10.0,10.8,108.0
+f10543f9-2150-40d4-ad44-fe0cdd6b5802,Germany,2024-10-20,1603.0,Water bottles,Smart,4.0,13.16,52.64
+daffe5fa-0766-4276-b766-fa13429e5407,Germany,2024-12-21,2289.0,Smart Phone,Xiaomi,4.0,9.29,37.16
+3eda0f9b-bc51-4628-8f57-928f11f4aaf7,Germany,2025-03-26,2421.0,Water bottles,Smart,2.0,6.67,13.34
+e300d545-aecf-4445-9a0f-b76e8c30bb02,Germany,2024-09-14,4523.0,Water bottles,Glass,1.0,12.07,12.07
+c99d3b68-72a4-468e-b62f-7486bfb65261,Germany,2025-05-09,7582.0,Jeans,Skinny,3.0,9.6,28.8
+baec2ca3-4fdc-4ac8-9395-8e2f6d279518,Germany,2024-09-09,8351.0,Shoes,Loafers,7.0,11.79,82.53
+82befc49-17cf-46e2-ac5e-7dae6cd01753,Germany,2025-01-18,7690.0,Smart Phone,iPhone,6.0,13.11,78.66
+0003ed63-ab3e-481d-bca2-e89382d8dfa7,Germany,2024-08-30,8562.0,Tshirts,Tank Top,8.0,9.66,77.28
+665f8993-695f-40c5-9563-8ea4bbaafa3c,Germany,2025-01-29,7281.0,Jeans,Straight,6.0,13.22,79.32
+b54a9d93-25b2-4968-a2ac-12f28c2ce5e6,Germany,2025-01-07,7109.0,Shoes,Sneakers,7.0,8.48,59.36
+67742686-5e6d-4db3-a217-3f70b6469a1f,Germany,2024-09-24,1274.0,Perfumes,Fresh,10.0,6.45,64.5
+115b4d5e-9e6b-42d2-a453-cfdc86d95abd,Germany,2024-08-29,5682.0,Tshirts,Cotton Tee,5.0,10.95,54.75
+473ab3de-50c7-4b16-8470-fd4ddaf93a25,Germany,2025-04-04,3862.0,Shoes,Boots,4.0,13.3,53.2
+40dd4e0f-112c-4124-a7d3-2d45ea24ea3a,Germany,2024-06-04,6809.0,Water bottles,Steel,3.0,10.27,30.81
+1696dbfb-e02b-42dd-b75e-38b7113629da,Germany,2024-12-06,1528.0,Perfumes,Aqua,8.0,10.25,82.0
+73792444-4eba-4d22-bc0b-b2764eee8480,Germany,2025-04-15,9197.0,Smart Phone,OnePlus,2.0,9.91,19.82
+74887503-42da-4c8c-aaeb-bd9656eefd68,Germany,2024-09-07,5955.0,Jeans,Slim Fit,6.0,13.11,78.66
+301f4cda-00ae-41a1-a0d1-dd51d3de7fba,Germany,2024-09-18,4701.0,Shoes,Sandals,7.0,7.42,51.94
+a527e02f-7b19-4a51-812a-141ec878a7ad,Germany,2024-08-09,4338.0,Tshirts,Polo Shirt,1.0,10.35,10.35
+eb2e2b86-341c-4b08-b828-edb017158cbe,Germany,2024-10-03,2250.0,Perfumes,Aqua,8.0,11.34,90.72
+0237b7a6-301a-4db9-ac9f-f95f81674d9b,Germany,2024-07-07,5383.0,Tshirts,Tank Top,1.0,12.59,12.59
+6b1ccb2c-f872-4a04-b1d6-4fc9e69467d0,Germany,2025-03-09,6631.0,Jeans,Slim Fit,7.0,12.38,86.66
+9eb03dad-ce85-4ee8-9f63-e175e0778f89,Germany,2024-06-05,9560.0,Jeans,Straight,6.0,12.32,73.92
+ad6b2d45-e2dd-4660-b4b4-aba94db7fad7,Germany,2025-03-18,2244.0,Smart Phone,Realme,1.0,11.14,11.14
+ff7a3f96-f89b-4ffc-abba-25b5eaab212d,Germany,2024-12-15,6411.0,Tshirts,Full Sleeve,10.0,9.27,92.7
+d6e9aeba-84d1-4e3b-8ec2-38635c6ae28e,Germany,2025-04-23,2812.0,Perfumes,Floral,7.0,6.96,48.72
+c205a109-585c-46a0-b5f1-743060754bc1,Germany,2025-01-10,9815.0,Water bottles,Steel,4.0,7.5,30.0
+18db9a78-da93-47a6-b145-52c8349de09f,Germany,2024-12-28,6096.0,Jeans,Straight,9.0,11.84,106.56
+926aa390-f460-4426-831f-d74988517e04,Germany,2024-06-18,9974.0,Shoes,Sports Shoes,2.0,9.44,18.88
+0a8267b1-c3f3-4de9-b76b-05b3e43b37eb,Germany,2025-02-22,9730.0,Water bottles,Plastic,3.0,6.18,18.54
+ddbbea9f-4219-44c2-91b2-205f10a5d952,Germany,2024-10-10,6107.0,Jeans,Skinny,6.0,8.91,53.46
+b06b4ec8-1a50-4c62-a830-3f49ea2b9b89,Germany,2025-01-05,3840.0,Water bottles,Plastic,3.0,11.81,35.43
+279ce2d1-507c-4d8d-83d7-b90810355c49,Germany,2024-11-13,4165.0,Jeans,Slim Fit,5.0,8.33,41.65
+164fdb8c-fd7a-4950-9736-aadc4b91b450,Germany,2024-09-05,2373.0,Shoes,Boots,7.0,10.55,73.85
+5b3a4ee2-a420-40aa-a1f5-99ee55143e7e,Germany,2024-10-01,4207.0,Perfumes,Spicy,2.0,6.26,12.52
+1011d01a-f3c7-45f2-8dd1-3aa2d9566b19,Germany,2024-09-15,4109.0,Shoes,Sports Shoes,5.0,5.81,29.05
+4bfd3801-4eab-4d0d-8ef7-b77e0f13280b,Germany,2024-05-17,2635.0,Jeans,Slim Fit,4.0,11.45,45.8
+fff3f7ef-9ddc-4c0b-8c25-db04e4c9bdec,Germany,2025-04-23,6125.0,Jeans,Skinny,6.0,12.51,75.06
+bdcddaab-6822-4d75-b4e4-f34c51dc3a8e,Germany,2025-04-04,2960.0,Tshirts,Cotton Tee,3.0,12.94,38.82
+f947e835-bdf2-4031-8ef0-cbccc87849c1,Germany,2024-07-24,7661.0,Perfumes,Citrus,2.0,11.02,22.04
+e7a38ff8-db91-4ffd-9d26-e2d1f0528bff,Germany,2025-01-01,6590.0,Tshirts,V-neck,7.0,5.72,40.04
+4e898769-6abe-4130-8e19-7c8627176819,Germany,2025-02-03,7234.0,Perfumes,Aqua,8.0,13.17,105.36
+046bc3d7-17e1-4c8b-9da8-f780b0a54369,Germany,2024-06-05,7627.0,Smart Phone,OnePlus,8.0,6.26,50.08
+d30087ae-6ada-4044-a432-7c6f89199f95,Germany,2024-11-25,3063.0,Jeans,Straight,7.0,6.8,47.6
+a2007835-156e-4644-afe0-27b426e5dd77,Germany,2025-03-24,7588.0,Perfumes,Aqua,9.0,6.14,55.26
+618b1b2e-c83b-4551-a67f-88502ba5d62a,Germany,2025-04-03,3392.0,Perfumes,Floral,2.0,7.31,14.62
+a1a5366b-318c-4c32-8771-aa3b07cd5706,Germany,2024-08-27,2414.0,Jeans,Skinny,2.0,11.97,23.94
+5863229c-02d8-4b63-80fe-6cccbee9d208,Germany,2024-12-20,3279.0,Smart Phone,iPhone,8.0,13.24,105.92
+a223621e-a257-40d7-8cb6-0e9ea97c0644,Germany,2025-05-07,6762.0,Smart Phone,Galaxy,6.0,5.84,35.04
+21f69c30-c293-4347-a127-52587e05d727,Germany,2024-12-14,8468.0,,Fresh,8.0,10.66,85.28
+286c2d47-3384-4055-b415-e6c80c95821c,Germany,2024-07-09,1763.0,Shoes,Sports Shoes,2.0,12.55,25.1
+769aff7e-a937-44c7-a538-2d43f5cd3fcb,Germany,2025-05-03,4135.0,Jeans,Slim Fit,5.0,8.42,42.1
+1f41b98b-f074-4dda-b68c-73d98e76db29,Germany,2024-07-09,2447.0,Tshirts,Polo Shirt,3.0,5.61,16.83
+e6a5cf84-2faf-465c-95ad-66554b94f3d9,Germany,2025-02-16,9454.0,Smart Phone,Realme,4.0,11.45,45.8
+614e73e0-ce56-48a6-8414-5aec664148d6,Germany,2024-05-31,3980.0,Perfumes,Spicy,4.0,5.93,23.72
+c87e332c-6b23-486b-8346-7306431c17b6,Germany,2024-09-30,5922.0,Shoes,Formal Shoes,1.0,9.46,9.46
+737ee7e5-4374-44db-ba23-9fffe2ebb14a,Germany,2025-03-22,6588.0,Shoes,Sports Shoes,8.0,10.07,80.56
+05f694c8-945e-4196-b7cf-f80b0aaa1a18,Germany,2024-08-21,6414.0,Tshirts,Polo Shirt,1.0,12.9,12.9
+b0145cbb-f683-465e-a463-74836f86dcc9,Germany,2024-08-22,4346.0,Perfumes,Fresh,5.0,7.87,39.35
+6390d5d3-e68c-4a15-9801-33f10907ec9e,Germany,2024-09-18,8068.0,Water bottles,Insulated,6.0,13.24,79.44
+83cb763e-3876-4632-a271-0801ce257693,Germany,2024-12-17,8254.0,Tshirts,Tank Top,4.0,7.19,28.76
+58fbf7c7-6183-4623-a14c-7ea0ba5e8d20,Germany,2024-10-26,2213.0,Perfumes,Spicy,1.0,6.63,6.63
+f57fd15f-a8b4-4926-a3ac-a07b34bca6b4,Germany,2024-06-03,7827.0,Jeans,Straight,3.0,13.07,39.21
+ed6f37cb-e292-439c-a0c3-18d5a5abe7f9,Germany,2024-07-06,4170.0,Tshirts,Cotton Tee,2.0,9.1,18.2
+ec0f1157-0255-4994-a1d7-3db18e56d716,Germany,2024-08-30,8896.0,Shoes,Sandals,2.0,6.22,12.44
+aa5840e6-46ef-4551-96d0-ae38d4a94520,Germany,2025-03-02,6394.0,Jeans,Regular Fit,2.0,5.56,11.12
+baf362fb-b895-4c93-828a-a3ec1f0a7308,Germany,2024-08-21,3760.0,Water bottles,Foldable,6.0,7.46,44.76
+4a337f1b-91cd-4af7-b7df-c38cf36397c0,Germany,2024-09-10,8217.0,Jeans,Slim Fit,4.0,11.78,47.12
+96a98189-3d47-40c7-8f90-364f20ce29eb,Germany,2024-09-30,2523.0,Tshirts,Full Sleeve,9.0,9.93,89.37
+796746be-68a9-42bb-bc44-427ff512730d,Germany,2024-08-05,1922.0,Water bottles,Insulated,7.0,8.06,56.42
+ba8cecfc-54d5-4514-907c-7b39d1f055ba,Germany,2024-08-07,9084.0,Jeans,Straight,2.0,11.94,23.88
+417f38c1-8e7c-4430-8ecd-d76b0200eb7f,Germany,2025-04-14,9662.0,Water bottles,Insulated,7.0,8.32,58.24
+d5afc2dd-69f3-4bf1-852d-50fdbf8aff19,Germany,2025-03-20,4040.0,Smart Phone,Realme,10.0,11.32,113.2
+86899a05-28aa-4964-a2ca-bd0cdf652d96,Germany,2025-04-30,3699.0,Water bottles,Insulated,8.0,10.39,83.12
+00698a2a-e6ac-4886-8959-765bb78707bd,Germany,2025-03-05,2815.0,Tshirts,Cotton Tee,3.0,9.55,28.65
+3ed71432-277d-4dc6-b7e4-b92786e5b158,Germany,2024-10-06,4435.0,Water bottles,Smart,1.0,6.67,6.67
+828c4bac-e5f5-483f-afd1-71410aaf1b46,Germany,2024-11-29,5882.0,Tshirts,Graphic Tee,7.0,6.83,47.81
+6c22c110-d4f1-4cf9-b12e-e3a3ae7754d2,Germany,2024-11-18,7709.0,Perfumes,Woody,9.0,5.85,52.65
+04ba966f-809c-487c-bec6-0551a39e9671,Germany,2025-01-06,7540.0,Shoes,Sneakers,4.0,7.58,30.32
+8d39db39-cd3c-4090-92ee-3db5474e8557,Germany,2024-08-06,5599.0,Perfumes,Woody,2.0,6.45,12.9
+9328cf63-d4b9-42b2-9350-f06993148969,Germany,2024-11-14,4785.0,Perfumes,Aqua,5.0,12.6,63.0
+14c6f6aa-335e-4aa5-a2dc-95f55b7f7f66,Germany,2025-05-13,8824.0,Shoes,Boots,6.0,8.48,50.88
+af05977a-5838-4d77-a5b0-69f552875036,Germany,2025-03-15,3599.0,Smart Phone,iPhone,7.0,12.53,87.71
+9f662738-b334-4662-80c1-17e5ec7be9e9,Germany,2024-11-19,9805.0,Smart Phone,Galaxy,3.0,12.34,37.02
+46c462a7-f722-4aff-b515-26dfb562b72e,Germany,2024-06-16,2054.0,Smart Phone,Galaxy,8.0,8.21,65.68
+f881ec7b-4a87-4a78-a2d8-55c2b4ac4cd1,Germany,2024-12-04,7320.0,Water bottles,Steel,9.0,13.2,118.8
+edb51a50-fb96-4c66-a327-929daf1458cf,Germany,2024-07-13,8270.0,Jeans,Skinny,10.0,8.27,82.7
+d6cab354-1ecc-40a0-82b7-87b152bf3c8a,Germany,2025-02-28,5213.0,Tshirts,Polo Shirt,7.0,10.09,70.63
+9cf5fe16-44aa-4ea7-b959-5bb255ab4e6d,Germany,2024-10-18,6826.0,Smart Phone,Xiaomi,1.0,8.02,8.02
+c47b15e0-126a-41ba-917b-afa0c981602a,Germany,2024-09-30,2828.0,Smart Phone,iPhone,2.0,10.74,21.48
+8785ffc6-70cb-4492-a73e-d6069c8339b9,Germany,2025-01-01,7992.0,Perfumes,Citrus,1.0,8.79,8.79
+02081c96-b8fd-4f81-af74-19b83cd23aaf,Germany,2025-05-03,1816.0,Jeans,Regular Fit,5.0,12.98,64.9
+59d8ac2f-34e0-4074-b495-f84d90d35298,Germany,2025-02-23,9262.0,Tshirts,V-neck,7.0,8.91,62.37
+d5c729d1-0f9f-4ee2-af06-02c6d17403d2,Germany,2024-06-25,4140.0,Jeans,Skinny,4.0,10.35,41.4
+c233abaa-15fb-44bf-89a2-b826d64dbbb0,Germany,2025-02-23,6362.0,Tshirts,V-neck,2.0,13.25,26.5
+a3a941c1-a6f7-4504-b9b3-d03b935afe43,Germany,2024-07-13,3368.0,Smart Phone,Pixel,5.0,6.64,33.2
+c26317e8-47e0-4c05-863a-329b205218cc,Germany,2024-12-10,7720.0,Water bottles,Steel,3.0,9.78,29.34
+a0e0c1c8-9156-4743-8c7f-758b8da4e2e5,Germany,2024-12-01,2356.0,Jeans,Slim Fit,7.0,12.35,86.45
+819318f2-dfce-4001-a23e-a4cbcdf160a1,Germany,2024-05-27,6466.0,Water bottles,Insulated,7.0,7.89,55.23
+bf6c9c59-704a-4a29-b81b-c235ded6ecef,Germany,2024-08-15,9634.0,Tshirts,V-neck,6.0,9.94,59.64
+bf32ed0d-fc9c-4a0f-a676-76eb662d826f,Germany,2024-11-18,6667.0,Perfumes,Citrus,9.0,12.27,110.43
+6ab54bfa-45c6-4c78-82de-f74753882299,Germany,2025-04-21,1670.0,Tshirts,Polo Shirt,9.0,9.82,88.38
+7c0bd82a-6ffa-4787-a3f9-d5ff9d74321a,Germany,2025-04-11,9122.0,Jeans,Slim Fit,5.0,5.85,29.25
+552f9fed-a10e-4d9e-8c4e-d3f422d30f66,Germany,2025-03-01,5897.0,Smart Phone,Realme,4.0,12.38,49.52
+1b69f51d-101e-42c6-92c9-65d19fc1cc6e,Germany,2025-01-01,9695.0,Jeans,Relaxed,6.0,6.43,38.58
+68a5057c-5959-45c3-bb41-8306d22dd1da,Germany,2024-11-02,3515.0,Jeans,Relaxed,10.0,7.18,71.8
+bce49724-5d4b-4593-8055-f3c8cd92b0bb,Germany,2024-05-30,2400.0,Water bottles,Plastic,1.0,11.01,11.01
+5b7faafe-f302-46bd-a199-0278e12587f7,Germany,2024-09-15,4563.0,Perfumes,Floral,2.0,8.71,17.42
+05052c45-dc63-4396-bef3-4fdb8e9cfa94,Germany,2025-01-30,9144.0,Shoes,Sneakers,3.0,9.82,29.46
+51ed328b-dfef-4ce2-9716-4e3c74389b38,Germany,2024-12-13,4564.0,Tshirts,Tank Top,3.0,10.66,31.98
+65cd5ee7-5eeb-48bf-9b7a-a110f140ab80,Germany,2024-11-15,1041.0,Jeans,Bootcut,2.0,10.98,21.96
+c6d9d7fa-9c08-4e1b-8fa9-67a97220abf9,Germany,2025-04-02,8872.0,Tshirts,Cotton Tee,2.0,11.62,23.24
+aa92e1d3-150a-4591-97e8-a949d483cb09,Germany,2025-03-13,9271.0,Perfumes,Citrus,1.0,12.93,12.93
+5fe8b045-7bb7-4068-b4c1-f9b4108e7b32,Germany,2024-10-04,5543.0,Smart Phone,OnePlus,8.0,13.22,105.76
+4e8bafc4-cb20-4d25-9891-f8834c8706bb,Germany,2025-01-03,4375.0,Water bottles,Smart,5.0,11.45,57.25
+eaeb4c59-6df0-4b4e-99ad-eec2ac1445af,Germany,2024-08-29,9519.0,Smart Phone,OnePlus,10.0,12.13,121.3
+3e99fd32-c28c-47bb-ac47-5be8c263cf0d,Germany,2024-11-30,6510.0,Perfumes,Aqua,3.0,9.12,27.36
+45a937a9-79d2-4895-9203-68b2a9b7fb58,Germany,2024-10-31,7213.0,Jeans,Slim Fit,2.0,11.1,22.2
+e5dc2616-9514-418f-91b9-aa71c7b6ba72,Germany,2024-05-28,8887.0,Perfumes,Citrus,7.0,9.34,65.38
+4d90e891-537e-4657-9c94-c00804cc4773,Germany,2025-02-19,6012.0,Water bottles,Steel,10.0,11.81,118.1
+6e919cf9-c40d-4418-bbe6-cd4138ffecca,Germany,2024-12-08,1043.0,Tshirts,Cotton Tee,2.0,10.45,20.9
+c486ca71-4400-4cc6-950f-2960d47f5d50,Germany,2025-01-06,1880.0,Water bottles,Smart,7.0,9.09,63.63
+f30fe9da-f254-470f-a7a8-87ef7ca3f6b2,Germany,2025-02-07,6665.0,Tshirts,Graphic Tee,2.0,7.8,15.6
+76bc70a0-97ff-4fd8-9c25-28d335e3ebf6,Germany,2024-11-11,3047.0,Smart Phone,OnePlus,8.0,9.53,76.24
+0c389a24-a9fb-4275-8d0b-44e9fe7df350,Germany,2024-06-25,5133.0,Water bottles,Insulated,7.0,6.7,46.9
+3a8d24d6-dbda-4b93-b471-527a765c2768,Germany,2025-03-07,3833.0,Perfumes,Citrus,8.0,8.01,64.08
+77e267ad-5d83-45ff-b14d-34105a36bad7,Germany,2024-11-24,4657.0,Perfumes,Aqua,10.0,6.54,65.4
+f7663db2-a5ed-4b34-8536-8ab557b535d1,Germany,2025-02-21,7129.0,Jeans,Straight,10.0,12.23,122.3
+aa49faab-9e9c-4f2a-b6c8-7c6c77b42cd6,Germany,2024-09-12,6726.0,Tshirts,Graphic Tee,3.0,11.56,34.68
+c6769625-d580-4bc0-8484-e7578d7cf0c2,Germany,2025-01-30,6933.0,Tshirts,Polo Shirt,1.0,12.83,12.83
+a753b685-1904-4f35-8067-e1dded8f2ec6,Germany,2024-10-19,3545.0,Smart Phone,Pixel,4.0,9.48,37.92
+87e94307-e8f2-4352-a5de-7e4fc99404b2,Germany,2025-03-10,2926.0,Water bottles,Plastic,7.0,6.84,47.88
+2aeabc3a-6919-43ce-b183-c226c6d575e0,Germany,2024-08-14,1030.0,Water bottles,Plastic,2.0,10.32,20.64
+1a0d12e1-770b-48a3-84ab-90e44cf30233,Germany,2024-08-19,7560.0,Jeans,Slim Fit,10.0,10.87,108.7
+f9ce407a-ff41-4009-97c8-7e0fce8e9fda,Germany,2024-11-02,5765.0,Shoes,Boots,1.0,12.1,12.1
+b6b166da-596b-40ba-8e54-1da71fde4909,Germany,2024-09-15,6571.0,Tshirts,V-neck,1.0,12.37,12.37
+b67e82c0-84a8-4b26-8aaf-7ae7fea44402,Germany,2024-08-06,9180.0,Water bottles,Plastic,6.0,12.35,74.1
+b6c12525-5f73-4838-888c-fa0ff0572b06,Germany,2025-03-07,1607.0,Shoes,Sports Shoes,9.0,9.31,83.79
+30e2fbe9-0680-409e-b623-850e1f66b98f,Germany,2025-01-05,8538.0,Water bottles,Insulated,10.0,8.2,82.0
+07ff5498-ad84-48a2-9da3-68c959123e03,Germany,2025-01-24,8181.0,Perfumes,Aqua,8.0,7.27,58.16
+621a8cbf-f0ab-4589-8907-2f62bfeca531,Germany,2024-11-08,5418.0,Water bottles,Plastic,3.0,12.39,37.17
+8b01c9be-7d27-419b-888f-c1e1931a8fd8,Germany,2024-10-28,3917.0,Shoes,Boots,8.0,6.74,53.92
+50563fa8-5006-4ffb-876c-ae1cf1b46b8c,Germany,2025-02-02,2603.0,Tshirts,Tank Top,6.0,7.62,45.72
+27f5e4d5-b421-46c0-a763-b8fe65dab531,Germany,2024-06-25,6982.0,Tshirts,Full Sleeve,8.0,8.42,67.36
+3c817b14-c7d4-49ba-8f77-d5c0940b8668,Germany,2025-01-27,8975.0,Jeans,Slim Fit,4.0,7.6,30.4
+e112b126-5e36-416d-bd7a-a6a5fff6a3fa,Germany,2025-01-30,7676.0,Tshirts,Cotton Tee,7.0,11.69,81.83
+74572280-0ecb-445e-bd32-5d960ba4475b,Germany,2024-07-02,4512.0,Perfumes,Woody,5.0,9.6,48.0
+f78fd863-15db-4e89-8772-78074524a8de,Germany,2024-08-04,4176.0,Jeans,Relaxed,5.0,11.83,59.15
+45a8abb1-130c-43bd-81de-80419cb20bbd,Germany,2024-07-26,1772.0,Tshirts,V-neck,4.0,9.95,39.8
+db7611cd-e928-4668-b7d5-1bca9a8598af,Germany,2024-09-11,3702.0,Perfumes,Floral,8.0,5.63,45.04
+f9bfa7ad-4f4c-4b42-a29f-ef1e7e14686b,Germany,2025-01-07,4686.0,Perfumes,Fresh,10.0,9.36,93.6
+c59aa49d-b657-494f-bad3-20e2504b402a,Germany,2025-02-20,8235.0,Perfumes,Citrus,5.0,13.04,65.2
+1003a4ad-e26a-471b-91f7-8e4ec4c4a450,Germany,2025-02-07,5391.0,Perfumes,Spicy,3.0,10.8,32.4
+322e2f0e-05b8-4314-b698-918085293585,Germany,2025-02-11,6976.0,Water bottles,Steel,10.0,11.91,119.1
+63cc0601-2743-4a1b-9052-857e8f8b55d1,Germany,2025-03-30,1412.0,Jeans,Relaxed,8.0,6.76,54.08
+d98c8b2e-f96c-47ab-ac92-3aa8837fa030,Germany,2024-09-24,4887.0,Jeans,Bootcut,2.0,12.92,25.84
+cf4d9e6c-788b-4ccd-babd-dfeae59cfdf4,Germany,2024-12-29,5332.0,Perfumes,Aqua,4.0,6.29,25.16
+117cbbe9-ccc7-42fe-8745-77f9b52178c0,Germany,2024-07-07,3723.0,Perfumes,Citrus,7.0,7.71,53.97
+a85d6083-a06a-4d3a-838b-f10a1357d2fe,Germany,2024-07-17,7186.0,Smart Phone,Realme,2.0,7.08,14.16
+95e8a0a0-1bb3-49e4-ac5b-9ce61525d26e,Germany,2024-11-19,9954.0,Jeans,Relaxed,1.0,8.86,8.86
+2591316b-fa7b-4223-8e57-e676914ecec3,Germany,2025-04-06,6458.0,Jeans,Bootcut,3.0,7.04,21.12
+4e5ecba4-dd7a-438d-9e62-e113cf5cf1dd,Germany,2024-10-14,4518.0,Water bottles,Glass,10.0,6.6,66.0
+d1a8270a-afba-459b-9ff1-e3932e4d1186,Germany,2024-09-14,5692.0,Water bottles,Plastic,7.0,6.23,43.61
+85514ed6-1c00-4740-938f-aa8eecae4832,Germany,2024-06-20,6613.0,Jeans,Regular Fit,7.0,8.2,57.4
+ebdeaaf9-61cd-4d0c-b6bd-822c15d80f71,Germany,2024-11-04,4073.0,Tshirts,Cotton Tee,2.0,11.71,23.42
+afe906ad-04ae-4c4d-b764-190b82de9e73,Germany,2024-09-22,4376.0,Shoes,Boots,3.0,8.58,25.74
+a4ba55b5-a5e7-4785-9355-e6538d784cb2,Germany,2024-12-09,4545.0,Perfumes,Woody,1.0,7.3,7.3
+b8e725eb-f383-41e3-9666-7cff71cea101,Germany,2024-10-27,5930.0,Shoes,Loafers,1.0,9.71,9.71
+c751f523-897c-4f4e-9987-0d8cc7c33f17,Germany,2025-04-27,3204.0,Shoes,Sandals,6.0,10.2,61.2
+13127c2b-f234-4465-8724-89f72a72b033,Germany,2024-08-23,4249.0,Tshirts,Cotton Tee,9.0,13.12,118.08
+f98b05df-4457-4f40-92da-47ac3e30ed5e,Germany,2024-06-06,4024.0,,V-neck,5.0,10.26,51.3
+3501ce80-8aad-4693-ab42-88737162ef9f,Germany,2025-05-02,1026.0,Tshirts,V-neck,6.0,11.15,66.9
+c7180cf2-e0e2-4494-bb4f-99148216a806,Germany,2024-10-14,7910.0,Perfumes,Spicy,4.0,6.27,25.08
+6f7c4fd6-7bb0-4de3-aa3e-3c23a95186d0,Germany,2024-06-25,8619.0,Shoes,Boots,3.0,12.75,38.25
+9a8c1761-bd8e-4507-a4f6-2acb609141dd,Germany,2024-10-05,2076.0,Shoes,Sneakers,10.0,13.3,133.0
+f55db579-2f7f-4a73-aa81-5581a2f23a9f,Germany,2024-06-19,,Jeans,Skinny,2.0,6.39,12.78
+86078b10-8bac-439c-882d-26490ab32f56,Germany,2025-04-07,7467.0,Shoes,Sandals,10.0,9.16,91.6
+4cbffa9d-a822-4fae-8ca0-9c818f981207,Germany,2024-06-22,4643.0,Water bottles,Foldable,3.0,12.27,36.81
+d3bd7e0d-e2d4-4e2a-b9e7-78780b7283ce,Germany,2025-01-29,3651.0,Jeans,Regular Fit,7.0,10.98,76.86
+a782e9d2-4c20-4369-984e-af52631a7806,Germany,2024-09-18,7563.0,Smart Phone,Xiaomi,7.0,13.06,91.42
+779ee330-6ded-43f8-9d60-cc7341b74316,Germany,2024-09-06,2365.0,Jeans,Straight,4.0,9.47,37.88
+b7c9debe-52a9-487f-8979-286366ba2851,Germany,2025-04-30,4779.0,Smart Phone,Galaxy,5.0,11.99,59.95
+630c1e84-053b-4b94-ae85-e8619bf63df3,Germany,2025-03-14,4759.0,Tshirts,Full Sleeve,4.0,11.68,46.72
+d0794a04-5617-4d9e-a174-cb534c61d505,Germany,2025-01-26,7123.0,Tshirts,Tank Top,5.0,8.16,40.8
+30158278-198f-4ed1-92e9-06548f03e621,Germany,2024-10-15,9926.0,Water bottles,Smart,,7.22,36.1
+76ec8b23-6429-4af4-945f-2b792467517c,Germany,2024-05-18,8575.0,Water bottles,Plastic,4.0,11.35,45.4
+f5f21b99-1e2c-423c-acd6-bb1d46fb4c7e,Germany,2024-09-19,6585.0,Jeans,Regular Fit,9.0,8.94,80.46
+cbbf77ab-66ca-4c9c-abff-d2bff3dda144,Germany,2024-05-15,2852.0,Jeans,Regular Fit,4.0,8.45,33.8
+ede18254-bc27-4701-9246-67536c66ccf5,Germany,2025-03-03,1410.0,Tshirts,Full Sleeve,7.0,11.51,80.57
+749b5bee-8292-4f7f-b534-efc58ce73502,Germany,2024-10-03,9427.0,Perfumes,Woody,9.0,5.96,53.64
+d7d19fa2-dd66-4ebb-a43d-930002adcdde,Germany,2025-05-09,4260.0,Shoes,Boots,5.0,7.52,37.6
+8b949c8b-5e38-4f70-be60-2765c5cfd696,Germany,2024-08-11,1069.0,Perfumes,Floral,10.0,9.88,98.8
+3d439f5e-72d9-4645-9cb1-c89e68834f57,Germany,2025-04-22,6345.0,Perfumes,Woody,1.0,9.43,9.43
+4fbe5bf9-7ae2-455c-959f-3cf1d9edaf6a,Germany,2024-09-22,5156.0,Jeans,Bootcut,10.0,5.78,57.8
+c580424f-37b9-4cc5-92eb-c686609c17ac,Germany,2025-02-06,3669.0,Jeans,Straight,9.0,12.72,114.48
+0c0dc186-4de3-4d66-94dc-5cccbc01f14d,Germany,2025-05-01,3466.0,Shoes,Sports Shoes,8.0,8.62,68.96
+307c68e0-3e9a-46d6-8b07-475ae92f924a,Germany,2024-06-16,7023.0,Tshirts,Polo Shirt,7.0,11.99,83.93
+95395f76-a281-45a2-b396-523a8362dbe6,Germany,2025-02-12,1195.0,Perfumes,Citrus,6.0,8.75,52.5
+cedaccec-56c0-4f2b-b875-c569ee85fb01,Germany,2025-03-04,1933.0,Perfumes,Aqua,7.0,10.87,76.09
+12dee971-4daf-4e3f-92b8-9c2ae4ac24e1,Germany,2024-07-03,7425.0,Shoes,Sandals,9.0,6.95,62.55
+3b5b1d47-cf24-4b55-8a76-7f5640dcdba4,Germany,2025-03-05,6255.0,Tshirts,Cotton Tee,10.0,12.25,122.5
+629b7997-72be-4ac8-bd33-8c193576237c,Germany,2024-12-16,5241.0,Jeans,Straight,8.0,11.3,90.4
+741b8f3d-8eae-475f-818c-c4131d848484,Germany,2025-03-06,8136.0,Shoes,Boots,7.0,12.47,87.29
+6345239e-0267-4114-8f86-2b69db92cb57,Germany,2024-08-30,6081.0,Perfumes,Citrus,8.0,10.42,83.36
+a7f3398f-f444-47ef-b116-06675318d0ae,,2025-04-06,4820.0,Perfumes,Spicy,8.0,8.47,67.76
+c3370882-a398-460d-947c-c606d7bf0636,Germany,2024-11-13,1730.0,Smart Phone,Realme,1.0,12.82,12.82
+43a2647c-2d52-4504-b9cd-ea833a470c64,Germany,2024-12-25,5951.0,Smart Phone,Xiaomi,2.0,6.12,12.24
+88884491-e59b-4185-87e9-773e8af7e654,Germany,2025-04-12,,Perfumes,Citrus,2.0,6.47,12.94
+df8d0ac1-b36e-4e45-8db0-3f46962e9b70,Germany,2024-10-31,2918.0,Perfumes,Woody,2.0,10.61,21.22
+582d1e50-fda6-4971-97bd-21248a994696,Germany,2024-10-11,3657.0,Smart Phone,OnePlus,7.0,10.28,71.96
+98276b5e-747b-4ec8-8d2c-c4dc7bd06794,Germany,2025-03-12,7775.0,Tshirts,Full Sleeve,2.0,9.37,18.74
+1b8549f8-1aed-4b3b-9e0b-c3a2d4fb02df,Germany,2024-06-02,8931.0,Perfumes,Citrus,2.0,5.76,11.52
+790003b9-937d-472e-be44-492ff40f9b9c,Germany,2024-10-13,8365.0,Water bottles,Glass,10.0,8.5,85.0
+be4106d0-ac71-43d1-8a38-da425cafca04,Germany,2024-09-27,3726.0,Water bottles,Plastic,5.0,7.86,39.3
+35c85907-939d-4deb-aee1-2e2d632cb8db,Germany,2024-09-05,9657.0,Shoes,Sports Shoes,7.0,12.8,89.6
+6ab77dd4-bddc-40ba-994f-dbf8dbb7ae2d,Germany,2024-05-18,2108.0,Shoes,Sneakers,6.0,8.69,52.14
+ee75ff64-21d8-4576-84f7-97c237ee8f02,Germany,2024-10-20,9976.0,Tshirts,Full Sleeve,7.0,9.34,65.38
+c47cd413-9ff2-4cff-88a5-26c679f29626,Germany,2025-04-13,8255.0,Water bottles,Foldable,8.0,8.13,65.04
+74ca8521-e3ef-44b7-b0d2-30e3e2163ec3,Germany,2024-10-31,8674.0,Tshirts,Polo Shirt,3.0,8.53,25.59
+3482c8bf-a77d-48ce-81c2-27fd0a77201e,Germany,2024-12-21,2142.0,Smart Phone,Galaxy,9.0,10.88,97.92
+0e1fe432-15dc-4535-890b-07d5ab8a5c06,Germany,2024-10-31,4905.0,Shoes,Sandals,5.0,6.95,34.75
+2148c1f4-1f8a-4673-9b8b-0b44fd04e5e7,Germany,2024-12-15,7872.0,Jeans,Bootcut,4.0,6.17,24.68
+cb005473-a922-47e9-affb-80322c21d58c,Germany,2024-05-26,4764.0,Water bottles,Insulated,3.0,10.39,31.17
+05c656cc-610b-4ab9-87a9-087e409238d6,Germany,2025-03-15,4712.0,Shoes,Sports Shoes,7.0,6.35,44.45
+661980c8-0097-423f-aac9-0c4dae17d199,Germany,2025-01-06,6632.0,Jeans,Straight,5.0,12.88,64.4
+574d5150-30d3-40de-a169-6a07a78484a2,Germany,2024-10-30,9809.0,Water bottles,Insulated,1.0,11.88,11.88
+c74d9c94-52b7-4822-a44c-347ae144b6aa,Germany,2024-07-07,3237.0,Jeans,Bootcut,6.0,11.35,68.1
+7b7e2f8d-3e10-4df1-97f8-6ee9817f4667,Germany,2025-02-15,5340.0,Water bottles,Steel,2.0,5.78,11.56
+d3f9a489-e2c2-4f4e-87f3-b67e40f99662,Germany,2024-12-15,6581.0,Jeans,Skinny,10.0,11.77,117.7
+f63b93bf-1dcf-47ba-9b4c-5a823ed31eb3,Germany,2024-12-24,6932.0,,Sneakers,4.0,12.47,49.88
+e78e3f5d-4f9e-4382-b68c-c63e599dbe1a,Germany,2024-07-08,6308.0,Water bottles,Foldable,3.0,9.72,29.16
+6902ad05-71ae-45b1-b974-046a3f617ca8,Germany,2025-03-05,3162.0,Water bottles,Insulated,6.0,10.75,64.5
+07a523cb-ccfb-4e47-9540-e2e15d7b5b55,Germany,2024-11-16,9684.0,Smart Phone,Galaxy,7.0,7.99,55.93
+8b5af1d2-7256-4a3e-b5e8-ea6ea335edb8,Germany,2024-10-15,4746.0,Jeans,Slim Fit,7.0,7.73,54.11
+214bb3fe-f371-4fac-9710-4075b8dbfc46,Germany,2024-07-18,2231.0,Shoes,Formal Shoes,4.0,8.73,34.92
+e6e723a2-08c0-41d7-bb04-6535eac3ff36,Germany,2025-04-28,8732.0,Shoes,Sandals,10.0,11.3,113.0
+7be9cb19-c6d8-4f62-8644-8c6290dc3842,Germany,2024-07-14,9509.0,Water bottles,Smart,4.0,8.31,33.24
+cc2e4560-d38c-4ef3-b3f6-ac677f3f85cc,Germany,2025-02-09,5122.0,Tshirts,Full Sleeve,4.0,7.25,29.0
+4f497e7e-ce39-4ee9-a852-46aacd2b1777,Germany,2024-12-20,7696.0,Smart Phone,Realme,2.0,10.32,20.64
+1cf423ea-d143-4d59-9386-e7f12c765e0e,Germany,2024-11-14,2881.0,Water bottles,Steel,4.0,10.63,42.52
+31d7bc49-3c05-4a87-8222-b3006d5719ab,Germany,2025-03-05,9878.0,Smart Phone,OnePlus,6.0,8.71,52.26
+7893f0a7-01b2-4429-81ad-cfe78e84687a,Germany,2024-05-15,1677.0,Smart Phone,iPhone,7.0,13.2,92.4
+4fed9d44-7cd7-4303-86ee-20c12dc5ab49,Germany,2024-09-22,2299.0,Smart Phone,iPhone,8.0,9.98,79.84
+25aaf06d-056d-424d-b062-1680266a8733,Germany,2025-02-02,5875.0,Water bottles,Steel,10.0,11.31,113.1
+111b53e7-4586-4cc2-b276-285b5dd7cb88,Germany,2024-10-15,5512.0,Perfumes,Spicy,8.0,11.08,88.64
+23327bfd-9e98-47f7-bf8f-e1c687a2c2ec,Germany,2025-01-24,2116.0,Smart Phone,OnePlus,5.0,12.49,62.45
+44e12017-e356-4ae8-9e52-54330e38c346,Germany,2024-10-18,8328.0,Water bottles,Plastic,9.0,8.78,79.02
+d342b587-2bba-474c-8699-2fb440bb9671,Germany,2024-06-02,8885.0,Jeans,Straight,4.0,9.55,38.2
+5776a917-c45a-40ac-a896-941f88d8845d,Germany,2024-09-04,4090.0,Smart Phone,OnePlus,4.0,5.85,23.4
+f7b453f5-92a7-4604-836d-f96e33a032ee,Germany,2024-10-05,4897.0,Smart Phone,Pixel,8.0,11.86,94.88
+65dc8a7e-3756-4efe-8e2e-160ab054d5c8,Germany,2024-12-07,7983.0,Shoes,Loafers,8.0,5.8,46.4
+dd4b31a3-1682-48e9-8bad-d0cc0c89956d,Germany,2024-08-22,8297.0,Shoes,Sneakers,10.0,9.03,90.3
+3aa79ba9-274d-4fe5-982b-d35cfa529fce,Germany,2024-07-05,2236.0,Jeans,Bootcut,2.0,6.54,13.08
+88120589-a9e5-4b45-bdd4-b02d449482cb,Germany,2024-09-23,9194.0,Smart Phone,iPhone,4.0,12.93,51.72
+a25f6026-9ef7-497f-9987-7296b42557ec,Germany,2024-11-08,1114.0,Perfumes,Aqua,1.0,5.91,5.91
+b8ed0933-0b56-4fd8-9d6f-7fb7187cc428,Germany,2024-06-24,8082.0,Shoes,Formal Shoes,7.0,5.92,41.44
+d8d68519-fb31-4227-9bfb-5f8a7f10e373,Germany,2024-11-17,3166.0,Shoes,Formal Shoes,3.0,11.28,33.84
+59b3a79c-210e-4075-9e0f-93750717ec47,Germany,2024-06-11,6780.0,Shoes,Formal Shoes,6.0,8.52,51.12
+b47cf9be-3a12-4eae-bcff-9604205705da,Germany,2024-07-11,8372.0,Shoes,Formal Shoes,7.0,12.99,90.93
+44c6690c-d4d2-4eb8-80f5-d0ccd77eb5b7,Germany,2024-12-23,9282.0,Shoes,Loafers,3.0,7.81,23.43
+1a676c83-e8d4-4a35-97e8-64ca2959b968,Germany,2024-09-24,3046.0,Smart Phone,Galaxy,1.0,12.7,12.7
+3604ebe1-d7a2-4491-adea-4b8713cb97cc,Germany,2025-03-21,5627.0,Tshirts,V-neck,1.0,10.83,10.83
+04f73813-f93d-4ee6-aa35-295e99fea79b,Germany,2025-04-30,4006.0,Perfumes,Fresh,2.0,6.43,12.86
+77be1204-cf8a-460c-8fb0-98f94c8d03f6,Germany,2025-03-31,3596.0,Jeans,Bootcut,6.0,12.17,73.02
+99ee2665-5888-4ed9-a15a-6d3a62aebdb6,Germany,2024-06-13,8554.0,Tshirts,Cotton Tee,10.0,12.34,123.4
+c0620e1c-e1c2-4249-abfe-6eb67ae25bd2,Germany,2024-08-22,5867.0,Perfumes,Fresh,6.0,10.06,60.36
+3292d4d1-4e43-4186-a2a6-b74730f70723,Germany,2025-01-13,9116.0,Tshirts,Tank Top,6.0,6.69,40.14
+ddf4576b-f977-4e47-9a85-9d272a2fbccd,Germany,2024-10-07,9495.0,Water bottles,Insulated,7.0,8.68,60.76
+0b02be16-a5c8-4c04-ad25-34edddd62795,Germany,2025-04-03,5427.0,Shoes,Formal Shoes,8.0,9.01,72.08
+04cda3ea-a5b3-4115-88b0-5aafed97af62,Germany,2025-01-17,5800.0,Tshirts,Tank Top,7.0,12.83,89.81
+6b33f714-dd38-4a74-94c8-5e22788cec34,Germany,2024-06-02,1500.0,Water bottles,Steel,8.0,8.72,69.76
+497e1b15-914f-4104-8cc2-44a5b89320a0,Germany,2024-05-17,2078.0,Smart Phone,Pixel,7.0,13.15,92.05
+7ba13fe9-5ab5-4ea8-b2f1-c6db6b405218,Germany,2024-08-10,8829.0,Jeans,Relaxed,1.0,12.5,12.5
+e104e84c-49b9-4f84-a0a0-38fc6a4a8676,Germany,2024-07-18,7257.0,Water bottles,Plastic,7.0,9.72,68.04
+b1a191c7-f810-4e73-877a-0940b1cc3f7c,Germany,2025-04-02,3062.0,Perfumes,Spicy,1.0,9.78,9.78
+275ec353-9809-49e5-82fe-b5895db00973,Germany,2025-05-07,1541.0,Perfumes,Aqua,3.0,8.66,25.98
+997f14d6-c829-4373-a99f-96c93887e814,Germany,2024-08-11,2384.0,Water bottles,Plastic,3.0,5.57,16.71
+ec469e83-44b7-454b-b51c-6ebcb7c3dd6c,Germany,2025-04-01,3429.0,Jeans,Skinny,5.0,10.33,51.65
+f1b894b7-1bd5-4014-bde1-cef6777da5d0,Germany,2025-02-14,2862.0,Shoes,Boots,4.0,10.99,43.96
+d1d0cc64-2f31-47fa-b5ca-15dcc08c62fc,Germany,2024-07-23,1208.0,Smart Phone,iPhone,2.0,7.3,14.6
+10d6a6f8-a256-420a-82f3-5565e0f92b39,Germany,2024-12-02,4649.0,Shoes,Sneakers,2.0,7.99,15.98
+9c5ea99f-5478-43ab-ba98-a0fe37a95691,Germany,2024-12-04,5471.0,Smart Phone,Galaxy,8.0,9.03,72.24
+29e0a292-4e61-4940-8d16-aeab72c8b629,Germany,2024-07-14,9826.0,Jeans,Regular Fit,10.0,11.8,118.0
+cb3f5768-d585-49af-be0b-1d6ba32ac6b9,Germany,2025-03-05,6292.0,Shoes,Sandals,6.0,11.21,67.26
+6a5a2d72-af34-4e9d-aad1-4f029dd01cdb,Germany,2025-05-03,3765.0,Smart Phone,,3.0,8.96,26.88
+e9ababc8-c4e6-427c-ae68-1e0b2a89bad4,Germany,,8618.0,Perfumes,Woody,2.0,8.73,17.46
+67164d37-3c7c-4085-8784-f38bba85241b,Germany,2024-09-17,4322.0,Water bottles,Plastic,8.0,11.26,90.08
+0411f8dd-9011-49f9-9ae8-be7a24ac0060,Germany,2024-12-23,1910.0,Shoes,Sneakers,7.0,11.63,81.41
+740a5464-d7a9-4992-8cf5-09eb6eacc868,Germany,2024-10-18,8399.0,Smart Phone,Pixel,2.0,8.96,17.92
+d78f95c3-3fd9-4587-bd27-edc080d436f6,Germany,2025-02-24,6211.0,Jeans,Bootcut,9.0,6.4,57.6
+0d7079bd-f037-43d6-a89d-db8c4282c052,Germany,2025-02-15,5655.0,Tshirts,Polo Shirt,9.0,9.56,86.04
+1ffc2123-3fa3-4888-a42c-150f2d10b3d5,Germany,2024-10-16,8092.0,Shoes,Sandals,9.0,9.14,82.26
+cfb988f6-5d1a-41a6-b34b-182071603b59,Germany,2025-04-14,4787.0,Shoes,Loafers,9.0,12.59,113.31
+966539d0-6676-4d75-9316-ed5daf14b802,Germany,2024-05-21,8680.0,Shoes,Formal Shoes,2.0,7.43,14.86
+559986e7-38f1-4f3d-b1a4-4be98ed4e35b,Germany,2024-11-07,1826.0,Perfumes,Woody,10.0,9.43,94.3
+6c50520b-3ae1-4621-bc5a-c9062e4827e2,Germany,2024-09-11,3499.0,Tshirts,Tank Top,5.0,11.47,57.35
+eef39b66-79c4-46f8-8216-50554b09edf3,Germany,2024-08-20,1900.0,Water bottles,Steel,9.0,7.47,67.23
+0b797acf-58ca-4e2a-baeb-35623de1dade,Germany,2024-09-16,2189.0,Shoes,Boots,2.0,11.42,22.84
+3fa03182-2021-470d-8c56-b0286656bec2,Germany,2025-03-29,2570.0,Shoes,Sports Shoes,4.0,7.56,30.24
+b56d7ac7-7ccb-436d-8741-1d40d1a0635e,Germany,2024-06-17,6840.0,Tshirts,Tank Top,5.0,8.03,40.15
+7fa7f07d-dbf4-4ef7-88c9-49cb53031bdb,Germany,2024-06-04,7083.0,Perfumes,Aqua,1.0,11.75,11.75
+166d0b64-db19-4bf7-9f4c-8833d02191ac,Germany,2024-07-04,9367.0,Jeans,Straight,5.0,6.27,31.35
+f0fe4ca8-091c-44c7-900a-950ecd00348b,Germany,2024-11-18,5160.0,Jeans,Bootcut,10.0,6.98,69.8
+11817582-f95f-4b2f-8318-7084ee7d6068,Germany,2025-01-08,8707.0,Jeans,Bootcut,2.0,7.31,14.62
+7f494f83-b127-46fd-954b-631f1c2de327,Germany,2025-04-12,2986.0,Shoes,Sports Shoes,4.0,10.79,43.16
+6ea7751c-646f-4c80-ae8b-c68be4e620b9,Germany,2025-03-19,4778.0,Tshirts,Tank Top,3.0,6.69,20.07
+a1bde1ac-83d2-463e-b573-6bb82c762354,Germany,2025-01-21,1285.0,Shoes,Loafers,4.0,10.89,43.56
+1ecd97f5-6e3a-44ad-88a9-581ed7036509,Germany,2025-02-27,3197.0,Tshirts,V-neck,2.0,10.09,20.18
+abdda8c5-130e-4283-9a21-87c8d86a8dbf,Germany,2025-01-29,8087.0,Tshirts,V-neck,6.0,12.81,76.86
+025ebdbb-21a4-4525-90e1-9f953cc94bec,Germany,2025-04-18,8507.0,Tshirts,Cotton Tee,4.0,9.17,36.68
+500a8aa0-12ba-4406-b086-33fd6f91cbb3,Germany,2024-05-30,5737.0,Tshirts,V-neck,1.0,8.9,8.9
+9b6bc8bd-507c-4388-8e03-1c3627623cda,Germany,2024-12-18,2608.0,Perfumes,Aqua,2.0,13.15,26.3
+09cbba81-3506-44d2-9809-9f1289b6e4cd,Germany,2024-08-31,4982.0,Perfumes,Fresh,6.0,10.16,60.96
+685a8e53-1d27-4978-85e3-81a28e0b7991,Germany,2024-11-27,9641.0,Shoes,Formal Shoes,6.0,9.09,54.54
+eebea50d-5a6c-433e-af5f-8913d13a962d,Germany,2024-10-24,7255.0,Water bottles,Smart,4.0,10.44,41.76
+c23d2381-6677-4c0c-be46-5a135585b3b3,Germany,2024-12-16,8841.0,Shoes,Boots,2.0,8.98,17.96
+03147f77-08c6-4c7a-8625-37e02d14b4e2,Germany,2024-11-16,3565.0,Water bottles,Plastic,10.0,12.31,123.1
+a368d7fa-b958-4979-8074-7f3fd2f9a8de,Germany,2024-12-15,2839.0,Smart Phone,Xiaomi,5.0,12.32,61.6
+dd63a743-f192-4d87-ab34-26b9ac58c5d2,Germany,2024-09-03,7880.0,Tshirts,Graphic Tee,2.0,9.02,18.04
+84092d5c-7752-4c64-848a-c7a3486032b2,Germany,2024-08-08,1814.0,Water bottles,Steel,7.0,5.8,40.6
+718595d1-9a89-4dbd-a67c-d512c4c604cb,Germany,2025-04-22,9526.0,Water bottles,Smart,7.0,9.87,69.09
+a0f9bfd0-9580-41aa-9931-ba4cc29ec3a9,Germany,2024-12-21,2691.0,Tshirts,Cotton Tee,9.0,6.2,55.8
+fa18e71f-58bf-4bef-815b-8dada43c2d7b,Germany,2024-09-01,5263.0,Jeans,Relaxed,3.0,8.38,25.14
+9075e069-4370-41d1-bb16-19ac63350ca2,Germany,2024-05-27,8123.0,Tshirts,Graphic Tee,3.0,11.61,34.83
+b924cc7b-83dd-4c2c-86df-fb726100c7f1,Germany,2024-10-23,2120.0,Perfumes,Floral,2.0,7.26,14.52
+c34ae3df-566e-4d36-8fa9-ef09de4f495b,Germany,2024-11-20,7962.0,Smart Phone,OnePlus,7.0,12.78,89.46
+0ba18cf1-6e5d-4cb5-9ab4-f09b4de80b73,Germany,2024-09-27,9253.0,Smart Phone,Xiaomi,7.0,11.99,83.93
+a7e3e464-a035-47be-aa85-dbc10c7f1bc5,Germany,2024-10-31,3206.0,Tshirts,Tank Top,5.0,7.73,38.65
+f61962af-d5bb-44bc-877d-51d259782ca7,Germany,2024-09-25,8695.0,Water bottles,Steel,1.0,5.57,5.57
+cb6b078b-7b6b-4fc1-ba10-b865b418f5ac,Germany,2024-08-15,4277.0,Jeans,Regular Fit,6.0,13.04,78.24
+b000d73d-7ec0-4731-a0e7-38531973b2bd,Germany,2024-12-16,8881.0,Jeans,Straight,8.0,12.65,101.2
+292ff954-c863-453a-9786-eef21bb74787,Germany,2025-04-05,5639.0,Jeans,Regular Fit,1.0,7.19,7.19
+2758d04f-ac5d-4cf5-bb01-2a158c295915,Germany,2024-05-18,2695.0,Water bottles,Smart,5.0,10.79,53.95
+0ebd5e22-aa2f-4040-833b-244024c17bb6,Germany,2024-07-06,1947.0,Perfumes,Citrus,5.0,6.99,34.95
+9700abb0-4bb8-491d-9793-f70eff2d79ad,Germany,2024-05-26,4881.0,Perfumes,Citrus,3.0,6.93,20.79
+22963760-7a72-4c7a-828f-7c01853acb89,Germany,2024-09-11,9620.0,Tshirts,V-neck,3.0,9.33,27.99
+0f37649d-abd7-426d-85bf-163c38422031,Germany,2024-05-24,6126.0,Tshirts,V-neck,9.0,13.22,118.98
+9e537b3b-4ea5-4999-9d76-6868284a9c8d,Germany,2025-05-12,1290.0,Water bottles,Steel,9.0,7.2,64.8
+b6c02711-f941-4aad-b10f-71f57de14528,Germany,,8170.0,Smart Phone,Galaxy,9.0,8.8,79.2
+f636d085-90ff-4afd-9171-8c7efdd8d2b2,Germany,2025-01-19,2634.0,Shoes,Sneakers,6.0,10.28,61.68
+60a9e072-cc67-4a1f-9b0a-ec9485993420,Germany,2024-07-13,3380.0,Smart Phone,OnePlus,7.0,10.65,74.55
+c72a4b39-73cc-492d-a7bb-607f563a14f6,,2024-09-18,7622.0,Perfumes,Woody,10.0,6.01,60.1
+209cf140-2a7a-4fa2-8111-c8140e417d6d,Germany,2024-08-19,3124.0,Water bottles,Foldable,9.0,12.17,109.53
+4976dd3c-f434-4a1d-a58a-2bf73975ddc5,Germany,2024-05-29,4022.0,Smart Phone,Realme,4.0,8.48,33.92
+5e745453-a8c7-416a-942d-0e7c5c035317,Germany,2024-12-01,9463.0,Smart Phone,OnePlus,6.0,12.65,75.9
+c5af1533-2a7f-4785-a108-5513d9d0b0a2,Germany,2025-04-13,1711.0,Jeans,Regular Fit,9.0,11.38,102.42
+1d60cfb3-cd10-454c-8ad1-e07bb5aad404,Germany,2025-04-09,1551.0,Perfumes,Spicy,7.0,10.56,73.92
+ccb6588f-61b1-4d35-8e8f-4854956d92e2,Germany,2024-07-28,2358.0,Water bottles,Foldable,4.0,12.61,50.44
+64128cf5-7940-4a7e-a3fa-1b2b538df826,Germany,2025-01-06,3371.0,Smart Phone,Realme,7.0,6.13,42.91
+4270021d-fa21-4b69-8c9b-4d6f28fa6446,Germany,2025-02-07,3444.0,Jeans,Straight,2.0,5.8,11.6
+d61dcbb1-8b51-4db5-8964-96a940459b31,Germany,2024-10-13,2155.0,,Plastic,7.0,11.84,82.88
+3c15a843-7624-4c71-9e49-531a3e8b8467,Germany,2024-11-09,9732.0,Smart Phone,Xiaomi,8.0,8.68,69.44
+6158a7f8-270a-4676-b209-04fb0814b870,Germany,2025-02-01,2995.0,Tshirts,Tank Top,1.0,12.52,12.52
+1f1c0b97-c9b9-47f3-8379-56f8eb8acd15,Germany,2025-01-03,2397.0,Tshirts,Polo Shirt,2.0,9.27,18.54
+ee4100c0-7446-44ec-8381-77ff06461bf3,Germany,2025-03-13,2515.0,Water bottles,Glass,10.0,11.45,114.5
+d553f769-915f-4514-8059-2bd0df945be7,Germany,2025-02-27,3051.0,Shoes,Formal Shoes,9.0,8.32,74.88
+f2b10b8d-d8d4-4b99-90b9-5cecbbcfae06,Germany,2024-10-07,3343.0,Water bottles,Foldable,5.0,8.82,44.1
+7c77bbed-b9ed-4eee-8dc4-1ea9e36d9559,Germany,2024-10-19,2038.0,Water bottles,Steel,8.0,8.48,67.84
+4307877f-386f-4c33-8b96-9596f804be96,Germany,2024-06-13,5602.0,Water bottles,Steel,4.0,9.64,38.56
+11dbd376-c170-46d2-b2b0-665617de56dd,Germany,2024-11-30,6112.0,Jeans,Straight,10.0,8.25,82.5
+57809964-fbb7-4e92-b2e3-1228027c3026,Germany,2025-05-06,2407.0,Tshirts,Full Sleeve,8.0,10.17,81.36
+2815209f-3b40-413e-b430-ea3cb2894d91,Germany,2024-09-13,6108.0,Tshirts,Tank Top,4.0,9.3,37.2
+5c74e1da-8098-4251-89de-91c6734fc539,Germany,2024-10-21,1022.0,Water bottles,Insulated,1.0,11.14,11.14
+cad9bca9-465f-48ff-bead-d82a9290f966,Germany,2024-06-01,7330.0,Shoes,Sports Shoes,7.0,11.4,79.8
+a91be945-4bc0-46a0-999f-558274073b46,Germany,2025-03-27,8516.0,Perfumes,Fresh,6.0,10.23,61.38
+05936fba-11b7-4dc0-b672-349186cd19b5,Germany,2024-07-29,6794.0,Water bottles,Plastic,3.0,12.27,36.81
+4592796f-63c5-4cd3-a911-9ba1c34f36da,Germany,2024-09-13,3050.0,Water bottles,Smart,3.0,11.6,34.8
+752d7125-2708-463d-83ba-e478f24509a5,Germany,2024-09-18,8739.0,Jeans,Straight,9.0,7.4,66.6
+0dfdb74f-ca62-4b3e-84cf-a19699823cb4,Germany,2024-11-06,5350.0,Tshirts,Tank Top,3.0,8.01,24.03
+94a3cdd2-a09c-4993-9e44-c5af421e1034,Germany,2025-01-07,4762.0,Jeans,Slim Fit,9.0,10.49,94.41
+b540baba-1b46-4088-9bc3-f1403f36f300,Germany,2024-08-10,5733.0,Smart Phone,Xiaomi,7.0,8.92,62.44
+a14c8086-d0d9-4a25-af92-09fe16c62fb8,Germany,2024-10-18,7989.0,Smart Phone,Realme,,11.16,100.44
+59c074d1-736f-42ff-8f1e-de3fc252e7c3,Germany,2024-08-12,7497.0,Shoes,Boots,4.0,11.79,47.16
+d625e7cd-af79-4462-966c-3d7f3dcebe0c,Germany,2024-05-28,2550.0,Shoes,Formal Shoes,10.0,8.72,87.2
+656b0e99-39d1-4c1c-9276-66d32a6e2c7c,Germany,2024-05-28,7202.0,Perfumes,Citrus,3.0,9.33,27.99
+95790a83-a2da-449e-a2b5-36e4c65fad0a,Germany,2025-03-27,9500.0,Shoes,Formal Shoes,2.0,7.81,15.62
+4098699c-823e-461e-8589-24709747f9e1,Germany,2024-11-30,2136.0,Shoes,Boots,6.0,13.3,79.8
+a64e3e94-e5ef-43ce-831a-1a4077a0c83f,Germany,2024-08-17,7640.0,Jeans,Straight,8.0,12.6,100.8
+fcfc7f44-067d-4b79-9b45-22cfcee13087,Germany,2024-06-03,1064.0,Water bottles,Insulated,2.0,8.68,17.36
+7c7d471a-71cb-495c-9262-8861c0e4f44d,Germany,2025-03-07,6078.0,Tshirts,Full Sleeve,5.0,12.75,63.75
+33b58ba1-cf17-4059-b280-54eb9873e3ac,Germany,2025-03-26,8247.0,Smart Phone,Realme,7.0,7.31,51.17
+c24697a3-b417-4bd9-92e0-42291b4b41ec,Germany,2024-10-25,5555.0,Tshirts,Full Sleeve,2.0,12.93,25.86
+ec02884b-2b93-4dd7-860c-5b629db7e77f,Germany,2024-06-19,5812.0,Perfumes,Citrus,5.0,10.35,51.75
+cf663bc3-f8c3-4fca-b1df-46a0160cae64,Germany,2024-09-29,8335.0,Shoes,Sports Shoes,6.0,10.15,60.9
+3bb91fa9-3b7c-4560-ba3a-2365478141fd,Germany,2025-01-27,9503.0,Tshirts,V-neck,7.0,12.81,89.67
+bafc3b4e-908c-4cf2-a9e1-28a64d93e735,Germany,2024-10-19,7128.0,Tshirts,Tank Top,8.0,10.11,80.88
+914ac113-3a93-48d1-a969-02d3f0abe9c8,Germany,2024-06-25,8865.0,Smart Phone,iPhone,1.0,5.63,5.63
+d18c1169-06c9-4a0a-ae01-36ccc6b216df,Germany,2024-08-03,6097.0,Jeans,Bootcut,3.0,11.26,33.78
+95ee3ecb-cc06-4bbf-b1d9-f12d9e0015f6,Germany,2024-12-26,3950.0,Tshirts,Graphic Tee,1.0,7.71,7.71
+faddc9f0-677a-4c61-a062-cf97627d74d0,Germany,2024-09-26,8477.0,Water bottles,Glass,8.0,12.07,96.56
+74558592-fe94-4ff1-9a90-62c73c406ca2,Germany,2024-08-06,5473.0,Jeans,Regular Fit,3.0,8.72,26.16
+b907be84-b7b8-4d66-becc-a1bc81ae5c26,Germany,2024-07-12,9618.0,Shoes,Sports Shoes,5.0,7.98,39.9
+f84176db-545e-4a79-9b9a-437a60491fed,Germany,2025-01-25,7357.0,Perfumes,Floral,7.0,10.98,76.86
+17ad582e-a9ed-447f-b407-35e48dac2784,Germany,2024-08-23,3037.0,Tshirts,Tank Top,9.0,12.66,113.94
+eadb7253-7b4a-47e6-83dd-ff02e500fb68,Germany,2025-01-05,7398.0,Smart Phone,Realme,2.0,6.09,12.18
+6e3013a1-088b-4879-afee-043470b8b52a,Germany,2024-05-16,6984.0,Perfumes,Aqua,1.0,8.65,8.65
+19ecb589-a41e-4320-8f28-b7a85d2474ab,Germany,2024-11-15,4751.0,Jeans,Bootcut,1.0,11.81,11.81
+9b86c124-7666-44c8-91c6-2a30d3233e73,Germany,2024-07-01,3232.0,Shoes,Loafers,4.0,10.52,42.08
+b28e70a8-64a8-4a03-8645-79c856c8c80c,Germany,2025-03-25,5308.0,Perfumes,Citrus,8.0,10.07,80.56
+35688205-6690-4ced-8d60-e38564a52526,Germany,2025-03-28,9767.0,Shoes,Boots,5.0,8.5,42.5
+03fcc1fa-72a6-4b0e-9891-7f7eb1a77885,Germany,2024-06-22,6368.0,Tshirts,V-neck,10.0,8.31,83.1
+d8d20bb0-0141-4ba4-bc6a-57385c518a84,Germany,2025-04-18,4888.0,Smart Phone,Galaxy,7.0,12.51,87.57
+79b62e01-21df-4dc3-a952-4bf24023385d,Germany,2025-02-08,2622.0,Shoes,Formal Shoes,3.0,10.11,30.33
+652690fc-fc4d-4640-8a7f-65abb96ba20a,Germany,2024-10-15,7380.0,Tshirts,Full Sleeve,4.0,9.31,37.24
+0c43dbfb-01d0-44a2-8db8-770cfc23322e,Germany,2025-01-27,2314.0,Water bottles,Glass,10.0,12.62,126.2
+d1ab143f-cbd8-40b8-b55b-0385c8a541c6,Germany,2024-06-26,7948.0,Perfumes,Fresh,9.0,7.27,65.43
+d89938bb-1206-494d-aa4f-ab5f12e48780,Germany,2024-12-27,3282.0,Shoes,Sandals,3.0,10.58,31.74
+3b2208ea-dafc-4621-9674-d1dcf293373b,Germany,2024-05-14,1839.0,Shoes,Formal Shoes,3.0,6.02,18.06
+f33a86db-afc4-4aa3-ae2e-a482c3a01f7d,Germany,2025-04-24,2205.0,Shoes,Boots,4.0,12.9,51.6
+432c9b31-aa51-4a71-8381-95c70fb5600a,Germany,2024-12-05,9090.0,Tshirts,Full Sleeve,8.0,11.18,89.44
+faa13694-f1a5-420b-a393-6803ad1ff797,Germany,2024-11-11,6944.0,Shoes,Sports Shoes,2.0,7.11,14.22
+6b42fd7e-b981-46a1-9127-9037f82c5ff0,Germany,2024-06-10,9688.0,Smart Phone,iPhone,5.0,10.26,51.3
+23c3fa41-e0f8-4620-a2de-d5d08c04f012,Germany,2024-05-22,7728.0,Perfumes,Woody,8.0,10.05,80.4
+86b9956c-14e4-490d-802a-c9eb369c5408,Germany,2025-02-20,7514.0,Shoes,Boots,1.0,10.02,10.02
+7b0ea5cd-1f1e-45a9-8994-d0add26b24e9,Germany,2024-10-10,1476.0,Perfumes,Aqua,6.0,10.99,65.94
+430538f2-69d8-43ab-b088-87f927d18340,Germany,2025-03-06,2906.0,Perfumes,Fresh,2.0,12.0,24.0
+9b887152-6fb5-4ab0-a0b6-ef8eb0b60d86,Germany,2024-08-14,8119.0,Tshirts,Graphic Tee,6.0,11.01,66.06
+3e6adedb-d62b-4e36-83d3-cc49461f4c06,Germany,2024-07-10,7591.0,Jeans,Straight,5.0,13.22,66.1
+1a08f156-e958-4cdd-b447-5ddace1750ce,Germany,2024-07-20,6257.0,Shoes,Sports Shoes,6.0,7.41,44.46
+efb03458-2a58-413d-9c2d-ede7d87d25e7,Germany,2024-07-25,4031.0,Tshirts,Graphic Tee,10.0,8.66,86.6
+c2f8e4f9-6a1a-4ce6-9d6a-2282e830fc29,Germany,2024-08-21,8127.0,Perfumes,Fresh,9.0,8.31,74.79
+f8d4a655-df42-4b52-9ceb-509281de204a,Germany,2025-04-22,4617.0,Shoes,Formal Shoes,8.0,12.01,96.08
+06390f91-41eb-4759-ad13-f3980bdc6cea,Germany,2025-01-03,6471.0,Smart Phone,Pixel,7.0,9.51,66.57
+9805629a-5904-4da3-b3d5-c35951383713,Germany,2025-01-31,7367.0,Perfumes,Aqua,1.0,10.99,10.99
+c7adff65-2ab9-4c20-a386-f348b2d77a42,Germany,2024-11-16,3813.0,Shoes,Formal Shoes,5.0,12.49,62.45
+19147e3a-93be-4d51-9b38-7e32ec1b7b76,Germany,2025-02-05,3489.0,Water bottles,Plastic,5.0,12.78,63.9
+4435d8d0-bacf-4210-b696-d9a5040c370b,Germany,2024-10-12,4856.0,Smart Phone,Xiaomi,8.0,10.88,87.04
+6996bc94-1dc1-4d33-ab15-a22c77cc5cc9,Germany,2024-07-22,7501.0,Smart Phone,Xiaomi,3.0,7.51,22.53
+3763a3b1-05c1-4ac4-b98f-805c653066a3,Germany,2024-07-09,5865.0,Perfumes,Woody,1.0,12.49,12.49
+01b7f981-cbda-44f6-8902-0a97128cc17a,Germany,2024-07-21,6647.0,Water bottles,Plastic,2.0,8.92,17.84
+9159a174-96e5-4bda-9e85-c200a86bbcdb,Germany,2024-11-20,6881.0,Shoes,Sports Shoes,8.0,10.79,86.32
+9430c2bb-da4b-466e-bd26-3e0efa0c0499,Germany,2024-09-13,2105.0,Tshirts,Full Sleeve,2.0,6.07,12.14
+d0ed7c33-a4bc-456b-b630-095390779aec,Germany,2024-07-09,5175.0,Shoes,Formal Shoes,8.0,8.4,67.2
+aea3faec-44f9-44a1-b391-81a3b84593aa,Germany,2024-06-16,2204.0,Jeans,Bootcut,5.0,12.51,62.55
+377139d3-ace7-4566-babf-7b49107be716,Germany,2024-10-13,9645.0,Tshirts,Full Sleeve,9.0,8.51,76.59
+5aeadf24-f617-4e26-a5fe-b2ff6cfa7287,Germany,2024-10-13,2705.0,Jeans,Bootcut,8.0,9.68,77.44
+f2b50570-5d61-4d41-a90a-407f1a791525,Germany,2024-12-15,1703.0,Shoes,Sandals,2.0,8.42,16.84
+3fce807b-f4cc-4062-a5de-43e95c8adaa4,Germany,2024-05-26,9325.0,Shoes,Formal Shoes,8.0,12.73,101.84
+f6c92f7c-93fa-4320-a56a-463eb30d8a03,Germany,2024-07-17,9376.0,Smart Phone,Xiaomi,6.0,9.26,55.56
+e8bb9e50-f628-4c5f-b921-c69d7761e77a,Germany,2025-04-04,3806.0,Perfumes,Fresh,3.0,9.1,27.3
+e35265ce-0a10-42c7-9c52-4935cca39441,Germany,2024-11-13,4321.0,Jeans,Straight,6.0,9.7,58.2
+70fe1138-a2fd-4e96-abf8-c7bd154e3433,Germany,2024-08-11,3191.0,Tshirts,Full Sleeve,6.0,12.14,72.84
+72fe0ed8-9dff-4ff5-9065-cdf601af74cc,Germany,2025-04-07,1368.0,Perfumes,Woody,6.0,11.07,66.42
+8b760ba9-2342-4f4b-8b80-507d8ce7e0f2,Germany,2024-11-12,8157.0,Tshirts,Full Sleeve,7.0,10.17,71.19
+7d745b8c-2900-4faa-b76a-9338ae8f9525,Germany,2025-01-07,6791.0,Perfumes,Woody,2.0,12.66,25.32
+b5999215-af36-4286-9764-503454ff0f8d,Germany,2024-05-21,1300.0,Smart Phone,iPhone,4.0,8.24,32.96
+,Germany,2024-05-26,1780.0,Water bottles,Smart,8.0,8.96,71.68
+02bf8d3f-6b18-4f2f-b5b5-b64c034b1d43,Germany,2024-11-05,1046.0,Smart Phone,Galaxy,7.0,8.39,58.73
+ab6f339f-30be-4901-a787-b73cb494668f,Germany,2024-08-27,4235.0,Smart Phone,Realme,5.0,6.63,33.15
+ce8f984b-54b5-4893-b4f7-2d9ffeea6e19,Germany,2024-08-01,2879.0,Smart Phone,Realme,8.0,12.23,97.84
+92b87a83-c47c-41f6-af4b-0e53fb09519a,Germany,2024-07-07,1493.0,Water bottles,Plastic,2.0,8.83,17.66
+df06f85a-1ca2-4cb5-9b2c-4bf0dd4dd3c6,Germany,2024-10-22,7494.0,Water bottles,Glass,6.0,12.02,72.12
+d7199024-6c09-43f0-9fbc-5bde389ae591,Germany,2025-04-28,7316.0,Perfumes,Fresh,8.0,7.99,63.92
+ba15059b-78a3-4a81-8ee3-0925d60dd16b,Germany,2025-01-31,4380.0,Shoes,Formal Shoes,1.0,10.11,10.11
+5fb26d34-4115-412e-805e-0b17dbae47c4,Germany,2024-08-30,2053.0,Tshirts,Polo Shirt,7.0,12.44,87.08
+197ebe4d-63b8-4d2b-84d4-0065f15fc1be,Germany,2024-10-30,5708.0,Tshirts,Graphic Tee,10.0,9.48,94.8
+54cf479f-bc00-4136-89ed-6ad34a4742f6,Germany,2024-12-14,9024.0,Water bottles,Steel,8.0,6.73,53.84
+9481e18a-2488-4228-8ca0-7a68683f5c0c,Germany,2024-10-21,6207.0,Smart Phone,Pixel,5.0,12.03,60.15
+9c1e7103-a779-4368-84a6-07d5d170133e,Germany,2025-03-23,2617.0,Smart Phone,Xiaomi,10.0,10.44,104.4
+31f4d370-c5d8-4a2b-b805-bdc2bb1639d3,Germany,2024-06-30,3618.0,Perfumes,Woody,2.0,9.1,18.2
+29a31519-b241-44aa-be9a-521db2b8b4de,Germany,2024-07-04,9244.0,Water bottles,Plastic,6.0,6.78,40.68
+fbee6066-316f-4e03-8c59-fd47d66356a1,Germany,2024-11-07,8291.0,Jeans,Relaxed,10.0,11.77,117.7
+598f35b1-3c29-4921-8ddd-793ca2ce5775,Germany,2025-05-06,5440.0,Smart Phone,Realme,6.0,8.37,50.22
+b30e4822-f463-4eb7-8ea8-fb71bd7bc80c,Germany,2025-04-09,1765.0,Smart Phone,Pixel,6.0,8.25,49.5
+1da5d22d-1641-4cc1-9b44-09c9c586cf84,Germany,2025-05-04,6400.0,Shoes,Formal Shoes,10.0,11.51,115.1
+531a8c16-d12b-469e-a8be-894ac6bb2bbc,Germany,2024-09-15,3902.0,Smart Phone,Galaxy,3.0,10.69,32.07
+151bd690-3896-4c17-8a56-22ec66e0afcd,Germany,2024-11-02,9708.0,Perfumes,Floral,2.0,8.6,17.2
+3ceaefbc-f828-4fda-84c8-4743966a66e9,Germany,2024-05-21,8715.0,Jeans,Bootcut,4.0,6.75,27.0
+6e883ea0-8b27-4fac-9636-8fba1e23be53,Germany,2024-06-09,8359.0,Tshirts,V-neck,1.0,7.69,7.69
+8c5a3de8-cc27-469f-97a8-754dfd4bdfec,Germany,2024-08-08,6428.0,Shoes,Loafers,5.0,11.12,55.6
+248e47d7-f8b8-4a89-a963-acba77bd8a18,Germany,2024-11-01,2786.0,Jeans,Skinny,4.0,10.13,40.52
+eda96d69-a8c7-4965-993f-d9f4e0d15b70,Germany,2024-07-18,1127.0,Water bottles,Smart,7.0,11.98,83.86
+45b51947-321d-4a7a-8396-ad17ea58867e,Germany,2024-11-08,2152.0,Tshirts,Full Sleeve,9.0,8.58,77.22
+a2b7fb16-81f1-4dd0-abef-394621416f4e,Germany,2024-12-24,1115.0,Jeans,Relaxed,1.0,13.11,13.11
+7eef8149-ebb1-4c2f-bd07-14feafd5ffa4,Germany,2024-08-31,3074.0,Smart Phone,Realme,6.0,8.12,48.72
+e80767cc-a226-44a6-9ae9-f778776f5126,Germany,2025-05-09,6379.0,Smart Phone,OnePlus,3.0,11.9,35.7
+0c73949f-ef5e-4d66-a4d9-ba92b2289434,Germany,2025-05-03,4609.0,Tshirts,Tank Top,6.0,7.51,45.06
+7c5a1cac-ad40-434e-8557-c6aa361410a8,Germany,2025-02-28,6988.0,Water bottles,Insulated,8.0,8.22,65.76
+f181ab64-f696-4b4b-a488-8a3abbdf9573,Germany,2024-12-17,9390.0,Shoes,Formal Shoes,3.0,6.3,18.9
+1adb9a9f-a6e6-4cbe-8335-22926585384b,Germany,2024-12-12,4976.0,Perfumes,Citrus,10.0,10.4,104.0
+e583fa3b-e8cc-4248-b636-2ed30d18231e,Germany,2024-12-20,1140.0,Jeans,Relaxed,4.0,6.99,27.96
+3cb9ebbf-7863-4824-810a-eac9a521fd3b,Germany,2024-11-22,5662.0,Jeans,Slim Fit,3.0,8.53,25.59
+9c99a5f0-faef-4fef-9517-abab9d8fdea8,Germany,2025-04-08,5869.0,Jeans,Skinny,2.0,6.47,12.94
+7669fdca-5008-4651-86d5-5a99c8264258,Germany,2025-02-03,7980.0,Water bottles,Foldable,3.0,11.98,35.94
+c56c610d-a3e7-4468-a2b6-c58122ac0bed,Germany,2025-05-08,5877.0,Perfumes,Woody,6.0,10.01,60.06
+5acac401-d491-46a0-b3b1-5452c4c27619,Germany,2024-12-20,2787.0,Shoes,Formal Shoes,5.0,12.68,63.4
+efca70f5-07ef-40f7-a418-861eb07a810a,Germany,2025-03-20,6396.0,Shoes,Formal Shoes,3.0,7.97,23.91
+b5ec66a8-a307-4150-a06d-c01ff46e1583,Germany,2025-04-13,1887.0,Shoes,Boots,2.0,8.79,17.58
+b43c259c-9b20-4ac7-8ff7-ce327649a52a,Germany,2025-03-14,6961.0,Tshirts,Full Sleeve,6.0,11.58,69.48
+73500035-5071-4923-9ae6-004b819bab05,Germany,2024-11-27,9140.0,Smart Phone,Pixel,9.0,7.67,69.03
+fc790fff-aa7e-46f0-aaa8-e69b54721382,Germany,2025-03-19,6069.0,Water bottles,Glass,1.0,7.17,7.17
+fdb1080f-37d4-45bb-92e5-4b9efef9b10b,Germany,2024-09-10,9008.0,Water bottles,Smart,2.0,11.66,23.32
+35e45ef6-b184-468c-b48a-f1d5d74c519d,Germany,2024-06-05,8634.0,Jeans,Skinny,9.0,10.4,93.6
+180b1a8a-634f-489e-b511-b6f4773792bd,Germany,2025-04-20,6182.0,Tshirts,Tank Top,8.0,8.71,69.68
+a05cefa3-a454-4767-8689-d440a857bfab,Germany,2024-05-15,9320.0,Shoes,Sandals,3.0,13.14,39.42
+95786324-634d-4084-b7c9-14dc88dba487,Germany,2024-07-13,3434.0,Tshirts,V-neck,9.0,13.04,117.36
+b62b6006-b72a-4824-b286-ec3230d4d1a6,Germany,2024-11-24,6268.0,Jeans,Bootcut,1.0,8.57,8.57
+e778feaf-3c7d-4a5f-837e-d4db48534f2b,Germany,2024-07-26,6161.0,Tshirts,Polo Shirt,3.0,10.56,31.68
+3ce68c4e-7566-4bfe-a89b-73ce3210b523,Germany,2024-09-12,5665.0,Smart Phone,Galaxy,1.0,7.76,7.76
+43320022-27e7-4f64-b353-55519f817220,Germany,2024-12-30,5388.0,Smart Phone,OnePlus,8.0,10.85,86.8
+4ac1c505-1328-4d7c-bcbf-9e447b69082f,Germany,2024-10-25,1546.0,Perfumes,Aqua,8.0,10.32,82.56
+5b6015ef-b5da-4a96-be36-edc595cd0cb9,Germany,2024-09-12,2206.0,Perfumes,Floral,7.0,10.81,75.67
+4f25a44b-f970-4448-ab08-61f231cec987,Germany,2024-08-25,6905.0,Perfumes,Woody,8.0,5.56,44.48
+7858f301-cca0-47a9-862b-127590482468,Germany,2025-03-20,7416.0,Smart Phone,Realme,7.0,6.28,43.96
+1b970c23-28fd-44e1-8416-b2781c74ca36,Germany,2024-12-13,5084.0,Tshirts,Graphic Tee,1.0,7.2,7.2
+17ded331-98d9-47f3-a9a4-de81ed5b1d52,Germany,2025-01-15,3416.0,Perfumes,Spicy,9.0,10.02,90.18
+c17dbbdb-bb7f-4088-ad4f-ecb67a4496d2,Germany,2025-03-15,1233.0,Shoes,Sneakers,7.0,11.22,78.54
+07980ab9-532e-46cc-ab21-3da9d7bdbc43,Germany,2024-10-30,3520.0,Jeans,Slim Fit,3.0,8.1,24.3
+e806abcc-2640-4bb1-9e8a-adf12b3a67bf,Germany,2024-12-10,1432.0,Shoes,Formal Shoes,7.0,9.26,64.82
+488542bf-4bc9-4092-a2de-38115d5b8543,Germany,2024-10-23,5205.0,Smart Phone,Pixel,2.0,8.92,17.84
+cfaff2cb-52e7-4fa7-9ea5-c3135ef87075,Germany,2025-05-13,6572.0,Tshirts,Graphic Tee,6.0,5.95,35.7
+204612c0-0d11-4275-953d-549a94a451d7,Germany,2024-10-19,6453.0,Water bottles,Plastic,1.0,12.44,12.44
+7f98638d-7fed-4e8a-81b1-a6056dbf8a01,Germany,2024-11-19,4802.0,Shoes,Sports Shoes,10.0,5.91,59.1
+68f1fe4e-7cf7-46bf-a30b-c715a56b22a2,Germany,2025-04-12,7734.0,Smart Phone,Realme,4.0,5.71,22.84
+2d8dafc0-8501-42e2-877b-bb90090db92f,Germany,2025-02-07,1284.0,Shoes,Formal Shoes,10.0,6.84,68.4
+2f0aff9d-af86-424e-b26b-0d7d2f09b22c,Germany,2024-07-11,2016.0,Tshirts,Cotton Tee,2.0,11.8,23.6
+f2eaf34c-5fe0-4a78-b1b2-050b90719ff9,Germany,2024-09-21,1382.0,Shoes,Sports Shoes,2.0,12.04,24.08
+c5f44c11-7539-410d-9aab-c3e866815708,Germany,2025-01-04,1608.0,Perfumes,Floral,7.0,12.11,84.77
+ea7f7f6b-f044-41b6-a4b0-4a656e81a8a3,Germany,2024-11-09,6583.0,Tshirts,Graphic Tee,3.0,8.68,26.04
+09e676fe-2c32-4c95-9b99-b85aad9f8393,Germany,2024-06-04,5142.0,Shoes,Loafers,10.0,6.29,62.9
+75043b12-087d-49a5-9c91-e8e54f30d268,Germany,2024-10-30,3987.0,Smart Phone,Realme,6.0,7.1,42.6
+a6285d8e-8d1d-4b63-92ea-2c7fba65ccc0,Germany,2024-07-28,2842.0,Smart Phone,Galaxy,3.0,7.12,21.36
+396dc717-5651-4a10-99a0-35a800a0333e,Germany,2024-05-23,8870.0,Perfumes,Fresh,9.0,5.82,52.38
+eb6dce90-2c5f-44e1-a8dc-8e4815c5292c,Germany,2024-10-23,,Smart Phone,OnePlus,9.0,8.66,77.94
+e26c01cb-203c-4303-8f29-68d4e5d0af0f,Germany,2024-07-09,3979.0,Jeans,Bootcut,4.0,11.72,46.88
+50c8501f-0ddc-403c-8787-021c743b4f4f,Germany,2024-09-02,6310.0,Shoes,Loafers,10.0,13.27,132.7
+89131c17-8a9e-457a-bc3f-1ed37db1e272,Germany,2025-04-24,2018.0,Tshirts,Graphic Tee,8.0,9.64,77.12
+28a5c4a4-2695-48e4-b18a-3e6566756e5c,Germany,2025-02-07,2296.0,Shoes,Sneakers,5.0,10.98,54.9
+6be01cee-2adb-4302-bf30-2e67fb190885,Germany,2024-12-24,6991.0,Shoes,Sandals,4.0,12.04,48.16
+2329a529-52f4-4bbf-9460-004480d643f2,Germany,2025-02-25,9045.0,Water bottles,Glass,1.0,6.93,6.93
+915fcf53-d83a-4dd5-835d-34696889bfad,Germany,2024-10-22,1318.0,Water bottles,Steel,1.0,8.99,8.99
+d48f842b-e2d8-4847-ad34-cd77a59040c7,Germany,2024-08-25,5211.0,Tshirts,Polo Shirt,4.0,11.7,46.8
+57b75676-ffd3-4f32-910a-b4cbeab471de,Germany,2024-07-21,8631.0,Perfumes,Woody,9.0,9.71,87.39
+7eac652a-7822-4ffa-8027-dfbdb1e37336,Germany,2024-12-12,5274.0,Perfumes,Fresh,10.0,11.0,110.0
+cf7a895f-00ec-490b-b107-60f7039baa2c,Germany,2025-02-08,8110.0,Jeans,Bootcut,8.0,12.38,99.04
+9d64f431-e7a6-46b3-a46c-68d3161f0171,Germany,2024-11-29,6018.0,Smart Phone,Galaxy,1.0,11.05,11.05
+0fb12444-85bf-4576-a61d-5ca427b238ed,Germany,2025-03-18,8168.0,Shoes,Sandals,8.0,11.21,89.68
+3224df74-5773-4b00-8055-d6e906df5dba,Germany,2025-04-15,2221.0,Perfumes,Woody,3.0,6.37,19.11
+6c9b568f-f106-4b87-8415-08a2a53dc4e3,Germany,2024-05-26,7343.0,Water bottles,Insulated,6.0,5.58,33.48
+8af194e6-65d7-4681-b79c-bc23ba87e001,Germany,2024-11-30,2216.0,Smart Phone,OnePlus,4.0,11.67,46.68
+a429d643-f6b4-4944-96de-5438b0a21dd3,Germany,2024-10-16,7193.0,Water bottles,Foldable,6.0,12.23,73.38
+f82b85e2-78d1-47d5-bfdc-690c4e3cbe66,Germany,2025-04-16,2050.0,Smart Phone,Pixel,5.0,11.88,59.4
+8610fd12-9527-44da-b759-ad2124f3cf37,Germany,2024-07-27,6914.0,Perfumes,Citrus,8.0,10.12,80.96
+ac18a9c5-5f82-466b-bba4-aed83cfc2467,Germany,2025-02-04,2363.0,Water bottles,Insulated,1.0,6.23,6.23
+049c0661-cab3-4e59-a61e-efe8d6a4fb2d,Germany,2024-06-15,1323.0,Jeans,Bootcut,10.0,9.22,92.2
+ee538685-00b5-44b4-b0a3-522885b56b35,Germany,2025-02-10,8721.0,Smart Phone,Realme,4.0,12.74,50.96
+c789ac31-83b2-4b18-b130-088b004cfbd5,Germany,2025-02-19,7559.0,Water bottles,Insulated,1.0,8.22,8.22
+1a4f3f75-e5fe-4596-9f49-fae77c63de56,Germany,2024-10-03,4704.0,Jeans,Bootcut,7.0,12.12,84.84
+8c47e1cc-f99c-48ae-acb5-c8f339955dd1,Germany,2024-12-24,6366.0,Water bottles,Smart,6.0,10.66,63.96
+08f4f508-1772-4e1c-913f-6606f97543aa,Germany,2025-05-08,8683.0,Smart Phone,OnePlus,2.0,9.4,18.8
+7f119727-1b2b-4e11-90b3-b3f20d0e1789,Germany,2024-12-15,3678.0,Shoes,Sports Shoes,9.0,8.72,78.48
+a07092c7-ee27-4ff5-8339-d513afa2c76a,Germany,2024-08-11,3820.0,Perfumes,Woody,4.0,10.52,42.08
+787db207-e2bc-4839-a6b6-5dbb9ebf2385,Germany,2024-10-02,8394.0,Perfumes,,7.0,9.44,66.08
+d4d7b736-4120-4e49-8f29-d580bf87d026,Germany,2025-03-05,1920.0,Shoes,Loafers,1.0,11.02,11.02
+48c23668-678a-4c24-9558-6e6348020250,Germany,2024-06-26,6721.0,Perfumes,Woody,5.0,12.11,60.55
+70d8d2c4-3610-4e5b-b803-3157c74fba78,Germany,2024-09-04,7002.0,Smart Phone,Galaxy,2.0,6.73,13.46
+fed045c4-e5e8-406c-a684-52b917c95208,Germany,2024-07-25,8513.0,Perfumes,Citrus,5.0,9.98,49.9
+9cd3ffdd-fbb9-4c38-87ee-168beffb89b5,Germany,2025-03-08,2887.0,Shoes,Boots,6.0,13.17,79.02
+6070fd1e-e687-4c1e-ad12-3e41be58ca2d,Germany,2025-03-07,9686.0,Smart Phone,iPhone,10.0,11.35,113.5
+c44e6e8a-7f14-4d85-97ef-f24451faa289,Germany,2024-06-17,1955.0,Jeans,Regular Fit,10.0,9.93,99.3
+cc05d17b-d1c9-4bde-b4bc-95db3620dbd5,Germany,2024-09-22,8277.0,Perfumes,Woody,1.0,8.58,8.58
+06dcf783-54a8-4262-83f9-fd9b4167e905,Germany,2024-12-19,8155.0,Perfumes,Aqua,9.0,12.44,111.96
+5fb6f397-4228-4e4f-aec2-a1de35878f40,Germany,2025-03-07,6199.0,Water bottles,Insulated,6.0,11.53,69.18
+bc944672-70fd-401c-b958-fff425361fff,Germany,2024-12-29,2592.0,Tshirts,Graphic Tee,10.0,9.84,98.4
+b104781e-172c-4b7f-9dd6-e056e6bfac63,Germany,2024-06-05,9488.0,Jeans,Relaxed,2.0,10.16,20.32
+dc91f73a-b167-4c86-8cf9-6b5b5f37c649,Germany,2024-06-10,6267.0,Jeans,Skinny,8.0,11.76,94.08
+2a7b5c60-d189-4330-b8ed-676798b13a81,Germany,2024-06-12,4434.0,Smart Phone,Pixel,8.0,10.71,85.68
+7436b551-a8b9-404c-9198-91720d648971,Germany,2025-02-18,1136.0,Smart Phone,Galaxy,4.0,12.95,51.8
+e27ef596-0a35-48fe-8265-63b4e0a95f2f,Germany,2024-07-13,3421.0,Smart Phone,iPhone,4.0,9.81,39.24
+43c3329b-6b28-495b-9bc1-cf8aa819a006,Germany,2024-07-13,6671.0,Perfumes,Floral,2.0,10.57,21.14
+7ece9b94-f2c1-433d-b7c2-1c209dbf4277,Germany,2025-01-26,6487.0,Tshirts,Cotton Tee,4.0,10.5,42.0
+8bf12f23-4be7-4d02-94f6-3c68d9fffaf9,Germany,2025-03-30,8934.0,Tshirts,Polo Shirt,10.0,11.82,118.2
+dd4d7474-8c4d-474a-8aab-dbd9ebe01de0,Germany,2024-06-22,5618.0,Jeans,Relaxed,7.0,5.91,41.37
+4160e5cf-aede-4b37-b8c4-22f9787166b2,Germany,2025-01-05,8321.0,Water bottles,Plastic,4.0,8.8,35.2
+4b70a26c-0142-4da5-a2f7-fc374e179117,Germany,2024-07-20,8893.0,Jeans,Relaxed,1.0,8.28,8.28
+4087a859-eb39-4038-8c32-5a53b8974502,Germany,2025-02-02,8504.0,Jeans,Straight,4.0,12.22,48.88
+890bbcd2-5600-4174-bfc0-db092ee3ac82,Germany,2024-06-01,3360.0,Smart Phone,Galaxy,1.0,10.08,10.08
+2e516039-e5a5-423f-9509-bb739f1a47c7,Germany,2024-10-25,8307.0,Smart Phone,Xiaomi,4.0,8.47,33.88
+6d8811ba-d6c3-478f-b157-6130dd40f619,Germany,2025-01-09,5567.0,Tshirts,Graphic Tee,6.0,12.48,74.88
+e22b9771-420b-42f2-8341-afde5452dd67,Germany,2024-11-05,5548.0,Jeans,Bootcut,9.0,10.5,94.5
+9c41a509-eb06-456e-9d94-77690117ee35,Germany,2025-05-08,2048.0,Shoes,Loafers,5.0,12.33,61.65
+3573947e-94d8-43d1-b2c3-681afce52055,Germany,2024-08-19,9650.0,Perfumes,Woody,8.0,8.29,66.32
+7a80174e-4b6b-4bfc-89a1-db15494dc24a,Germany,2025-01-03,6725.0,Tshirts,Cotton Tee,5.0,9.87,49.35
+e3182010-ebce-4534-9e6b-8a7668393ff5,Germany,2024-06-10,7587.0,Perfumes,Woody,9.0,8.8,79.2
+b383d8aa-21df-423e-b48b-544c22d7a7cd,Germany,2025-05-06,4932.0,Shoes,Loafers,2.0,6.75,13.5
+f7518a26-0fe5-4265-a571-2b6dde28e2ca,Germany,2025-05-14,8624.0,Water bottles,Foldable,5.0,5.65,28.25
+55d56d09-6b3c-45d6-a840-484507399d2c,Germany,2025-01-07,1495.0,Shoes,Boots,9.0,7.16,64.44
+3b68a68f-f7c1-4480-90ea-25b4ddcbab13,Germany,2024-06-22,7205.0,Shoes,Loafers,7.0,10.57,73.99
+216ad437-b4e0-4890-a19e-2a6e08fdd5d2,Germany,2024-11-04,5064.0,Shoes,Loafers,6.0,9.67,58.02
+70a35b53-d645-4a4b-b692-f3ff0d881247,Germany,2025-01-31,3887.0,Smart Phone,Xiaomi,9.0,10.35,93.15
+a68b9e0c-e9e1-4053-a28c-35eecef50629,Germany,2025-02-15,2026.0,Smart Phone,Xiaomi,1.0,10.04,10.04
+214b836f-1aea-41d2-8e75-bbc2ccbfbdc8,Germany,2025-01-11,9906.0,Tshirts,Polo Shirt,3.0,12.23,36.69
+8b665e8b-7dd5-4e8f-83ab-8a34b2d2c3a7,Germany,2025-04-08,1778.0,Jeans,Slim Fit,1.0,10.99,10.99
+13dbe822-6a8b-4940-a524-cdb1e7facda4,Germany,2024-09-14,6680.0,Tshirts,Tank Top,9.0,9.23,83.07
+54d1fcea-82ba-4beb-9c9c-b3eb9f6197b4,Germany,2024-11-29,8094.0,Smart Phone,iPhone,10.0,12.25,122.5
+4be443a8-d558-4010-b56a-24a0537b8436,Germany,2024-06-14,3883.0,Perfumes,Citrus,9.0,11.96,107.64
+f02a0cc9-1376-48df-a3b6-ea8056adbd1c,Germany,2024-07-19,9573.0,Jeans,Straight,4.0,11.17,44.68
+6ecb68d7-6198-4275-8a50-bd57b473dcb1,Germany,2024-12-26,6178.0,Water bottles,Steel,3.0,8.39,25.17
+45c32483-9d0b-4d71-b3c8-ff73d58ce487,Germany,2024-10-12,9216.0,Perfumes,Woody,3.0,10.17,30.51
+b1536a03-fe58-4a7e-a804-8757e3fbd382,Germany,2025-04-05,9726.0,Tshirts,Graphic Tee,10.0,13.1,131.0
+e2285bff-72f2-4829-895b-e578fd7a5ed5,Germany,2024-05-27,4608.0,Shoes,Sneakers,1.0,10.38,10.38
+,Germany,2025-01-08,9853.0,Jeans,Straight,9.0,11.86,106.74
+75d45b8f-e796-4939-9df6-d6d68e347312,Germany,2024-06-18,9931.0,Tshirts,V-neck,1.0,6.43,6.43
+f1da8d08-6d6f-4d8e-a2dc-f4cb63a28b1d,Germany,2024-12-10,8581.0,Smart Phone,OnePlus,2.0,9.37,18.74
+07707e0e-fb47-47de-a0f3-bb28bd20c06b,Germany,2025-02-18,7663.0,Tshirts,Polo Shirt,3.0,13.26,39.78
+3a411bee-8975-490a-aa74-5d5d2e975604,Germany,2025-03-29,8420.0,Water bottles,Steel,8.0,6.47,51.76
+c460e457-b6be-4683-a4f1-efed7fecb7a1,Germany,2024-05-28,5172.0,Shoes,Boots,7.0,6.29,44.03
+87de9cb5-56f3-40f6-b684-e8c054a1a7a8,Germany,2024-09-29,3061.0,Smart Phone,Xiaomi,2.0,7.09,14.18
+bed6bb8f-387a-4817-b658-1feec6a49a31,Germany,2025-01-16,3073.0,Shoes,Sandals,3.0,10.25,30.75
+d0d93b8b-582a-40f0-8cfe-021d2b933a75,Germany,2025-05-08,6424.0,Shoes,Formal Shoes,2.0,5.74,11.48
+e88288ee-4a54-4fd0-9676-dc0257994d77,Germany,2024-10-20,2708.0,Smart Phone,Realme,10.0,13.25,132.5
+f897c7d9-7a07-4232-aa62-bb9c1a9face2,Germany,2024-12-16,6893.0,Shoes,Loafers,4.0,6.12,24.48
+a33bd683-6bdc-41b5-9572-b13ec9e93974,Germany,2025-03-14,7549.0,Smart Phone,Galaxy,9.0,10.99,98.91
+3b9bd6ef-75d1-417b-a519-b44dde93f2fb,Germany,2024-12-04,5866.0,Shoes,Boots,4.0,11.69,46.76
+83d0703a-474e-4b69-b721-0f63f6c2c7be,Germany,2025-01-29,5334.0,Perfumes,Woody,8.0,11.29,90.32
+7fdcadde-6e65-4f53-abcf-1d4ebf023ce0,Germany,2025-02-27,4739.0,Jeans,Relaxed,4.0,11.83,47.32
+2da61acf-b630-4d90-affa-40f7350cf740,Germany,2025-01-11,8622.0,Water bottles,Smart,7.0,5.65,39.55
+076d07c5-700d-4278-b081-391ceb035822,Germany,2024-05-18,3648.0,Tshirts,V-neck,8.0,9.34,74.72
+43036244-9d6e-46e8-ad69-71c03d390f79,Germany,2025-05-14,6124.0,Jeans,Regular Fit,7.0,7.06,49.42
+ad6fee1b-97c3-4afe-971e-3e81952ac31c,Germany,2025-04-05,3615.0,Shoes,Formal Shoes,9.0,13.06,117.54
+7cfa000c-0822-4318-864b-53f26bf7889a,Germany,2024-10-21,1969.0,Water bottles,,8.0,12.58,100.64
+b7e9c54f-f1ad-4124-a0f7-4d2915cbf2d9,Germany,2024-06-01,4692.0,Tshirts,Full Sleeve,10.0,6.75,67.5
+936f88ce-3eb4-4346-b488-fbc8dc0537e3,Germany,,9266.0,Perfumes,Citrus,3.0,13.13,39.39
+c25b607d-ddfd-4975-9753-78647fb14b4b,Germany,2024-10-06,3355.0,Shoes,Sneakers,3.0,12.02,36.06
+5b193a9b-3f6c-4df5-b94d-f2c98b575c11,Germany,2024-10-25,9980.0,Perfumes,Floral,6.0,11.77,70.62
+09c6e17d-1360-46b6-bf8a-cb6ec66a6065,Germany,2024-12-10,4386.0,Jeans,Relaxed,10.0,7.22,72.2
+cee0b7f5-d673-48e9-87bb-6aec7500331b,Germany,2024-07-29,6342.0,Tshirts,V-neck,4.0,12.07,48.28
+2119d4ff-056b-47bf-b558-aace6758e53c,Germany,2025-01-15,9044.0,Perfumes,Woody,3.0,11.27,33.81
+75f777b7-c456-4cb3-82f1-417e2a6b5dae,Germany,2024-06-10,6222.0,Tshirts,V-neck,6.0,11.61,69.66
+9bafe924-5da6-41ea-a187-5ae0ed0e7a58,Germany,2024-10-28,6790.0,Tshirts,Cotton Tee,4.0,10.4,41.6
+917f1f1c-5733-4e1e-bea0-8ec3f5f1607b,Germany,2024-09-24,2217.0,Water bottles,Insulated,5.0,6.48,32.4
+58503809-9fcf-4f54-b968-d9ea8f248157,Germany,2025-05-14,3349.0,Tshirts,Graphic Tee,8.0,9.33,74.64
+f141671d-0fcb-442f-aeda-f619cf1af575,Germany,2024-11-05,3687.0,Tshirts,V-neck,5.0,7.61,38.05
+64f49e7a-1305-4643-8261-f93fc65c0c2a,Germany,2025-01-21,2577.0,Smart Phone,iPhone,7.0,12.14,84.98
+a11020ab-9c39-44eb-912d-894bdfa896db,Germany,2025-02-13,4030.0,Jeans,Bootcut,2.0,12.35,24.7
+e85d8eda-d50d-42c2-8ca3-795517b022c7,Germany,2024-10-06,1661.0,Perfumes,Floral,3.0,6.33,18.99
+22b089c7-aa31-4ee0-8e8c-9c65ca1c2593,Germany,2024-11-13,7319.0,Perfumes,Citrus,4.0,10.64,42.56
+43177b8e-e1b7-4c11-9f7a-61fac3d94859,Germany,2024-11-09,4317.0,Water bottles,Insulated,8.0,10.77,86.16
+c64cda80-bb0b-4375-834c-d0eb0695a0ba,Germany,2024-12-12,2500.0,Shoes,Boots,5.0,7.7,38.5
+fdf4ca04-bce2-458d-ab24-dedbc9287a8e,Germany,2024-09-01,5744.0,Shoes,Boots,8.0,12.6,100.8
+c93670a9-cb57-4bb6-95e3-1909a4dc3ff3,Germany,2024-05-22,1635.0,Jeans,Straight,6.0,9.81,58.86
+a8f806e8-d498-42f6-b7eb-09235c983385,Germany,2024-07-16,6193.0,Shoes,Sandals,4.0,9.02,36.08
+b5184d1c-0fa6-4182-9174-729d953f2211,Germany,2024-05-24,4877.0,Water bottles,Smart,3.0,6.03,18.09
+4d6fc56d-532d-4ae4-a763-957fe77c1cf8,Germany,2024-10-18,2424.0,Perfumes,Aqua,5.0,8.1,40.5
+1d257d3a-c81f-4bbd-b76e-e4c9f46e8c4d,Germany,2024-08-01,5292.0,Water bottles,Steel,5.0,12.81,64.05
+5dec7ccc-b5c5-4d9f-8099-527acd11435d,Germany,2024-11-13,3710.0,Smart Phone,Xiaomi,1.0,10.28,10.28
+b2204f32-e202-4858-9618-91b09e86e4e8,,2025-02-12,5751.0,Water bottles,Steel,5.0,11.98,59.9
+8f7bd817-4e29-4617-9bfa-edfc97917131,Germany,2024-05-27,9929.0,Smart Phone,Realme,8.0,9.55,76.4
+11faf750-b61e-4e5d-873e-21b2a50cb05b,Germany,2024-12-24,2917.0,Smart Phone,iPhone,3.0,8.8,26.4
+ad14ea20-1b91-4a8a-9280-e2aad3128947,Germany,2024-12-23,4554.0,Water bottles,Smart,3.0,7.1,21.3
+f6d77d91-647e-4d75-9228-b1af3133941a,Germany,2024-12-18,7532.0,Perfumes,Floral,4.0,5.91,23.64
+4ce68b19-fde0-4178-8dc8-196e7d32c7e6,Germany,2025-05-08,2133.0,Perfumes,Floral,10.0,6.14,61.4
+02e78484-15c7-4ccb-bbf8-0355e949e29c,Germany,2025-04-12,9293.0,Water bottles,Glass,1.0,12.68,12.68
+4a6248e6-7aa8-4007-8342-2f31cb0e12c4,Germany,2024-05-27,1455.0,Water bottles,Glass,8.0,7.21,57.68
+418fe315-139c-4bb3-be3b-534bf5494b5d,Germany,2025-04-26,9507.0,Water bottles,Steel,3.0,10.76,32.28
+584e24c3-640e-4034-851b-3ac779892ad6,Germany,2024-06-05,2232.0,Smart Phone,OnePlus,5.0,6.28,31.4
+bf132959-c182-45c5-a098-5383d354988e,Germany,2024-08-03,1427.0,Shoes,Sandals,1.0,12.02,12.02
+7f59be37-a981-4fc5-b222-fab3d5d2d13b,Germany,2025-01-18,6168.0,Water bottles,Steel,5.0,11.46,57.3
+c14a81a5-b0a5-44af-a389-3cdbc54251eb,Germany,2024-10-31,7955.0,Perfumes,Floral,6.0,8.0,48.0
+05d0512a-762f-408a-9ea1-24706620c29e,Germany,2024-05-19,7596.0,Water bottles,Glass,5.0,10.63,53.15
+d65921e3-dcd7-41f5-98e1-d542e9fbbb50,Germany,2024-10-15,7507.0,Perfumes,Spicy,4.0,12.76,51.04
+dc7df2cf-3edd-4f0e-9ac6-ce9fafb92571,Germany,2025-02-15,8556.0,Water bottles,Glass,7.0,12.53,87.71
+1bac1c4a-7e3f-4a28-877e-c64e0f2c0147,Germany,2025-02-26,5090.0,Water bottles,Insulated,2.0,10.95,21.9
+372a857d-4c59-404d-b759-0e762ebf3f1f,Germany,2025-04-06,5674.0,Jeans,Straight,3.0,5.76,17.28
+b18887b2-8aad-485f-b222-e140e1b61b0d,Germany,2024-12-04,4157.0,Jeans,Relaxed,8.0,8.95,71.6
+2bcd2d80-a6ad-4006-a011-cc2b9f8048e2,Germany,2024-08-16,9075.0,Jeans,Skinny,1.0,9.22,9.22
+,Germany,2025-04-24,4466.0,Jeans,Regular Fit,10.0,12.4,124.0
+e4e805bd-1d44-499b-84f0-94b29ec5d42a,Germany,2024-12-23,3704.0,Water bottles,Smart,7.0,6.16,43.12
+6da95d6f-3c36-4380-8040-f27ac73db7d2,Germany,2024-11-22,9890.0,Smart Phone,Pixel,5.0,6.3,31.5
+8c3ce434-34c8-4ba5-a8ac-133d8f902d4c,Germany,2025-02-13,9012.0,Smart Phone,Xiaomi,4.0,11.08,44.32
+90060c5a-e0c6-4d63-a579-1c663209256b,Germany,2025-04-05,1533.0,Water bottles,Glass,5.0,9.14,45.7
+69440b9c-3c42-4c26-b1e2-25714212af7c,Germany,2024-08-21,8057.0,Tshirts,Full Sleeve,3.0,8.75,26.25
+b632b54a-f198-4c95-bac7-979abcf11ff6,Germany,2024-08-25,4735.0,Tshirts,Graphic Tee,8.0,12.57,100.56
+585f7f91-553a-419f-b516-191b1b0bd2c9,Germany,2025-04-24,8877.0,Water bottles,Smart,7.0,6.23,43.61
+429910e0-1f30-4349-898d-9139664e8907,Germany,2024-09-30,7059.0,Shoes,Boots,4.0,12.01,48.04
+1cdc849a-8b46-4e99-ada2-9e52707d5478,Germany,2025-02-12,2121.0,Shoes,Loafers,10.0,13.3,133.0
+6196ec64-89fc-420c-aa00-944f129bebaa,Germany,2024-06-28,6028.0,Tshirts,V-neck,4.0,9.16,36.64
+dc186c23-07f2-4de7-aadc-e24462ff74f4,Germany,2024-07-29,2247.0,Water bottles,Foldable,6.0,7.61,45.66
+2a984495-9b89-4383-8432-986a16de10e9,Germany,2024-10-16,7222.0,Smart Phone,Xiaomi,6.0,8.06,48.36
+ecc63423-4167-48cc-80c8-836881adbb3b,Germany,2025-04-08,4792.0,Jeans,Straight,4.0,6.65,26.6
+fd176bf3-16e9-4a3c-b3bb-51f07ff4fb39,Germany,2024-08-25,5467.0,Smart Phone,iPhone,6.0,8.68,52.08
+47e32652-5094-4b90-af9c-c0d0a1c31b46,Germany,2024-09-22,2412.0,Water bottles,Plastic,3.0,6.11,18.33
+69e5c6e1-f48d-4c8c-99d9-690617bc399c,Germany,2025-01-18,3454.0,Smart Phone,OnePlus,3.0,6.68,20.04
+85cd00a4-f7fb-46b9-b875-bc18f4daa45b,Germany,2024-10-07,1906.0,Smart Phone,OnePlus,10.0,5.78,57.8
+d6759c5e-5328-4bb0-94b7-d0cff13aa48f,Germany,2025-02-01,4173.0,Jeans,Relaxed,3.0,10.74,32.22
+b754afdc-c7e8-414c-8785-3a8a4236158b,Germany,2025-01-03,2859.0,Jeans,Bootcut,6.0,6.04,36.24
+cdb405ea-696f-4ed2-b060-b97b11d37b12,Germany,2025-02-07,5126.0,Smart Phone,Galaxy,4.0,6.96,27.84
+df2182e2-3056-486c-85a2-75bc8fdd7514,Germany,2025-02-27,8763.0,Shoes,Sneakers,8.0,5.86,46.88
+03fe14e2-08af-425f-b6a1-41c3d01d9f73,Germany,2025-02-06,3829.0,Shoes,Boots,9.0,9.22,82.98
+92068d57-ed8e-4c6d-bcac-f611cf7b05a7,Germany,2024-09-19,6494.0,Tshirts,Tank Top,1.0,8.57,8.57
+4e0cad29-1fc5-487a-b5b7-0895e0536baa,Germany,2025-03-25,6395.0,Jeans,Relaxed,5.0,13.2,66.0
+15a4a4cc-d5d6-4b99-a360-4ccf4b2eda84,Germany,2025-02-26,3136.0,Smart Phone,OnePlus,2.0,6.34,12.68
+802018a8-2b26-4d9a-97c1-68fb7982b4a4,Germany,2024-05-17,4837.0,Jeans,Bootcut,2.0,9.76,19.52
+d0ece448-1e17-4c87-ac95-9cb05023af5c,Germany,2024-10-19,8969.0,Jeans,Straight,8.0,5.94,47.52
+f49ee85f-afd5-40eb-9752-17cbb7eb2737,Germany,2025-02-03,8290.0,Tshirts,Tank Top,4.0,6.57,26.28
+f748e005-8e62-4f61-b712-522203443031,Germany,2024-06-23,3055.0,Water bottles,Glass,6.0,5.77,34.62
+48abb1bb-9f7a-4852-b64c-5e97aededc51,Germany,2025-01-16,8347.0,Jeans,Relaxed,10.0,9.05,90.5
+bcd7bda6-132c-42da-b3b8-d05d67b06b7c,Germany,2025-02-24,5433.0,Tshirts,Tank Top,2.0,10.87,21.74
+f24cecfd-c737-4267-bfc3-4906dfbba1b7,Germany,2025-05-14,5943.0,Smart Phone,OnePlus,8.0,9.6,76.8
+b2e7e413-1701-4558-8826-c6788f374779,Germany,2025-05-06,5017.0,Smart Phone,Pixel,3.0,8.16,24.48
+c61c3d58-59c1-4918-b6b0-a72650399f42,Germany,2024-07-11,9877.0,Water bottles,Smart,5.0,7.02,35.1
+7bbfa8ea-3698-41f8-a3d0-ed8933b5d393,Germany,2024-07-18,9763.0,Tshirts,Graphic Tee,7.0,6.9,48.3
+5bf488bc-b683-4a9d-b8cc-99a6cf470c37,Germany,2025-04-12,4409.0,Tshirts,Full Sleeve,9.0,13.13,118.17
+6a205781-2376-4e87-ab15-f8320c5bef44,Germany,2025-04-22,8476.0,Water bottles,Insulated,6.0,8.23,49.38
+188a09eb-78ec-421b-b602-7a95f35992e3,Germany,2025-03-31,6597.0,Tshirts,Graphic Tee,2.0,10.48,20.96
+e22f1e2a-2140-4691-8f74-40d58484e071,Germany,2025-02-21,2195.0,Shoes,Loafers,6.0,6.16,36.96
+0084fa04-ef9e-4435-b8b6-6101eeaf248f,Germany,2024-11-19,2979.0,Water bottles,Insulated,6.0,11.21,67.26
+1e87d756-6aa1-4d45-bd24-fa811db1c0b0,Germany,2024-06-12,5223.0,Smart Phone,Xiaomi,8.0,10.59,84.72
+a64e88d0-b66a-47eb-a1bf-4326412c1034,Germany,2024-06-14,4950.0,Shoes,Loafers,7.0,7.98,
+751d2eb4-9399-4743-821c-930c0f7323a7,Germany,2024-10-02,3825.0,Tshirts,Full Sleeve,1.0,12.27,12.27
+df8798f2-4d4e-4528-8477-5de9bb4099bf,Germany,2025-05-05,9019.0,Tshirts,V-neck,2.0,10.27,20.54
+d03698be-bb4e-4c2b-b5a9-9ca1367fad43,Germany,2025-03-08,6512.0,Water bottles,Plastic,3.0,12.34,37.02
+3dbdac3b-2f4a-4dab-b5df-f070f8566394,Germany,2024-11-23,1077.0,Perfumes,Spicy,9.0,11.21,100.89
+8f7d8e96-8f70-4779-b800-67c00e772f09,Germany,2025-04-23,6580.0,Perfumes,Floral,5.0,5.97,29.85
+ee71a35e-5596-4ef9-ac2e-53573e042026,Germany,2024-06-19,3677.0,Smart Phone,Realme,7.0,6.84,47.88
+7baa87f7-67fb-47a6-aa7e-c945c1448390,Germany,2024-12-22,1989.0,Perfumes,Spicy,7.0,6.83,47.81
+67e6da0f-aa74-444d-a8ba-bf809d502e63,Germany,2024-10-20,9866.0,Smart Phone,Realme,6.0,11.61,69.66
+b80b6efd-e91a-41c7-9c4f-59656e2d3c58,Germany,2025-04-06,8526.0,Water bottles,Glass,10.0,10.3,103.0
+670af69a-4eb4-4025-a8ed-0e6f102c6379,Germany,2025-03-04,8323.0,Shoes,Formal Shoes,10.0,5.94,59.4
+7cc76fa2-3ef7-4720-8f8c-d3f40bf0ce37,Germany,2024-12-02,4843.0,Smart Phone,Xiaomi,3.0,11.62,34.86
+9807b8d5-4575-48a5-812d-ed7e45e0dd8e,Germany,2024-07-13,5988.0,Jeans,Straight,1.0,5.93,5.93
+68cc3596-dd7f-45d5-b0b4-c0d98a7380fd,Germany,2025-05-11,3182.0,Jeans,Relaxed,3.0,11.07,33.21
+5c467deb-6529-4df5-b88c-51516d547e1c,Germany,2025-01-31,9353.0,Water bottles,Smart,2.0,11.82,23.64
+725e1d3b-1a5b-4643-808c-9522290039b5,Germany,2024-12-27,4045.0,Shoes,Sandals,4.0,7.29,29.16
+65af064a-2df7-41ce-b997-8a8d6ffd9855,Germany,2025-01-06,7372.0,Shoes,Sandals,1.0,8.74,8.74
+4174d7e9-e76e-4aac-b3b8-9516a9ce2bf4,Germany,2024-09-25,8263.0,Jeans,Relaxed,9.0,5.86,52.74
+9c9e1d57-0296-4285-bdd4-6450390197f2,Germany,2025-05-02,6616.0,Smart Phone,Xiaomi,9.0,10.57,95.13
+459241ac-2603-45c8-a5b5-32dd258a0e74,Germany,2024-11-10,7548.0,Perfumes,Fresh,6.0,12.0,72.0
+1f46a455-5e3b-49ce-ba87-deb7bea02dff,Germany,2024-07-01,6868.0,Shoes,Boots,10.0,8.75,87.5
+35beb95a-e136-42f0-9699-bbbed72f1825,Germany,2024-10-16,3228.0,Smart Phone,Pixel,5.0,6.44,32.2
+3793d2f2-3b05-444d-af39-c99c7e18ddf4,Germany,2024-08-22,7557.0,Shoes,Sports Shoes,7.0,5.94,41.58
+c551b713-f24b-42c0-85f8-fded28ca9023,Germany,2024-12-01,9147.0,Perfumes,Fresh,8.0,10.27,82.16
+5646d9a9-2fad-4436-ad3d-1ee8ac965dc7,Germany,2025-03-01,4406.0,Perfumes,Woody,2.0,11.11,22.22
+cf5676e4-3baa-499a-890c-5f871a1d2340,Germany,2024-08-11,3335.0,Shoes,Boots,1.0,10.43,10.43
+ef83d9e3-4040-4101-b526-57bca7acc549,Germany,2025-04-27,1182.0,Perfumes,Woody,4.0,10.09,40.36
+3bb46892-30eb-4a74-b290-41bd446085d6,Germany,2025-04-23,3028.0,Jeans,Slim Fit,1.0,11.25,11.25
+e321fecb-8993-4312-a072-5989a1db830f,Germany,2025-03-24,9738.0,Water bottles,Insulated,10.0,7.91,79.1
+a2764813-660c-4366-9dfc-843e47eb1404,Germany,2025-03-07,2351.0,Tshirts,Full Sleeve,3.0,5.91,17.73
+7ca33bbc-a54a-4c07-9c2c-107b20bceac5,Germany,2025-04-24,1207.0,Shoes,Sandals,4.0,9.3,37.2
+709c82c0-3818-4857-b6f9-338544f63b7a,Germany,2024-06-22,6032.0,Smart Phone,Realme,8.0,10.95,87.6
+b0efea91-d4fd-4efd-ba58-132e4d6d7a14,Germany,2024-07-08,3577.0,Tshirts,Full Sleeve,2.0,7.8,15.6
+52bdd07b-07b5-469a-8a13-de296f6127a8,Germany,2024-08-02,4247.0,Water bottles,Foldable,2.0,10.99,21.98
+f7e1f349-fda5-4b8c-b83f-b3b4a5cf34a9,Germany,2025-01-03,8023.0,Jeans,Skinny,6.0,6.76,40.56
+9de2b1e9-5cd7-4179-8781-7ad185bba977,Germany,2024-08-01,1622.0,Smart Phone,Realme,1.0,7.28,7.28
+9d157d1a-74f1-4689-9a6d-4c4b3890135e,Germany,2025-05-02,9484.0,Jeans,Bootcut,1.0,13.07,13.07
+,Germany,2024-06-14,4899.0,Shoes,Boots,6.0,9.36,56.16
+8282db58-9807-463a-9837-e8b92a3c2f6b,Germany,2024-10-06,6433.0,Shoes,Boots,1.0,12.23,12.23
+6f34f064-6f97-4be0-a568-49f902fdadd4,Germany,2025-04-19,8499.0,Water bottles,Smart,10.0,5.95,59.5
+7e84b263-4c33-4ad3-bd8f-3ea839209ed6,Germany,2024-10-23,2458.0,Perfumes,Floral,8.0,11.98,95.84
+3b2a1678-003f-4c79-bb10-0491e3fce367,Germany,2024-12-04,4034.0,Smart Phone,iPhone,9.0,11.43,102.87
+783e70a7-db44-46da-a589-f6114f77a7c2,Germany,2024-10-09,3501.0,Shoes,Sandals,7.0,6.64,46.48
+90e408a6-5a3b-43ba-9343-debf1a68ea20,Germany,2025-03-04,8237.0,Jeans,Bootcut,9.0,8.35,75.15
+ad39e052-92a0-4688-b4b5-bf074b824317,Germany,2024-10-22,4294.0,Water bottles,Steel,1.0,5.85,5.85
+5204c1c8-590d-44bf-9019-0c4a8e6bbcf7,Germany,2025-03-15,5685.0,Shoes,Loafers,3.0,9.09,27.27
+c75891e8-6f7b-49f7-9cbf-4a556a2d96e1,Germany,2025-01-26,7029.0,Perfumes,Floral,8.0,5.74,45.92
+0ee6b4f4-784d-47a5-9311-8ab732c97319,Germany,2024-11-29,1513.0,Water bottles,Glass,8.0,6.74,53.92
+da27f919-bd03-4fda-a64d-4d0e0db71d95,Germany,2024-06-18,1257.0,Perfumes,Fresh,6.0,10.22,61.32
+ce819acf-bc7e-4e70-a57f-2598a9850f62,Germany,2024-11-11,4628.0,Smart Phone,Pixel,9.0,7.27,65.43
+2af15324-f914-4c19-be2f-0645aed24ab4,Germany,2024-09-27,4356.0,Water bottles,Plastic,2.0,9.61,19.22
+2f96530b-d3ab-4c3f-b458-98b0b845e393,Germany,2024-07-19,4503.0,Smart Phone,iPhone,6.0,7.18,43.08
+6d13e01d-10b8-4703-bacc-de0199300e2b,Germany,,7413.0,Shoes,Formal Shoes,1.0,10.12,10.12
+948bf086-1895-45da-8c04-cd6b014d7938,Germany,2024-07-01,5953.0,Jeans,Slim Fit,4.0,7.0,28.0
+6575e8af-6e48-482c-84f7-38848c789ee1,Germany,2025-02-17,7772.0,Shoes,Sneakers,7.0,9.76,68.32
+c1657c6e-ec89-4be4-8de0-7f104f3e2166,Germany,2024-11-03,6948.0,Smart Phone,Galaxy,6.0,7.62,45.72
+1763be41-4786-4f3d-b07f-79b0a14e4b5f,Germany,2024-11-18,1954.0,Shoes,Sports Shoes,1.0,11.93,11.93
+abbfcb6f-9dc9-45cf-90eb-4f87c971c143,Germany,2024-05-23,9120.0,Tshirts,Tank Top,3.0,12.68,38.04
+4aea2c81-6a32-49a4-ab20-023718c321f4,Germany,2025-05-04,6992.0,Perfumes,Aqua,2.0,9.35,18.7
+1b815737-8f29-429f-b318-2320a374c6a4,Germany,2024-05-19,5045.0,Smart Phone,Galaxy,2.0,11.69,23.38
+6f71b9ba-6b20-4590-859b-3fa5b73cdcb4,Germany,2024-12-23,5917.0,Jeans,Straight,8.0,6.98,55.84
+caf34ebb-7e66-453c-aa06-d23a4143da2f,Germany,2024-08-04,9996.0,Shoes,Boots,10.0,11.05,110.5
+c55fca61-be83-4909-8e94-e3ebe1d6c076,Germany,2025-03-15,9211.0,Perfumes,Citrus,7.0,7.73,54.11
+a8c01450-07ad-4729-9295-ea37f181aa39,Germany,2024-09-19,2439.0,Jeans,Skinny,10.0,9.97,99.7
+8ad5810c-7147-4088-b0fe-71418d99a727,Germany,2025-03-20,9661.0,Perfumes,Woody,5.0,8.98,44.9
+80a10327-8a2c-493d-80ef-4f70ec1ffcbd,Germany,2024-08-13,7472.0,Jeans,Regular Fit,9.0,8.48,76.32
+0ec937c6-52c8-427c-bf35-42d42861d243,Germany,2024-07-11,4927.0,Perfumes,Spicy,4.0,9.99,39.96
+921603fe-dc4e-4ff1-82f1-ecf20b8a48fb,Germany,2025-01-19,5594.0,Jeans,Skinny,8.0,8.2,65.6
+f3ca0e38-9bb6-4b7e-8d5d-f7bc64ae14a6,Germany,2025-01-17,5345.0,Shoes,Sneakers,2.0,8.1,16.2
+c6477f74-4c54-42e3-b8e8-15f2ee2ab0b8,Germany,2025-04-18,2673.0,Tshirts,Tank Top,3.0,5.89,17.67
+083dd6f7-638d-4efe-9b0d-2428af9f9ce0,Germany,2025-03-29,6408.0,Smart Phone,Realme,2.0,12.2,24.4
+9f34b145-6b6b-4654-8f72-8817de26ec1a,Germany,2024-09-03,7254.0,Tshirts,Tank Top,10.0,8.35,83.5
+4cb62fb0-e79b-486f-802d-55ff6d5ac9ee,Germany,2024-12-28,4472.0,Smart Phone,Galaxy,5.0,5.82,29.1
+70f8c810-4272-4442-a701-24c57a18b38f,Germany,2024-08-29,3007.0,Tshirts,Tank Top,2.0,11.98,23.96
+14f89da1-e19f-4cc9-bdde-949ea835f6d1,Germany,2024-10-26,4051.0,Perfumes,Spicy,6.0,6.96,41.76
+56891531-cfff-42ca-9da4-91512d6b5a30,Germany,2024-05-31,6753.0,Smart Phone,Realme,10.0,13.21,132.1
+b5cd1696-68a5-4fe0-89e5-0e5d8d1ea9d1,Germany,2024-11-25,2149.0,Shoes,Formal Shoes,7.0,11.05,77.35
+a38a6573-e727-413a-9022-aab2a37301de,Germany,2024-05-31,4630.0,Water bottles,Plastic,2.0,8.82,17.64
+218aaac9-5f70-4528-b778-03943700e363,Germany,2025-04-07,8895.0,Jeans,Bootcut,5.0,6.43,32.15
+02f5b563-84c6-49e3-8a31-8a9c3169f269,Germany,2024-06-24,5821.0,Tshirts,Tank Top,2.0,6.71,13.42
+7737f7a7-db2c-4ffe-9a93-ffe7cf868c17,Germany,2024-06-19,2484.0,Perfumes,,5.0,6.71,33.55
+9175d729-9b8a-48d6-8b92-76cb990551c2,Germany,2025-03-09,7122.0,Tshirts,Full Sleeve,3.0,8.17,24.51
+5606e905-5b32-4704-a088-c92b094339e0,Germany,2024-06-29,2554.0,Tshirts,Graphic Tee,1.0,12.2,12.2
+cf80d214-bd5c-46eb-901f-638fabfde65e,Germany,2024-12-30,7746.0,Smart Phone,Galaxy,6.0,11.24,67.44
+806d3457-14dc-4143-b022-38e68841d98b,Germany,2024-10-29,9068.0,Perfumes,Fresh,1.0,8.65,8.65
+8948db22-01fe-413a-bba7-ab2313a95b1e,Germany,2024-05-18,1282.0,Smart Phone,Pixel,5.0,6.67,33.35
+b3b5ecc8-e96a-4e81-ab1c-db377d8a9290,Germany,2024-06-22,5344.0,Perfumes,Citrus,4.0,11.51,46.04
+f1944f6c-0d5a-4f30-aa6c-f97b0a95d1e1,Germany,2025-03-31,9554.0,Jeans,Slim Fit,6.0,8.51,51.06
+278d47d2-62a6-4f49-9948-1c348e4079cc,Germany,2025-02-16,5176.0,Smart Phone,OnePlus,8.0,9.11,72.88
+6640d136-637f-4654-81c4-87838a7881fe,Germany,2024-06-24,2118.0,Jeans,Skinny,8.0,9.25,74.0
+f27f8712-e573-4cc5-ab0b-2a34b0c4ff67,Germany,2024-07-23,7362.0,Tshirts,Graphic Tee,1.0,8.58,8.58
+5edf87da-d485-4540-bf23-dc1997875918,Germany,2024-06-11,8071.0,Smart Phone,OnePlus,10.0,8.47,84.7
+103fb9f0-a4aa-431b-94da-b8050c4e127f,Germany,2024-12-10,3983.0,Perfumes,Spicy,1.0,10.64,10.64
+dff3fbae-956e-41fb-9b6f-f7935315746f,Germany,2025-02-27,9322.0,Jeans,Regular Fit,2.0,12.44,24.88
+b87c142d-94af-48b9-becd-615bc4dc474e,Germany,2025-05-04,2884.0,Smart Phone,Realme,5.0,12.51,62.55
+a9a9fb2c-d0e4-4d8a-88d4-445dca6c2829,Germany,2024-09-23,9272.0,Water bottles,Insulated,,8.94,17.88
+d8a712fb-ff16-40f0-9af5-0294b37c32d1,Germany,2025-03-26,2727.0,Tshirts,Polo Shirt,7.0,7.43,52.01
+952a47ff-e1a8-4962-8529-759dd8878f1d,Germany,2025-02-11,5721.0,Smart Phone,OnePlus,2.0,8.19,16.38
+29cc8ab0-5801-4604-87e5-3b1e5bfbc0fe,Germany,2024-06-17,3309.0,Perfumes,Aqua,8.0,9.48,75.84
+37974beb-d7b1-40e2-8c88-3237c1292a5f,Germany,2025-03-17,3006.0,Smart Phone,iPhone,1.0,6.53,6.53
+c6a63c6b-462a-429d-8938-d3fe67aaaf94,Germany,2024-06-23,1218.0,Perfumes,Spicy,6.0,10.14,60.84
+cbd6ce75-bf45-4da8-814e-cf0240cfeb47,Germany,2025-03-23,7669.0,Tshirts,Polo Shirt,4.0,9.19,36.76
+8a868900-e05e-4dcd-8ae1-5addd6ff6a05,Germany,2025-02-10,9184.0,Smart Phone,OnePlus,1.0,5.77,5.77
+09c39ca7-41b4-49ca-9a2a-3a8ee8338ef3,Germany,2025-03-22,6335.0,Shoes,Sports Shoes,8.0,10.07,80.56
+e01273d7-90e7-4085-87ce-280a437c14e2,Germany,2024-09-27,1488.0,Perfumes,Citrus,10.0,12.74,127.4
+97330a45-02f5-4282-a768-9dfbd1fa64af,Germany,2025-02-02,8483.0,Perfumes,Woody,5.0,11.3,56.5
+6ea48dc0-65fb-436d-9729-b73b4324805c,Germany,2024-12-30,8980.0,Smart Phone,Galaxy,4.0,12.91,51.64
+fb98e9a5-9bbf-4afa-a443-cd7942052edf,Germany,2024-08-28,5997.0,Tshirts,Cotton Tee,8.0,6.14,49.12
+a86dca1c-9e60-4ed2-aa47-a2ff24a09319,Germany,2024-05-20,6883.0,Tshirts,Cotton Tee,8.0,10.58,84.64
+ff2f2142-dc01-4a6b-ae0e-c269744d101f,Germany,2025-01-21,5712.0,Jeans,Relaxed,6.0,10.99,65.94
+63fa103b-c0b4-4d73-a7ff-1b9f74427a18,Germany,2025-01-03,1735.0,Shoes,Sports Shoes,4.0,7.78,31.12
+db4f6aea-f02a-4b0c-a407-efee1881836e,Germany,2024-09-01,3277.0,Tshirts,Graphic Tee,2.0,11.52,23.04
+669e61ed-a148-458e-bafc-26d18641768f,Germany,2024-06-30,5808.0,Tshirts,Graphic Tee,10.0,6.75,67.5
