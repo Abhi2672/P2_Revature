@@ -1,0 +1,1001 @@
+SaleId,Country,SaleDate,ProductId,Category,ProductName,Qty,Price,Amount
+51d5d62b-1c45-4d81-aadb-b2fc9331653d,Oman,2025-05-10,9798.0,Jeans,Relaxed,2.0,2.57,5.14
+17467451-d772-4ea9-ac14-785594d96516,Oman,2024-07-19,8042.0,Jeans,Bootcut,1.0,5.38,5.38
+fe4d58c1-6794-46cd-a17e-e03a8a5db90b,Oman,2025-03-04,5678.0,Water bottles,Foldable,9.0,2.75,24.75
+892e2973-cd65-4e9a-9b4d-6f3ebb859153,Oman,2025-04-22,5182.0,Jeans,Relaxed,9.0,3.38,30.42
+ca89b460-6d8e-4757-8e56-2fbe7a9dbea0,Oman,2025-04-20,9416.0,Shoes,Sneakers,7.0,3.03,21.21
+36c1c052-207c-4173-abda-623faca9b4d8,Oman,2024-11-10,7215.0,Perfumes,Woody,2.0,4.7,9.4
+0279d6d8-e869-48cd-8f0c-b156ffc6ce15,Oman,2024-11-24,9610.0,Water bottles,Glass,8.0,2.97,23.76
+4241e3eb-74c8-43a4-8fdc-b64544ec89bb,Oman,2024-05-23,4780.0,Shoes,Formal Shoes,7.0,3.24,22.68
+8eb7ae33-a848-496e-9224-2ae57035dec5,,2024-06-17,2794.0,Jeans,Bootcut,1.0,4.48,4.48
+4aa4b837-7d9e-4bb2-8853-d212926730dc,Oman,2025-01-09,8162.0,Jeans,Straight,9.0,2.77,24.93
+675684ce-0ce3-4cce-8b2a-29944cffa037,Oman,2024-12-21,4303.0,Perfumes,Fresh,2.0,3.9,7.8
+baf90557-f642-4513-9ba1-43ac649e2575,Oman,2025-01-11,4233.0,Water bottles,Insulated,3.0,2.65,7.95
+3aff81d1-faca-4c41-9377-0d9dc9117c27,Oman,2024-08-30,9852.0,Shoes,Boots,1.0,5.0,5.0
+453a2e55-6fe2-43b3-8286-48b444de3376,Oman,2024-11-04,3584.0,Smart Phone,Galaxy,1.0,2.47,2.47
+f728a97a-92f7-4f86-b958-289b1e054c8a,Oman,2024-12-04,8072.0,Jeans,Regular Fit,5.0,2.58,12.9
+db0e09ff-b6e3-45d3-a5e5-91c82fff7405,Oman,2024-05-17,3727.0,Tshirts,Cotton Tee,3.0,2.73,8.19
+7dddf3dc-ba13-46b5-be54-b9d833057245,Oman,,3431.0,Perfumes,Floral,2.0,4.5,9.0
+e714e1a3-5bf9-4fad-83b9-3598ddc096d2,Oman,2024-09-18,1024.0,Jeans,Regular Fit,7.0,5.02,35.14
+37c200e3-c2e8-4700-b548-7cd7e0ef27f8,Oman,2024-05-14,1337.0,Tshirts,Polo Shirt,5.0,2.46,12.3
+607cbd33-84dc-4f4d-8c6d-5cde04a7083d,Oman,2024-08-18,5779.0,Water bottles,Glass,8.0,2.37,18.96
+673f11eb-fe7a-4953-b6dd-7eecbe6826d2,Oman,2024-11-06,2822.0,Smart Phone,OnePlus,5.0,3.38,16.9
+8422edc7-00dc-4d6c-813c-7d7c9cb84018,Oman,2024-12-02,5130.0,Water bottles,Steel,3.0,3.77,11.31
+00adad8f-cc5e-479b-a7fc-50e01e7e0e2d,Oman,2024-05-22,9101.0,Smart Phone,Pixel,5.0,3.36,16.8
+bdfe7f18-74ed-43ce-af0e-bfd3339839aa,Oman,2025-04-01,6518.0,Tshirts,Cotton Tee,2.0,5.27,10.54
+d7b798ec-fd2e-43ed-8b17-74d44cda028a,Oman,2024-06-14,7967.0,Tshirts,V-neck,4.0,4.69,18.76
+63754082-420d-4799-bffe-5b8b7ae32c9a,Oman,2024-08-17,1830.0,Shoes,Sandals,5.0,3.03,15.15
+d0e12881-98c2-4c34-abde-34e705e71b68,Oman,2025-04-05,9438.0,Perfumes,Citrus,8.0,2.72,21.76
+3fc12984-3818-4f7a-af2e-155846ff19b3,Oman,2024-10-29,2945.0,Perfumes,Floral,6.0,3.1,18.6
+d5c4b30a-b917-4922-98c6-a4ffe3ebebd7,Oman,2024-08-16,8301.0,Water bottles,Smart,8.0,2.92,23.36
+85fcfa18-189b-47a3-adf8-3de2151d892c,Oman,2025-04-21,2514.0,Jeans,Skinny,1.0,4.47,4.47
+a550a4d1-8e27-4044-9aa8-33b4a982d88e,Oman,2024-10-04,5245.0,Smart Phone,Realme,6.0,4.16,24.96
+c25cdea8-243a-42d4-8051-d2625468edcc,Oman,2024-12-22,6063.0,Smart Phone,iPhone,5.0,2.94,14.7
+3069ae7c-04a6-4ca6-b908-017b266bb932,Oman,2025-01-15,5256.0,Perfumes,Citrus,9.0,4.26,38.34
+0314f10f-aa2b-4aa7-990d-a48dce0f3a53,Oman,2024-06-09,4918.0,Shoes,Sports Shoes,8.0,3.71,29.68
+07ac3372-693e-42d5-a9b2-0a83471994c9,Oman,2024-11-03,5642.0,Tshirts,Full Sleeve,10.0,3.08,30.8
+45f97eab-b43c-4be2-a3fc-722194fe41ec,Oman,2025-04-14,7626.0,Jeans,Bootcut,1.0,2.39,2.39
+b7533ff5-25f5-4323-b10d-cbb76e93c789,Oman,2024-06-03,9832.0,Tshirts,Tank Top,9.0,3.76,33.84
+81ca7732-b04f-483c-9773-3d21e906222b,Oman,2024-07-12,4645.0,Shoes,Loafers,4.0,2.92,11.68
+ec2530fa-98b1-451e-b25d-71f1836a2e1d,Oman,2025-03-07,5734.0,Shoes,Loafers,1.0,3.78,3.78
+f60249b5-2637-4ce4-8049-f6b8f7d86a56,Oman,2025-04-24,7407.0,Smart Phone,Realme,9.0,4.12,37.08
+58be184d-87e7-466e-889f-4c4224076ed2,Oman,2024-11-24,2147.0,Tshirts,Polo Shirt,6.0,2.73,16.38
+532394aa-b056-4a5a-8317-abe47f33922b,Oman,2025-04-30,8660.0,Smart Phone,OnePlus,6.0,5.19,31.14
+5bc76084-e9a9-4188-8a27-b91a3a36fc4e,Oman,2025-01-16,6104.0,Shoes,Sports Shoes,1.0,3.14,3.14
+38e6a21b-ee38-49e9-b377-071a28e6a63b,Oman,2024-09-24,8445.0,Water bottles,Smart,5.0,3.64,18.2
+1652142c-4b6e-49d5-8227-e56b04741ebc,Oman,2024-07-14,2551.0,Tshirts,Cotton Tee,10.0,2.8,28.0
+f34e9435-8f5d-4e9f-8586-e43cfe13d91c,Oman,2024-07-07,2756.0,Jeans,Straight,2.0,4.94,9.88
+6b2e258e-afc6-4d34-9dbe-fabd8c881f36,Oman,2025-05-13,3894.0,Smart Phone,iPhone,7.0,2.33,16.31
+53ce202b-f97c-4b6a-a1ad-0addc94b12db,Oman,2024-09-25,4589.0,Jeans,Bootcut,10.0,5.54,55.4
+688cce17-6d2d-4c6c-83b6-6a270e2d79ba,Oman,2024-05-23,3348.0,Perfumes,Spicy,2.0,3.17,6.34
+16f89d97-0795-4c4a-962f-bcea7551eb4f,Oman,2025-02-18,4285.0,Shoes,Sports Shoes,,4.31,38.79
+915b3aca-208d-4d01-a771-c17cfbcdcfde,Oman,2025-02-23,7999.0,Smart Phone,OnePlus,6.0,2.4,14.4
+20061fdb-16ee-4513-99d1-24151192a38f,Oman,2024-05-25,9155.0,Tshirts,Cotton Tee,2.0,3.18,6.36
+c05db901-6f6a-4be1-adec-0f06bc450b7c,Oman,2024-09-17,4676.0,Shoes,Boots,5.0,3.25,16.25
+e4260ae1-c59b-4de8-909d-1263f4aa15ac,Oman,2025-02-21,5236.0,Water bottles,Plastic,1.0,3.5,3.5
+0bc6e292-b9b4-46d3-a1bf-fb714fe2f053,Oman,2025-04-18,3364.0,Smart Phone,Galaxy,10.0,3.8,38.0
+fcd1c3b7-6b41-4683-b097-2046fa7cf893,Oman,2024-08-06,5912.0,Perfumes,Citrus,4.0,2.34,9.36
+067070e0-f765-4613-9341-72ff620072e0,Oman,2024-06-24,6454.0,Tshirts,Full Sleeve,9.0,5.37,48.33
+7fcceb99-5dae-460b-81c0-80383c91accc,Oman,2025-02-17,4358.0,Tshirts,Polo Shirt,1.0,3.1,3.1
+7de7ca5a-4f22-4d57-bb5d-13c5f6cb4071,Oman,2025-04-07,3439.0,Jeans,Slim Fit,8.0,5.14,41.12
+8eeefe95-5987-4711-bc20-fe71426cd241,Oman,2024-10-24,9761.0,Perfumes,Spicy,1.0,5.19,5.19
+515ea371-f0b1-4781-a9c6-49ec2b48a034,Oman,2025-03-03,3067.0,Shoes,Sneakers,4.0,2.38,9.52
+f3e5118a-ab0d-4f11-b577-0452d37805ee,Oman,2024-07-24,7459.0,Smart Phone,Galaxy,2.0,3.46,6.92
+82673f9a-00f8-49de-bca3-39e873fbf312,Oman,2024-10-13,7347.0,Smart Phone,Realme,10.0,2.79,27.9
+b2e3e64b-ee8f-46ca-99e0-890fef58b690,Oman,2025-03-14,5522.0,Water bottles,Foldable,1.0,4.29,4.29
+ed35839b-f4d6-4658-939b-4c16fbcaebdc,Oman,2025-01-10,9942.0,Tshirts,Full Sleeve,3.0,4.16,12.48
+d824a59e-db33-4e63-82b9-16867126c537,Oman,2024-08-26,8754.0,Shoes,Formal Shoes,1.0,5.25,5.25
+a9927ca9-149c-4ebd-9472-511a7792a78a,Oman,2024-07-14,1984.0,Shoes,Sneakers,5.0,5.08,25.4
+03d9f8c3-5c92-4fa4-b52b-6689a39cd730,Oman,2024-05-28,2783.0,Water bottles,Insulated,6.0,4.81,28.86
+802739e5-4da5-48e4-82a0-6460ce68210c,Oman,2024-12-19,8919.0,Tshirts,Full Sleeve,2.0,2.89,5.78
+25445d8c-f93a-4b04-8d24-6ef6fe50e2da,Oman,2024-07-01,4855.0,Smart Phone,OnePlus,6.0,3.38,20.28
+cfcb3ed7-4599-4d7e-9d35-4aa4502e5598,Oman,2024-08-03,7869.0,Water bottles,Steel,8.0,2.43,19.44
+60df109a-c0ff-479e-bd29-e827e0f2d1dc,Oman,2024-12-12,2423.0,Perfumes,Spicy,8.0,5.53,44.24
+6ecd8788-a31f-4c0f-8a66-b8b7561657a8,Oman,2025-04-06,5141.0,Tshirts,Graphic Tee,8.0,2.97,23.76
+5b35300d-c04f-4bd0-bcfe-44089ac725a7,Oman,2024-07-16,5207.0,Tshirts,Full Sleeve,8.0,3.4,27.2
+0466b04d-2c0c-4e4b-8920-aae993283178,Oman,2024-10-16,2440.0,Smart Phone,Galaxy,1.0,4.35,4.35
+abab2bc7-19e0-42e5-9fac-6d85c433c4f0,Oman,2025-02-13,4204.0,Perfumes,Aqua,8.0,5.25,42.0
+87fc7d1a-148f-4e3c-8ce9-0fdf8bf4a93a,Oman,2024-07-09,8595.0,Jeans,Regular Fit,10.0,3.28,32.8
+ab2f4642-db6f-4a27-80a5-3ee73fc38d4c,Oman,2024-10-27,4825.0,Perfumes,Fresh,5.0,4.15,20.75
+ad5ae575-565d-4ed0-b9b0-5c644e85661e,Oman,2024-12-27,5710.0,Tshirts,Tank Top,8.0,3.26,26.08
+80b04e3d-dd2f-4be8-9fda-be67801d04d5,Oman,2025-03-23,9654.0,Jeans,Slim Fit,7.0,4.45,31.15
+cd26a22b-9631-45d0-86f8-60a9844e21a8,Oman,2024-10-24,1380.0,Tshirts,Cotton Tee,5.0,3.18,15.9
+4279c1cc-67b8-4414-a7b8-0731fe39fe8d,Oman,2025-04-15,1299.0,Water bottles,Smart,6.0,4.93,29.58
+d109fd54-192c-487d-98c4-198d58e9bf38,Oman,2024-06-22,3637.0,Smart Phone,Xiaomi,1.0,2.47,2.47
+4f9dd529-5efe-40f7-a0cf-449ed0af7986,Oman,2024-07-29,5570.0,Shoes,Formal Shoes,4.0,3.71,14.84
+2fbdaf4f-b9e8-4a00-8d59-855d150f1ad2,Oman,2024-08-17,1480.0,Jeans,Regular Fit,3.0,4.2,12.6
+0d0b9063-66c5-458f-b54e-c3231e53a5da,Oman,2024-09-11,9648.0,Tshirts,Graphic Tee,1.0,5.1,5.1
+f22af6f6-d2e4-455c-8112-ae156c83a898,Oman,2024-08-15,9277.0,Smart Phone,Xiaomi,7.0,5.5,38.5
+0ef6da2a-fcc9-4df1-8d88-fa936292ac6b,Oman,2024-07-31,3673.0,Smart Phone,OnePlus,8.0,,33.68
+339ef82b-b2e8-48bf-bfdf-65880ffed184,Oman,2024-06-23,8319.0,Water bottles,Smart,2.0,4.02,8.04
+9f76385e-979c-4adc-93fc-86218cfe8711,Oman,2025-01-03,1810.0,Water bottles,Steel,10.0,3.49,34.9
+46a968c5-cebe-41c8-96e7-350e1486cd28,Oman,2024-05-26,4438.0,Shoes,Formal Shoes,2.0,2.99,5.98
+798f5e3f-efd1-422e-ab42-82154c3d8a35,Oman,2025-03-25,8645.0,Water bottles,Steel,5.0,4.25,21.25
+6a3990da-8e05-4add-a6f8-a5acc30dafb5,Oman,2024-05-31,2719.0,Smart Phone,Galaxy,8.0,2.34,18.72
+6350eff7-c1f6-4fec-a15e-0655e276db30,Oman,2025-04-22,6812.0,Jeans,Regular Fit,1.0,4.05,4.05
+fa4f169a-9de9-494d-b71d-2e0faf09c66e,Oman,2025-03-01,9312.0,Water bottles,Foldable,3.0,3.55,10.65
+a5e441cd-94f3-49ac-9938-bfc7422491e9,Oman,2024-09-01,9583.0,Jeans,Relaxed,10.0,2.86,28.6
+ebd7fd91-5d5a-43aa-9e09-b6685422d954,Oman,2024-05-17,2973.0,Jeans,Straight,5.0,2.97,14.85
+70033ea7-f54c-427a-b4be-949b13b8fad4,Oman,2024-09-23,4661.0,,Sports Shoes,4.0,2.63,10.52
+b4c77a96-2a67-4030-87b5-3b85567351cb,Oman,2024-06-29,1370.0,Tshirts,Full Sleeve,10.0,4.34,43.4
+8ee068b6-2a9d-41f7-ac31-15d478f8ebed,Oman,2024-12-05,9562.0,Tshirts,Cotton Tee,4.0,3.82,15.28
+2339df60-78bf-4e23-80e2-f562bea32d34,Oman,2025-03-12,8667.0,Tshirts,V-neck,7.0,2.66,18.62
+b70e1920-0e65-4eba-82ad-08d999474e78,Oman,2024-08-10,2834.0,Shoes,Formal Shoes,7.0,4.94,34.58
+6d3f9e04-1b14-42aa-aa5e-52e1f20bdb32,Oman,2024-05-24,9388.0,Smart Phone,Realme,4.0,3.48,13.92
+7850b7b1-9d95-45c5-8779-78481c6ef704,Oman,2025-04-03,3533.0,Perfumes,Woody,5.0,3.43,17.15
+ad45c94d-33ea-4f2f-a4cd-46e12139298b,Oman,2024-12-31,8882.0,Tshirts,Cotton Tee,1.0,3.87,3.87
+8914d039-1ee0-46ff-865f-72e47d8b8291,Oman,2024-07-29,8948.0,Shoes,Sandals,5.0,4.32,21.6
+0a524e33-3a08-47d8-9666-7ba856bebe18,Oman,2024-11-03,2737.0,Jeans,Skinny,10.0,4.72,47.2
+2e9b8fb5-01c9-4e2a-a726-f649e650cae5,Oman,2025-03-20,9995.0,Tshirts,V-neck,4.0,4.56,18.24
+772c7498-5a15-4c95-88cd-015b5dc838f0,Oman,2025-04-15,3211.0,Shoes,Formal Shoes,3.0,2.85,8.55
+f6c94743-652f-4941-a057-c0143699febb,Oman,2024-07-25,1623.0,Tshirts,Graphic Tee,6.0,4.66,27.96
+9a3b2264-626b-4e7a-be49-d6cdca125168,Oman,2025-01-28,5252.0,Jeans,Regular Fit,6.0,5.13,30.78
+0519ae36-78df-4714-aa97-ff5165fe3fdd,Oman,2024-10-12,6841.0,Smart Phone,Xiaomi,6.0,2.79,16.74
+b0a9f87f-9ea7-46bc-afda-b00210f897ab,Oman,2024-06-28,5028.0,Jeans,Skinny,1.0,5.36,5.36
+ea1581f6-fb87-4bc5-9986-3b5f93fc03bc,Oman,2025-05-10,6974.0,Perfumes,Citrus,4.0,3.08,12.32
+e0a1ff32-f089-4324-bfa2-23dab26d6078,Oman,2024-07-08,1899.0,Tshirts,Polo Shirt,5.0,3.72,18.6
+68151f14-d6b6-4b16-9d8d-7b02bc5d618f,Oman,2025-04-26,2191.0,Water bottles,Glass,7.0,3.65,25.55
+02782c34-ed80-4b95-baf7-bd840121221d,Oman,2024-08-06,6963.0,Smart Phone,iPhone,6.0,2.49,14.94
+f47a4d1b-f0e6-4cd5-baae-7f710be23972,Oman,2025-03-25,3564.0,Tshirts,Cotton Tee,4.0,4.51,18.04
+b3ebc460-363d-4a7c-9939-90b64835b194,Oman,2025-02-28,4639.0,Perfumes,Citrus,6.0,2.9,17.4
+8ab55352-49de-469d-a30f-635993f06c26,Oman,2025-04-11,5797.0,Shoes,Formal Shoes,9.0,4.61,41.49
+0609ac3b-386b-4594-90e2-a69d80de1dbe,Oman,2024-05-17,7964.0,Jeans,Skinny,1.0,5.48,5.48
+13189bf2-cf3a-4554-8f32-cd1499c69fcf,Oman,2025-03-26,1253.0,Smart Phone,OnePlus,4.0,3.78,15.12
+0bfe68af-3a87-43e2-9baf-d3b150ff1ea7,Oman,2024-07-10,2653.0,Jeans,Skinny,2.0,3.73,7.46
+6086ce8d-123e-42fb-a95e-17415e48f8b3,Oman,2024-11-14,6975.0,Perfumes,Woody,3.0,4.5,13.5
+8cd00b4a-b6dc-4204-8ebb-1f39c37e9c25,Oman,2024-10-11,5015.0,Jeans,Straight,6.0,3.14,18.84
+ef8b3927-de23-4191-aaf1-70f93b289bee,Oman,2025-01-07,6406.0,Smart Phone,Realme,7.0,4.83,33.81
+17391cff-8cc9-4052-8f52-ddca3b906d87,Oman,2024-06-19,1051.0,Smart Phone,iPhone,9.0,4.96,44.64
+1e557621-d1f7-4b45-845f-1770536b0351,Oman,2025-04-20,9170.0,Tshirts,Graphic Tee,7.0,4.3,30.1
+fe5e36e2-c4ca-4233-8273-9de86bad2b99,Oman,2024-07-13,9283.0,Tshirts,Graphic Tee,7.0,5.42,37.94
+c9886df0-95d0-4dac-8ef2-4e8ad1fcbfa4,Oman,2024-10-25,6520.0,Jeans,Skinny,4.0,2.64,10.56
+ea15bb14-c3d1-40b7-be94-ee365229e29b,Oman,2025-04-14,2821.0,Jeans,Relaxed,7.0,4.93,34.51
+138c549c-c53a-4bfc-8bc7-393e23065b37,Oman,2025-04-30,9072.0,Water bottles,Plastic,10.0,4.02,40.2
+224ceee6-1936-459c-8ea3-5945545b25b3,Oman,2024-08-12,9301.0,Perfumes,Citrus,8.0,4.72,37.76
+4274f88a-5cbe-4bb3-9763-c5c01934d49c,Oman,2024-07-13,1747.0,Smart Phone,Realme,5.0,2.46,12.3
+993b1792-cfe5-4a88-abe3-ec98c32e6e52,Oman,2024-11-09,7280.0,Perfumes,Citrus,4.0,5.13,20.52
+c9699ed6-4bae-49a5-a74c-51a104d40f6a,Oman,2024-09-04,8129.0,Water bottles,Glass,4.0,4.08,16.32
+fda37293-d7b3-4cb4-bcf7-1f08c22515fe,Oman,2024-10-04,3315.0,Shoes,Sneakers,10.0,4.81,48.1
+7108f569-108d-4ac7-9bac-a4390963c291,Oman,2024-06-22,9192.0,Smart Phone,iPhone,7.0,5.06,35.42
+625fc924-5c95-47ea-9f5c-5c1076be9057,Oman,2025-03-22,6210.0,Shoes,Sports Shoes,7.0,4.46,31.22
+87b31442-3a6f-466b-ba8c-178b4e90b61e,Oman,2024-05-20,8246.0,Tshirts,V-neck,6.0,3.23,19.38
+d72d6882-12a9-4f75-9243-34394be7df76,Oman,2024-09-08,9245.0,Tshirts,Full Sleeve,9.0,4.57,41.13
+758240a7-b4a7-4d43-9306-7adad8bfc4d5,Oman,2025-01-29,3966.0,Smart Phone,Pixel,6.0,3.93,23.58
+90080708-2978-4d8f-8cc0-623f62216ec6,Oman,2024-07-20,7599.0,Smart Phone,Galaxy,1.0,5.11,5.11
+736c1a10-e4bc-4bef-a5c2-98e5fb3431dd,Oman,2024-07-25,9457.0,Perfumes,Woody,3.0,3.02,9.06
+0bb28d6b-ff3d-482f-8cdd-aaf2d57ad461,Oman,2024-11-04,7825.0,Smart Phone,Realme,8.0,2.94,23.52
+02a213b0-22d7-445d-802c-04cb6db96fa2,Oman,2024-11-02,3356.0,Jeans,Slim Fit,3.0,3.16,9.48
+dc131f79-114e-46d5-b212-8a487a6d9868,Oman,2025-04-03,4383.0,Jeans,Skinny,2.0,2.81,5.62
+ba045dfb-354f-4914-9698-07e3f16da243,Oman,2024-12-13,7568.0,Smart Phone,OnePlus,8.0,5.41,43.28
+236bc49c-b10e-41b4-aae5-cc9d79d3cba0,Oman,2024-09-30,3054.0,Tshirts,Graphic Tee,7.0,2.83,19.81
+6e659294-876d-432a-a4a3-482f37c783d1,Oman,2025-02-18,9256.0,Shoes,Loafers,9.0,5.25,47.25
+0d579ea0-9b7d-4a08-b9a5-9fecd5fd40e9,Oman,2024-10-18,7445.0,Shoes,Boots,7.0,4.94,34.58
+2d264022-3bd7-4e1f-adee-b23b9760dd35,Oman,2024-06-05,6482.0,Jeans,Slim Fit,3.0,4.1,12.3
+3c3dbcd8-c705-4c5b-9eda-2838c7b95bd9,Oman,2024-08-22,1098.0,Smart Phone,Xiaomi,4.0,2.36,9.44
+aff32a65-0680-4246-89c7-eb4c58cb5de8,Oman,2024-12-03,8770.0,Jeans,Regular Fit,3.0,2.46,7.38
+be010fe7-6b09-4a42-93e4-d5f733342b79,Oman,2024-06-15,8029.0,Perfumes,Spicy,2.0,2.39,4.78
+0242fb7e-c6c9-47ec-81e3-27eef3986f93,Oman,2024-09-13,7741.0,Shoes,Loafers,7.0,5.54,38.78
+7943bf07-bc9b-4872-8eca-3630734264e1,,2024-11-24,8591.0,Tshirts,Cotton Tee,9.0,4.33,38.97
+58218c75-56c8-43c7-b5ef-1ee67ff3a4b9,Oman,2024-08-20,3601.0,Smart Phone,Pixel,4.0,2.41,9.64
+9631be62-13b4-48db-99bc-e2196fb398f4,Oman,2025-02-11,1452.0,Tshirts,Graphic Tee,8.0,3.24,25.92
+86e76c6c-c800-49fb-94c7-ca673dc1e882,Oman,2024-08-22,3411.0,Tshirts,V-neck,1.0,2.37,2.37
+35c65a81-7a13-4ada-ae51-46bdd8570bc3,Oman,2025-04-13,7593.0,Jeans,Regular Fit,7.0,3.2,22.4
+7497d326-2157-45a0-9658-db7dbfe46ba0,Oman,2025-02-20,3874.0,Jeans,Bootcut,7.0,3.65,25.55
+7b6de071-25b0-4a57-a4ba-1e5cf195dc4c,Oman,2024-06-23,8615.0,Tshirts,Graphic Tee,10.0,3.08,30.8
+e312e7dd-a6b8-4e23-9ef9-5050d4838cd3,Oman,2024-11-20,,Smart Phone,Pixel,9.0,3.47,31.23
+6c456d93-1b4a-48ae-bde7-e713f7fd8283,Oman,2024-07-16,3582.0,Perfumes,Aqua,6.0,4.21,25.26
+5f380b5b-8b0e-4975-a20e-f7949de5d2eb,Oman,2024-06-27,7621.0,Jeans,Bootcut,10.0,5.25,52.5
+084a2ec4-3b91-40f5-8daf-7c9793be6e0f,Oman,2024-10-06,1128.0,Perfumes,Woody,10.0,2.84,28.4
+ce74ec56-db42-4295-95a2-b7e4351399ed,Oman,2024-07-22,1484.0,Perfumes,Floral,8.0,2.92,23.36
+69c80b17-bf33-4ada-ae20-766fe6035c26,Oman,2024-12-20,1227.0,Smart Phone,iPhone,2.0,4.89,9.78
+e3f6b904-fab3-4b7f-bf33-c8fc187cde97,Oman,2024-08-25,4020.0,Perfumes,Aqua,4.0,4.16,16.64
+7ed62e8c-44c5-4f6a-a5c3-ea24adb94578,Oman,2025-03-31,2268.0,Tshirts,V-neck,7.0,5.0,35.0
+06784f49-8bde-484a-ac1c-0ab60f8034cc,Oman,2025-04-16,2170.0,Smart Phone,Realme,8.0,4.31,34.48
+e3164f25-e22f-4d1a-b6ec-f3f9735902cf,Oman,2025-03-04,1316.0,Shoes,Loafers,3.0,4.48,13.44
+ff6f4f21-ce64-489a-b74e-3e12ebed65d4,Oman,2024-06-14,4178.0,Shoes,Boots,10.0,3.3,33.0
+0a120876-c74d-45e3-a318-96d57216006c,Oman,2025-04-23,6610.0,Perfumes,Fresh,10.0,5.3,53.0
+086c030f-f0fd-4ea9-82c2-7f97af6c9a31,Oman,2024-09-04,4248.0,Smart Phone,Realme,9.0,2.32,20.88
+d5cb20a3-69cb-4c4e-af4b-c0ce356bf588,Oman,2024-11-08,4007.0,Smart Phone,OnePlus,7.0,2.33,16.31
+6071b669-4797-4e1e-aab4-bce840f96050,Oman,2024-12-24,4667.0,Shoes,Sandals,3.0,2.42,7.26
+ceef5d5c-dcef-4d32-9cf6-3faeda51db69,Oman,2024-11-01,5565.0,Tshirts,Full Sleeve,10.0,2.81,28.1
+fa986619-6ee8-4e03-b18f-da3fc85336db,Oman,2024-08-15,9846.0,Jeans,Straight,3.0,2.54,7.62
+0852a95e-9015-444f-b539-1cd538e8279f,Oman,2025-02-25,3560.0,Tshirts,V-neck,4.0,3.74,14.96
+ba80c88b-9da3-4777-998c-1a48e187ab6d,Oman,2025-01-06,6325.0,Shoes,Boots,10.0,4.9,49.0
+380f52f3-9a87-4bf7-b2e9-da661bd572b4,Oman,2025-02-24,4684.0,Perfumes,Floral,3.0,3.14,9.42
+2872edca-b362-43ce-b646-c493209186d6,Oman,,9081.0,Jeans,Regular Fit,3.0,3.3,9.9
+1646113d-dc76-49e5-8a79-9c752e206e6f,Oman,2024-07-15,4640.0,Jeans,Bootcut,1.0,2.64,2.64
+4c683609-0c39-4e51-a6f7-b85d591a91ea,Oman,2025-03-09,8032.0,Shoes,Formal Shoes,6.0,3.9,23.4
+6e31c7bd-d498-4e1d-a01c-bf3b0f3b5f06,Oman,2025-02-17,8414.0,Tshirts,Cotton Tee,4.0,5.26,21.04
+d2f5c7bc-54c4-48ba-a558-800565276d38,Oman,2024-07-19,8432.0,Shoes,Boots,1.0,5.57,5.57
+a4ff58a2-8d8f-494c-aa8c-5fdbdcee656d,Oman,2024-09-08,6831.0,Smart Phone,Xiaomi,9.0,4.72,42.48
+7d3f9e08-968e-43ca-b495-aef4fa2bc70f,Oman,2024-08-24,8416.0,Shoes,Formal Shoes,10.0,3.31,33.1
+dbf21273-8173-4b33-8025-6416b908803c,Oman,2024-12-12,8124.0,Jeans,Regular Fit,5.0,3.09,15.45
+6b2fa6bc-00b6-4b48-90e9-9af04d257207,Oman,2025-02-28,1355.0,Smart Phone,iPhone,7.0,5.13,35.91
+029e6783-8baf-4516-8b6a-91672b6dee52,Oman,2025-01-27,2692.0,Perfumes,Aqua,10.0,3.97,39.7
+d82d6078-d7a7-44f6-b5b7-741490a6c5b4,Oman,2024-07-19,7085.0,Perfumes,Fresh,2.0,3.42,6.84
+4c9e7893-f1ca-4560-9345-85a2c6d130fa,Oman,2025-04-21,4902.0,Shoes,Boots,3.0,2.75,8.25
+4250f956-478c-479d-8856-cc4b9ea46e7d,Oman,2024-12-10,1566.0,Tshirts,Graphic Tee,10.0,3.9,39.0
+e614a0d9-2c60-4815-b9a4-c71d95b43eed,Oman,2024-07-13,6709.0,Perfumes,Spicy,3.0,5.24,15.72
+34cf6b7f-3f4c-464f-b142-feb2f505b662,Oman,2024-07-20,6857.0,Tshirts,Polo Shirt,8.0,3.47,27.76
+cf41205c-276a-4335-8a6d-bd8b11365b34,Oman,2024-10-06,6429.0,Tshirts,Graphic Tee,5.0,4.5,22.5
+0f337fe5-f932-48ef-9a7f-6f615813d26f,Oman,2024-06-27,5647.0,Shoes,Loafers,1.0,2.63,2.63
+aed5d608-b7c9-4e13-8bd4-b8db541c8f78,Oman,2025-04-27,7632.0,Perfumes,Woody,2.0,5.37,10.74
+8dec1c17-d02b-4680-8119-635294b58d54,Oman,2025-03-24,5666.0,Smart Phone,OnePlus,2.0,5.28,10.56
+9fb02727-3549-4673-888a-ca21b1f4dd88,Oman,2024-07-28,5023.0,Jeans,Skinny,2.0,4.44,8.88
+4b672fac-2986-44bc-a009-a2cd3157f09a,Oman,2025-04-09,7457.0,Tshirts,Graphic Tee,4.0,4.09,16.36
+6d3fcc72-9793-4217-a9c8-388ceb4c8643,Oman,2024-07-04,1118.0,Jeans,Skinny,8.0,3.62,28.96
+58c92bb8-06d2-4f43-8993-48fccfd51f1e,Oman,2024-12-19,9820.0,Water bottles,Foldable,7.0,5.31,37.17
+1f58ceca-3b01-4c93-a525-e50bfff44899,Oman,2024-07-02,5414.0,Tshirts,Polo Shirt,10.0,2.44,24.4
+2964aa99-1728-4576-852d-52fac0ae3ba6,Oman,2025-04-20,1942.0,Smart Phone,iPhone,1.0,2.45,2.45
+c058ec0f-5555-4133-87b3-0b4171bfad6c,Oman,2025-01-01,3193.0,Jeans,Relaxed,5.0,4.85,24.25
+24843f73-1e2e-4b93-8e72-f8dff38d906a,Oman,2024-08-16,7577.0,Jeans,Bootcut,4.0,2.61,10.44
+75b4849c-7b2a-41ba-9343-d7f932b5e3d0,Oman,2024-09-10,3622.0,Tshirts,Cotton Tee,4.0,4.0,16.0
+624949a0-03cf-4a49-a80a-c6e710c8f7c9,Oman,2024-07-23,2522.0,Shoes,Sneakers,2.0,3.83,7.66
+72b91684-e6d4-465e-b401-9a9a90fcc940,Oman,2024-09-23,2602.0,Water bottles,Plastic,10.0,2.79,27.9
+65410267-2e49-4904-a1e7-8734960144c0,Oman,2024-11-03,2245.0,Shoes,Loafers,1.0,5.49,5.49
+7b4b4a29-1991-4116-baa4-fcd6b3f731b7,Oman,2024-10-05,4803.0,Smart Phone,Pixel,8.0,5.13,41.04
+f1b4159f-20cb-4d96-a699-aac3b8f8d92a,Oman,2024-10-25,5490.0,Shoes,Sandals,3.0,5.19,15.57
+aaf39dd5-26b1-4c7c-9189-579a79342fbd,Oman,2025-04-10,9334.0,Water bottles,Glass,3.0,2.94,8.82
+407ad92f-660d-43f3-aaf5-90eda12a8971,Oman,2024-10-09,2685.0,Perfumes,Spicy,5.0,3.44,17.2
+b3831f62-2451-4596-a7dc-5d43e5b564c9,Oman,2024-05-23,7975.0,Water bottles,Glass,2.0,4.88,9.76
+c4363bea-cf03-49ad-b2d5-68d41ed6d436,Oman,2024-08-10,1433.0,Water bottles,Steel,9.0,3.76,33.84
+2888ead9-97d4-481b-9232-6c4601278844,Oman,2025-01-25,5431.0,Tshirts,Graphic Tee,7.0,4.66,32.62
+b484befe-2a8d-46b0-b0e8-c6690fa33a9a,Oman,2024-06-24,4772.0,Jeans,Regular Fit,3.0,3.44,10.32
+028af9a7-5ac8-408c-94f5-1900dc2ce1c4,Oman,2024-09-14,2541.0,Perfumes,Citrus,2.0,4.0,8.0
+c59ac867-b844-41e9-b5ba-f0bd455a14d6,Oman,2024-07-07,2721.0,Perfumes,Aqua,6.0,3.11,18.66
+d7607ffe-aa8b-43eb-bcde-05964cacdd3d,Oman,2024-06-02,9477.0,Perfumes,Fresh,7.0,3.7,25.9
+ead5d65a-7c30-461e-b10d-c918d9f23b37,Oman,2024-12-29,8637.0,Perfumes,Woody,9.0,5.34,48.06
+5fd62bb0-2079-4a98-b94c-94589affbadc,Oman,2025-02-06,3151.0,Shoes,Formal Shoes,9.0,4.82,43.38
+80709d95-17ea-47fa-b882-ee16274055a9,Oman,2024-12-11,4870.0,Water bottles,Foldable,6.0,3.13,18.78
+a0d72005-411e-4bac-9192-4b21b54c54f9,Oman,2025-03-19,6264.0,Water bottles,Insulated,7.0,2.96,20.72
+ca8d3149-8a29-41fb-ae88-891cb34e32fc,Oman,2024-06-25,8915.0,Tshirts,Full Sleeve,5.0,4.74,23.7
+7e223279-6e71-4d1d-8a9c-4b097e1d890f,Oman,2025-01-15,4841.0,Jeans,Relaxed,3.0,5.1,15.3
+96ede9e9-96c2-4afa-ab8f-5009c1ef09ec,Oman,2024-12-16,6804.0,Jeans,Relaxed,6.0,3.83,22.98
+9e153705-df63-4d7a-9ba3-d1da1863f159,Oman,2024-06-05,5748.0,Perfumes,Citrus,9.0,3.12,28.08
+0ead2ebd-4662-477c-aeec-28adf5c4dab4,Oman,2025-04-22,4147.0,Jeans,Bootcut,2.0,2.36,4.72
+2bfad69a-8a9e-416f-bd23-21add45ce2cf,Oman,2025-03-10,8163.0,Shoes,Formal Shoes,7.0,5.47,38.29
+228dc422-7a52-4d11-8b32-32abb5e9fa21,Oman,2024-10-18,3816.0,Shoes,Sandals,9.0,3.14,28.26
+4420ccd0-8206-4e0c-bd5a-19be049af501,Oman,2024-10-15,8901.0,Perfumes,Woody,1.0,3.18,3.18
+c7673644-95a1-4c98-a890-f9a82015949c,Oman,2024-07-18,6937.0,Jeans,Regular Fit,5.0,3.49,17.45
+,Oman,2025-03-12,7419.0,Perfumes,Spicy,10.0,3.15,31.5
+2c306639-28b5-4ba6-8e31-ea452b34b52b,Oman,2024-07-24,1141.0,Perfumes,Fresh,7.0,5.43,38.01
+2ef017e7-8885-46da-9b35-caa1c1467fee,Oman,2024-09-27,3819.0,Water bottles,Insulated,3.0,2.51,7.53
+96c78cad-304e-461b-a943-b1548d6eb73f,Oman,2025-03-05,5127.0,Tshirts,V-neck,1.0,3.95,3.95
+03411e59-a568-4f62-ae26-d622e17ce345,Oman,2024-06-18,5025.0,Shoes,Sandals,3.0,3.24,9.72
+4997dd20-1652-4d40-8605-dd14ec0c0047,Oman,2024-12-21,3867.0,Shoes,Formal Shoes,1.0,2.51,2.51
+03711d3f-c9be-4dce-82ee-09bf9811cd8b,Oman,2025-01-04,3201.0,Perfumes,Aqua,2.0,2.56,5.12
+4324887e-0010-4b4d-a604-38cc68efd18f,Oman,2025-05-05,6614.0,Jeans,Bootcut,9.0,3.27,29.43
+f67ed93e-0d78-443a-96d2-1b30d3f9dab2,Oman,2024-12-25,8050.0,Jeans,Regular Fit,8.0,3.74,29.92
+7a2ab300-1116-4ead-af63-787731b77072,Oman,2025-04-03,1644.0,Perfumes,Floral,1.0,4.14,4.14
+9d516508-3b4a-47cd-b798-e03404cda7c6,Oman,2024-06-12,1817.0,Smart Phone,Galaxy,3.0,4.83,14.49
+932e02cc-159b-41c3-82a0-4830bcc14124,Oman,2024-08-07,5024.0,Water bottles,Steel,7.0,3.84,26.88
+89eb14e8-3367-4e1c-8354-fc525ee88627,Oman,2025-01-09,5880.0,Tshirts,Full Sleeve,1.0,4.31,4.31
+163b6001-17f9-41b6-b6b3-c18ed61b4a7d,Oman,2024-12-29,1766.0,Smart Phone,iPhone,5.0,4.18,20.9
+ee8819c9-0571-4c8d-b710-2c896b7cbb92,Oman,2024-12-05,6248.0,Perfumes,,1.0,4.0,4.0
+1c63c39b-6675-4033-87ee-bcf26664b678,Oman,2025-05-07,8766.0,Jeans,Skinny,4.0,3.14,12.56
+213a839c-decc-47f2-af98-e008f9c20003,Oman,2024-10-12,9613.0,Tshirts,Graphic Tee,3.0,4.34,13.02
+02a48d6e-5a9e-4efc-b07c-0e77b6961feb,Oman,2024-05-19,6334.0,Water bottles,Steel,4.0,3.3,13.2
+332bad05-2c68-4589-b689-0ed43a6fd931,Oman,2024-08-27,7941.0,Tshirts,Cotton Tee,10.0,5.38,53.8
+6cf4d2fd-d37f-4059-b1d7-64ba1712df48,Oman,2025-01-24,2823.0,Water bottles,Steel,5.0,4.39,21.95
+e2d4c43c-de0a-4e83-bba8-6e1e34a148ba,Oman,2024-07-29,7723.0,Jeans,Relaxed,7.0,2.79,19.53
+efd5d562-a496-4505-832e-aa561d5ac38c,Oman,2025-03-17,5243.0,Shoes,Sneakers,8.0,3.25,26.0
+f70a1523-17d8-4814-b669-c307487a2d8b,Oman,2024-10-30,5909.0,Smart Phone,Realme,9.0,4.16,37.44
+b72583e4-3336-43e7-b04e-11b52320a56a,Oman,2024-06-21,6717.0,Smart Phone,Galaxy,4.0,4.33,17.32
+49a7102d-d12f-4227-a661-b18146a95d1a,Oman,2024-06-28,8600.0,Perfumes,Woody,10.0,3.18,31.8
+636ba8a3-e50e-4872-a892-f46778494ae5,Oman,2024-12-03,6931.0,Shoes,Sandals,8.0,2.65,21.2
+e4f08e67-6b93-406b-b376-2c9c7a030894,Oman,2025-05-05,5112.0,Shoes,Sneakers,9.0,4.75,42.75
+9fa935b1-2e18-4603-8ad5-51ad9aba4c01,Oman,2024-05-31,5545.0,Tshirts,Graphic Tee,10.0,5.26,52.6
+11c8398a-cf10-4cb5-adb6-8f14e147a5cf,Oman,2024-11-13,9382.0,Jeans,Bootcut,1.0,3.19,3.19
+ff7d485c-050f-44d6-b0fe-4ca28cec3149,Oman,2024-06-16,9100.0,Shoes,Sports Shoes,8.0,3.36,26.88
+30544160-908b-47f9-9d91-21b29ea62325,Oman,2024-07-19,4591.0,Shoes,Sneakers,3.0,4.68,14.04
+c580bccf-4440-47d2-8ec2-4fb471fef0ab,Oman,2024-08-25,6492.0,Shoes,Sandals,4.0,3.91,15.64
+d2ec1379-8040-4ea6-b245-5848cbcf3687,Oman,2024-10-11,1176.0,Smart Phone,Xiaomi,8.0,3.53,28.24
+4b1db296-dfc8-4033-9be3-30e52a5eb81a,Oman,2025-03-10,7057.0,Tshirts,Polo Shirt,5.0,4.03,20.15
+d791aedd-60e5-45b6-b9b3-742dbecfbc0b,Oman,2025-03-05,1679.0,Shoes,Formal Shoes,7.0,3.39,23.73
+2c46e25e-77b5-420f-b02e-d1d747e75b71,Oman,2024-07-29,9449.0,Jeans,Skinny,10.0,4.98,49.8
+44270572-b4c2-4392-bbe3-a2f66f12546d,Oman,2024-06-07,1198.0,Water bottles,Insulated,4.0,3.14,12.56
+987a8f71-00d2-4f9f-b510-3222fab0509e,Oman,2024-09-22,6524.0,Water bottles,Smart,2.0,3.58,7.16
+7b51446a-501d-4458-a2b9-10f0a035d595,Oman,2025-02-26,3857.0,Tshirts,Tank Top,4.0,3.93,15.72
+474d8dca-b9e2-4abb-a40c-70d917640a6f,Oman,2024-08-13,6263.0,Shoes,Formal Shoes,8.0,3.81,30.48
+0418cd27-9a78-4eed-9708-094cc7bd251a,Oman,2025-04-03,1532.0,Shoes,Loafers,7.0,2.75,19.25
+,Oman,2024-12-07,2272.0,Jeans,Bootcut,10.0,5.13,51.3
+0cc6f6d1-6d66-492c-ac05-ad5c43089e1c,Oman,2024-09-09,7726.0,Perfumes,Floral,9.0,4.59,41.31
+38dd71fd-4b29-4ee5-9807-6bffbcae99f6,Oman,2024-11-06,4477.0,Water bottles,Insulated,5.0,2.56,12.8
+ba4d436d-656c-4188-8d1d-5dbc750056ea,Oman,2024-10-06,7809.0,Water bottles,Smart,2.0,4.27,8.54
+d95d48ed-6a02-4dca-a566-a39e41a3e739,Oman,2024-11-11,3152.0,Smart Phone,Xiaomi,5.0,4.81,24.05
+c148e224-6340-4548-a078-8722adef8e74,Oman,2024-08-12,9479.0,Smart Phone,Galaxy,7.0,4.2,29.4
+089742f0-923d-4956-9be2-c179bf1d8f89,Oman,2025-05-13,3443.0,Smart Phone,Realme,7.0,3.99,27.93
+b21e810b-ecac-4756-b9b2-5e7e73eb73ce,Oman,2024-07-17,1671.0,Smart Phone,Pixel,7.0,2.94,20.58
+d75ca92d-a65a-458b-b455-008bb28fa46c,Oman,2025-04-04,5752.0,Smart Phone,Xiaomi,6.0,2.64,15.84
+69721c75-5d03-4927-bc76-cf5bf9ee5687,Oman,2025-03-02,1545.0,Water bottles,Steel,6.0,4.79,28.74
+3a573c6e-0958-43f4-a640-bc255663d6d5,Oman,2025-02-12,5062.0,Water bottles,Foldable,1.0,5.03,5.03
+6cc01241-ea33-4701-845a-b4a671b78d57,Oman,2024-12-29,1443.0,Jeans,Skinny,3.0,4.58,13.74
+70a5e979-a505-4cab-bba8-f78b6577b891,Oman,2025-01-27,4456.0,Tshirts,Cotton Tee,5.0,4.78,23.9
+7893aa69-6790-4027-9142-a87105b2622f,Oman,2025-02-10,8788.0,Water bottles,Insulated,9.0,5.41,48.69
+47fd54ee-a472-4ffc-931b-5970e946033f,Oman,2025-03-11,2331.0,Shoes,Loafers,7.0,4.05,28.35
+830bed4f-c566-42fa-8422-0efc9d435023,Oman,2024-11-05,6391.0,Smart Phone,Galaxy,1.0,3.92,3.92
+54597b42-c28a-4be4-809c-109e37d0d024,Oman,2025-01-31,7344.0,Jeans,Skinny,7.0,3.59,25.13
+92989be4-348b-43d8-805d-b5447881a492,Oman,2024-10-22,3771.0,Jeans,Regular Fit,7.0,2.45,17.15
+9e2fd4af-b18f-4cd3-83d9-7b4cb245ab9c,Oman,2025-04-16,9252.0,Smart Phone,Realme,1.0,3.32,3.32
+66599dde-fcc6-4ebe-bb48-afd1c1853614,Oman,2024-05-23,3261.0,Smart Phone,Realme,9.0,2.89,26.01
+b1c8bdb9-1e31-4b00-9414-5ed223956ed7,Oman,2024-11-06,1961.0,Jeans,Relaxed,7.0,3.19,22.33
+8f9ff3d6-db40-465c-a5dd-8a7f432a23a8,Oman,2024-10-25,9930.0,Smart Phone,Xiaomi,5.0,5.37,26.85
+b9296f54-aecb-4625-a6c6-ea9bdd43fb54,Oman,2024-11-01,4374.0,Perfumes,Aqua,8.0,4.75,38.0
+c3359955-0faa-4b81-96c4-80da2fd35f16,Oman,2024-06-10,1242.0,Perfumes,Citrus,4.0,3.88,15.52
+cf40ee1a-f189-4189-b110-7d36797d31c4,Oman,2024-12-25,9338.0,Shoes,Formal Shoes,1.0,5.16,5.16
+ac436e12-1480-4abd-9d9f-2662d6dcb81a,Oman,2024-12-20,9790.0,Jeans,Straight,4.0,4.29,17.16
+1eb830f6-7d93-4703-a8e4-9b27ee34827a,Oman,2024-12-18,3521.0,Jeans,Relaxed,10.0,4.77,47.7
+f73d102c-52a6-4515-b3d2-510c6b2e9570,Oman,2025-04-22,4823.0,Perfumes,Citrus,1.0,4.22,4.22
+bccf45c8-7521-4a99-9726-e17876b1cd87,Oman,2025-05-04,9747.0,Shoes,Formal Shoes,1.0,3.85,3.85
+4ed687d9-d498-4de9-9286-16ac6c426e1a,Oman,2025-01-06,3811.0,Water bottles,Glass,3.0,5.03,15.09
+2861536f-4abc-4d91-965a-18c567bcd5a7,Oman,2024-05-25,9774.0,Tshirts,Full Sleeve,1.0,4.48,4.48
+3c02c906-aa34-426d-b424-6a54afdcd2a7,Oman,2025-04-22,4889.0,Perfumes,Citrus,9.0,2.69,24.21
+afe4fdbb-4d6f-47e3-93ab-7473f527fa92,Oman,2025-01-17,2850.0,Water bottles,Smart,1.0,4.42,4.42
+90c9e728-c66c-4104-9bd9-d3c948434dec,Oman,2025-01-06,1438.0,Jeans,Regular Fit,2.0,2.61,5.22
+2dfc60b7-994b-4696-a160-ac3cfe6f2cf7,Oman,2024-06-07,6570.0,Jeans,Straight,1.0,5.53,5.53
+309a11ec-706e-443a-89e2-3a88d1cc7531,Oman,2024-05-14,7027.0,Perfumes,Spicy,9.0,3.16,28.44
+87cef9a2-9b75-459c-bf09-338c422aaaa7,Oman,2024-07-16,5449.0,Tshirts,Full Sleeve,9.0,5.01,45.09
+833bb2f3-e997-4938-8fb8-a4a33b645e6d,Oman,2025-02-26,8633.0,Smart Phone,Galaxy,3.0,4.99,14.97
+6a0e99b2-1c94-45c6-89ed-4d64b984933d,Oman,2024-11-13,9224.0,Shoes,Loafers,8.0,3.43,27.44
+62e8cada-016d-4752-ad6b-9872dc2b1537,Oman,2025-01-15,2866.0,Water bottles,Steel,7.0,4.86,34.02
+87179af0-a52b-4100-a20e-22b857ff5548,Oman,2024-12-25,1848.0,Shoes,Sports Shoes,3.0,3.57,10.71
+d9d5815d-a686-4a68-a12e-5c861a5b558b,Oman,2024-08-20,9372.0,Shoes,Loafers,4.0,2.46,9.84
+332066bf-0060-43dd-941d-013617d8ea64,Oman,2025-05-13,8352.0,Perfumes,Spicy,4.0,5.48,21.92
+79d81ee9-1d4b-4914-8bdf-a5f0c653705e,Oman,2024-06-04,3557.0,Tshirts,Full Sleeve,6.0,3.45,20.7
+0ae35494-4c60-429b-a17c-d064698a4888,Oman,2024-11-03,9407.0,Water bottles,Foldable,2.0,2.41,4.82
+848036ad-080c-4f78-8a17-8298a10cf398,Oman,2025-01-17,2074.0,Perfumes,Spicy,,4.31,34.48
+2674fda1-66f0-41f5-a8ca-1d6f744a7cf5,Oman,2024-12-05,7793.0,Perfumes,Floral,10.0,2.62,26.2
+dec01aa2-a6ba-4a87-ac81-a5698cde5998,Oman,2025-03-09,5849.0,Perfumes,Citrus,1.0,3.22,3.22
+86cdc5b7-d7aa-4061-8c94-ec5dd53a7ad3,Oman,2024-09-17,8498.0,Perfumes,Spicy,5.0,3.09,15.45
+a8e6c1fb-81f4-497b-842e-de0725b5ca9a,Oman,2024-12-25,6552.0,Perfumes,Fresh,4.0,3.64,14.56
+a43ef9dd-2f10-4739-90a0-5c33f38f922c,Oman,2025-01-20,8650.0,Water bottles,Plastic,2.0,5.54,11.08
+13445e51-16bc-4b52-868e-61e5a19fe22a,Oman,2024-10-23,1035.0,Perfumes,Aqua,8.0,4.29,34.32
+af77e124-97a3-4a49-afe3-1ce46c48923d,Oman,2024-06-26,8737.0,Tshirts,Graphic Tee,7.0,5.33,37.31
+03fb7a22-21e7-4b58-a454-6b2567f91636,Oman,2024-12-16,1542.0,Shoes,Formal Shoes,2.0,3.38,6.76
+0449464f-d736-466b-a22b-043687c73b31,Oman,2024-08-15,2966.0,Water bottles,Foldable,1.0,5.07,5.07
+c1e59ebb-a2b6-4a97-8e8b-a9bd74cf633f,Oman,2025-03-22,7902.0,Water bottles,Glass,3.0,5.08,15.24
+e1e28d5b-e6bf-4285-ac2a-20f631d281dc,Oman,2024-08-24,4577.0,Water bottles,Foldable,6.0,,16.56
+61a90374-9848-422e-8d95-e7a85378e6f6,Oman,2025-01-13,4012.0,Tshirts,Cotton Tee,1.0,4.58,4.58
+ff91e340-5581-4a42-80c9-f77ea45532d8,Oman,2024-12-02,2330.0,Jeans,Skinny,5.0,5.32,26.6
+bf12ac2c-bc5c-42d0-82cd-c06e2dbb8752,Oman,2024-09-05,4521.0,Tshirts,Polo Shirt,9.0,2.47,22.23
+95e7b610-04c0-448a-98bf-6a3e6867035e,Oman,2024-06-17,3559.0,Tshirts,Tank Top,2.0,5.36,10.72
+5d3e4cae-7562-4dff-b90b-5083f4f271f7,Oman,2024-08-18,5362.0,Smart Phone,iPhone,3.0,4.83,14.49
+d2aac22c-67b2-4aec-b38b-9ebb91e3684c,Oman,2025-03-27,1963.0,Smart Phone,Xiaomi,5.0,3.15,15.75
+a62683ed-6070-432e-9c2b-e6973ffb1f97,Oman,2025-03-05,1012.0,Perfumes,Woody,1.0,2.46,2.46
+4b2c4073-c114-4151-ab15-1b3a21c185b5,Oman,2024-08-16,6214.0,Perfumes,Spicy,10.0,5.45,54.5
+e4329c84-c3cd-4b60-982e-a39422098287,Oman,2025-02-05,6051.0,Perfumes,Floral,8.0,5.37,42.96
+38e909f0-5ad8-47ba-9a18-1f580ac26396,,2025-02-09,5191.0,Tshirts,Cotton Tee,9.0,4.31,38.79
+b32d742a-1443-46c9-80ff-8a488050c038,Oman,2024-12-06,1266.0,Water bottles,Foldable,2.0,4.15,8.3
+,Oman,2025-03-31,5456.0,Smart Phone,Pixel,3.0,4.18,12.54
+8290b913-e61b-4863-a08e-f0a0d72476da,Oman,2024-12-12,2947.0,Perfumes,Floral,4.0,2.4,9.6
+91e89b6d-b783-44cb-9fd0-b3e05a2ee6fa,Oman,2024-11-05,9483.0,Smart Phone,Galaxy,3.0,5.34,16.02
+b6594e2e-f066-46f7-86c5-1d5a5e938891,Oman,2024-10-16,4781.0,Smart Phone,iPhone,5.0,5.52,27.6
+673a38f7-6193-4b08-89d7-3a756d8a0997,Oman,2025-03-23,7680.0,Jeans,Bootcut,7.0,5.15,36.05
+211cef6b-12dd-4bb7-95d6-b0e448a0d015,Oman,2024-10-05,8939.0,Jeans,Relaxed,6.0,3.52,21.12
+e330ed6a-daf6-4750-a94f-9c81f7c12030,Oman,2025-01-27,3210.0,Water bottles,Insulated,2.0,2.35,4.7
+41aeb8d4-f389-4fad-8ced-6b07bf9d5992,Oman,2024-07-25,7339.0,Water bottles,Smart,3.0,3.72,11.16
+69258881-f614-47f1-aa70-ec302f3ca15a,Oman,2024-12-18,7288.0,Water bottles,Glass,7.0,3.34,23.38
+f76c703e-129a-48a8-a5ed-7ecc6abd6c97,Oman,2024-11-06,7687.0,Perfumes,Aqua,4.0,3.06,12.24
+5841b548-e47d-45ce-b06b-ba502d4aad08,Oman,2024-10-07,3528.0,Jeans,Slim Fit,9.0,3.19,28.71
+9a6b7a29-bcbb-4f94-aa31-31cf96865cbe,Oman,2025-03-17,9981.0,Perfumes,Citrus,1.0,4.24,4.24
+c06204a2-5213-4852-b720-46a83f798afb,Oman,2024-12-14,7550.0,Smart Phone,Realme,1.0,4.45,4.45
+b5ca2226-76c8-4262-83c7-d3fb8e54912e,Oman,2024-11-22,8388.0,Shoes,Loafers,6.0,4.1,24.6
+ea96dda4-5f46-46a1-aff2-4e9a9c64edbe,Oman,2025-03-13,5174.0,Water bottles,Glass,6.0,2.52,15.12
+85f430f2-0c81-4f24-ac33-e08a8672f96f,Oman,2025-04-15,5120.0,Water bottles,Insulated,9.0,3.53,31.77
+3f3ca8ee-d027-48b7-9ba6-7574e52caa86,Oman,2024-06-20,4279.0,Water bottles,Foldable,6.0,4.41,26.46
+308995e3-befc-4195-8723-280b9a663d0a,Oman,2025-03-06,1072.0,Shoes,Formal Shoes,4.0,2.4,9.6
+4c285c29-4a22-421e-9106-0c0de5950021,Oman,2024-06-02,8641.0,Water bottles,Glass,9.0,4.74,42.66
+d70f34bb-2594-4c4e-a61e-0f0eee10f503,Oman,2025-01-08,5996.0,Shoes,Formal Shoes,8.0,5.03,40.24
+3a1174d3-a94d-4fca-a6ed-9e0cbdbeb570,Oman,2025-04-10,1553.0,Jeans,Straight,5.0,4.08,20.4
+ef8f8421-bb28-4937-88c4-3b53dee730eb,Oman,2024-12-19,4567.0,Smart Phone,Pixel,4.0,3.04,12.16
+34418d4c-0445-40e7-9e42-ee2d4ceed038,Oman,2024-11-30,3495.0,Jeans,Skinny,7.0,2.5,17.5
+8b27036b-d7f7-4004-a2b4-91ffe6b0aca0,Oman,2024-11-12,1543.0,Smart Phone,Xiaomi,9.0,5.29,47.61
+6f4da8c9-8a47-455f-9ce6-dabe976865b1,Oman,2025-01-19,6361.0,Perfumes,Aqua,6.0,2.93,17.58
+4c103b64-623d-434f-abde-5e49d533e782,Oman,2024-07-15,3218.0,Perfumes,Citrus,3.0,5.49,16.47
+545a8a02-02e8-42e9-a899-66a54bfe753b,Oman,2025-01-10,3479.0,Tshirts,V-neck,10.0,3.2,32.0
+3bc8c4f7-2ec2-4ef6-84c2-53c30e3c8926,Oman,2024-09-21,1507.0,Jeans,Regular Fit,10.0,4.27,42.7
+fe4aa003-7c06-4533-aeb7-898191fa7144,Oman,2024-10-26,5276.0,Tshirts,Graphic Tee,7.0,4.3,30.1
+6692e257-9ed5-4b35-a7de-d7f88f06eb0e,Oman,2024-07-01,1556.0,Smart Phone,Xiaomi,7.0,5.09,35.63
+5eb9bbd8-db78-4079-bcdc-5b25a6272842,Oman,2024-10-17,9748.0,Shoes,Sandals,10.0,5.22,52.2
+15ce0875-011a-464c-a11c-de7421b7a765,Oman,2024-11-14,5030.0,Perfumes,Fresh,10.0,3.05,30.5
+72d57a20-00b6-41a2-af6c-1067a0c12b8a,Oman,2025-01-08,7692.0,Perfumes,Fresh,4.0,4.93,19.72
+86b48979-efbb-4288-99ba-a1fd68b6daf8,Oman,2024-10-28,3505.0,Perfumes,Fresh,7.0,4.59,32.13
+ea5480e5-a6d1-4539-83b5-0b86c1f857c4,Oman,2025-02-22,5757.0,Smart Phone,Realme,8.0,4.68,37.44
+4f434331-01b8-45c6-98bc-6e12d97db059,Oman,2024-08-18,6173.0,Shoes,Sandals,5.0,2.38,11.9
+034273dd-18d0-4c29-a79a-b1a7d9b523c9,Oman,2024-06-03,9124.0,Shoes,Sports Shoes,1.0,3.14,3.14
+12c21f8a-2b68-4bb2-a471-f0a6324a803a,Oman,2024-11-22,6728.0,Shoes,Sports Shoes,2.0,3.49,6.98
+160ea58f-6b46-42f8-b9cb-20e80fe66ed6,Oman,2025-03-04,9448.0,Perfumes,Spicy,10.0,3.22,32.2
+75a9c71f-35c0-490e-b181-1ada7bf9b984,,2024-05-29,5438.0,Jeans,Skinny,1.0,2.37,2.37
+71a57dee-0692-4c51-ae66-869f7e4e4d70,Oman,2025-03-01,9757.0,Shoes,Boots,8.0,2.55,20.4
+c64375ed-20f0-41a1-9db2-441e6a7dd940,Oman,2024-08-09,6164.0,Jeans,Straight,5.0,2.64,13.2
+f7fb7406-ec4a-4dfd-90d0-fd27fc87aa39,Oman,2025-04-22,1084.0,Water bottles,Plastic,5.0,2.48,12.4
+69ddaebc-786e-4eef-9641-beafb11ba77e,Oman,2024-09-15,2248.0,Perfumes,Aqua,5.0,3.35,16.75
+124038bb-9bb9-4a3c-81ce-653ac7032c2d,Oman,2025-03-15,1558.0,Jeans,Straight,8.0,5.05,40.4
+8eaf599e-b024-46a7-ab3e-383afa3a9fe0,Oman,2025-04-10,2471.0,Water bottles,Foldable,3.0,4.55,13.65
+f604fcef-3d28-4b41-b1f0-88ea7bbaf123,Oman,2025-01-24,6687.0,Perfumes,Spicy,6.0,4.39,26.34
+622ecdaf-5a07-43a1-849a-a2841415c20e,Oman,2024-07-27,2202.0,Smart Phone,OnePlus,3.0,3.08,9.24
+82463029-5aa0-4815-8b77-16038eefa874,Oman,2024-05-14,6641.0,Tshirts,V-neck,3.0,5.27,15.81
+143cdd5e-bdf2-468f-8b6b-7f7a58a83686,Oman,2025-02-21,2563.0,Jeans,Regular Fit,4.0,3.92,15.68
+73af2d34-d5cd-4ed2-a52b-aa7c522a7f0e,Oman,2024-08-23,7429.0,Smart Phone,Pixel,10.0,4.35,43.5
+9a2ed905-3fb6-4c7e-9da1-7dc9ab489f7a,Oman,2025-01-27,2916.0,Tshirts,Tank Top,9.0,3.56,32.04
+a58864ff-0c01-4c94-a5fb-afaaebfcc182,Oman,2024-11-21,8746.0,Smart Phone,iPhone,9.0,5.02,45.18
+02e51343-48f9-45a1-8cf2-b53400b07a66,Oman,2024-12-28,5027.0,Tshirts,Full Sleeve,7.0,4.08,28.56
+0339d965-cd18-4833-9431-2053e46b32c9,Oman,2025-02-16,6103.0,Tshirts,Cotton Tee,6.0,4.57,27.42
+1e02c368-4fcf-435b-a48d-c8b951a59b65,Oman,2024-12-09,9944.0,Tshirts,Graphic Tee,7.0,5.25,36.75
+cde4c36f-14d8-4ae0-ad9f-3daf264ced70,Oman,2024-12-09,1395.0,Perfumes,Citrus,6.0,5.04,30.24
+61f350e5-96ac-48c9-b581-6cb4ae5438c8,Oman,2024-10-13,4908.0,Jeans,Relaxed,5.0,5.37,26.85
+d21dd567-ea53-409d-9f2a-cb168384907b,Oman,2024-12-11,5566.0,Tshirts,V-neck,5.0,3.5,17.5
+be65f35d-b180-474c-b8db-aad1a0db05fa,Oman,2024-05-22,8287.0,Tshirts,Full Sleeve,6.0,3.1,18.6
+26cc18ad-032f-43b2-8a5d-37fc88bfe705,Oman,2024-10-13,7260.0,Tshirts,Full Sleeve,8.0,3.24,25.92
+b5944a43-6ff4-4125-b12a-22b44850e865,Oman,2025-01-02,4385.0,Shoes,Sandals,1.0,2.78,2.78
+3c9a5634-b8ed-4fe4-b427-3c22ddf08ae0,Oman,2024-09-24,1909.0,Smart Phone,Pixel,3.0,3.25,9.75
+fc46b071-9ada-416b-b09b-8c2ceebafafd,Oman,2024-11-11,8985.0,Shoes,Sneakers,7.0,3.39,23.73
+f70742dd-b847-4eb8-816e-49e90ae5f73f,Oman,2025-01-04,2518.0,Perfumes,Fresh,1.0,3.17,3.17
+d283dfa3-b90f-4b18-96ce-f9758a753c9e,Oman,2025-02-07,5622.0,Shoes,Sports Shoes,10.0,5.09,50.9
+1785274c-1430-4825-b8ec-71d7dd9b6aa4,Oman,2024-07-30,3379.0,Perfumes,Floral,8.0,4.77,38.16
+19aaa356-60ea-4d9e-a3c9-c6fecf8dc32d,Oman,2024-06-20,9800.0,Smart Phone,Galaxy,5.0,3.22,16.1
+8f95a628-56a8-47e6-8db5-1d324692c57e,Oman,2024-06-01,4948.0,Shoes,Boots,8.0,3.63,29.04
+1c8739d3-1e8a-43aa-a87b-d62a2fbc8b9b,Oman,2024-12-30,1529.0,Perfumes,Aqua,8.0,3.61,28.88
+cc78f060-746f-4431-be83-90214b96b952,Oman,2025-02-03,3603.0,Smart Phone,Realme,7.0,4.86,34.02
+39d3f232-5044-4f15-84a1-82cf2590c1ab,Oman,2025-01-02,8706.0,Jeans,Bootcut,1.0,2.63,2.63
+7a37593d-79de-4576-81cb-6f78ad994f15,Oman,2024-08-27,5854.0,Smart Phone,Pixel,2.0,3.85,7.7
+f5657f5f-b2be-4d65-b9f5-f9037af1834d,Oman,2025-03-16,3254.0,Perfumes,Aqua,1.0,4.56,4.56
+325a08ff-e538-4f54-a3fc-8e0deb250927,Oman,2024-06-14,8271.0,Water bottles,Foldable,2.0,4.02,8.04
+63f15a67-4a0d-44cc-9043-1241c02edc3d,Oman,2025-02-27,2203.0,Jeans,Relaxed,9.0,3.11,27.99
+56c5fbb1-9281-4bd7-9e1a-27b0d2a7e34e,Oman,2025-02-21,4995.0,Tshirts,V-neck,7.0,3.99,27.93
+e05bb317-6bd5-4f21-85b5-687e939aafe1,Oman,2025-03-17,7348.0,Shoes,Sneakers,2.0,5.19,10.38
+df6e7c19-21dc-4b1d-a87e-187eff6ff682,Oman,2024-10-19,3945.0,Shoes,Sports Shoes,6.0,2.33,13.98
+c24a2989-b3ff-4e9b-93a3-b7493f89d9ad,Oman,2024-12-23,6952.0,Water bottles,Steel,6.0,2.77,16.62
+234b4f71-037b-486e-b9e9-c0da3b6a31ce,Oman,2025-02-28,2207.0,Smart Phone,OnePlus,10.0,3.61,36.1
+0435aa87-4d1b-44b9-88dc-e4dfbd67ab90,Oman,2024-07-03,7127.0,Shoes,Loafers,2.0,5.18,10.36
+e83f4e25-8e36-4254-901d-c98b7c7519b7,Oman,2024-11-04,1097.0,,Full Sleeve,8.0,4.66,37.28
+8455f4ef-6365-4ce9-a827-4a4f3751237f,Oman,2024-10-16,6417.0,Tshirts,Tank Top,1.0,3.49,3.49
+64b3f1a9-0d44-4a84-9006-9c8fed99b044,Oman,2024-08-13,1680.0,Shoes,Boots,9.0,2.88,25.92
+6f18d5e8-3d1b-463a-a553-c98b656f1ba7,Oman,2025-04-01,5357.0,Tshirts,Polo Shirt,9.0,5.19,46.71
+8b8657d5-9fb4-42ab-820d-396ad66122f9,Oman,2024-12-28,1179.0,Tshirts,Tank Top,4.0,2.43,9.72
+0b369735-962e-45f8-b763-14b0dc0d81f3,Oman,2024-12-30,3701.0,Smart Phone,iPhone,4.0,2.51,10.04
+3cbce9f0-bda3-40e3-8e34-dc5e0f071c60,Oman,2025-01-17,5297.0,Perfumes,Spicy,5.0,4.22,21.1
+33353b1b-b045-4086-a877-e76a56c680c8,Oman,2025-03-08,8659.0,Water bottles,Smart,8.0,2.42,19.36
+3b343275-5ddd-45df-98f2-dd3eb23483ac,Oman,2025-04-12,2836.0,Tshirts,Polo Shirt,6.0,4.18,25.08
+2fc9cc19-d30a-4e78-a636-61009310ff3b,Oman,2024-10-13,1682.0,Water bottles,Glass,7.0,2.75,19.25
+888fed6e-b773-4c47-9f8f-57a40cae965a,Oman,2024-10-28,1704.0,Smart Phone,Realme,4.0,5.17,20.68
+76a5dfbc-f78d-477a-9cf0-3433220f6e18,Oman,2024-09-26,5837.0,Water bottles,Plastic,7.0,3.95,27.65
+cfb2af29-41fe-4f64-9259-ab00a95db6f8,Oman,2024-08-28,1718.0,Tshirts,Polo Shirt,8.0,5.19,41.52
+8e8cdc0b-bf46-4fa2-892c-275851ab79e0,Oman,2025-01-03,5612.0,Tshirts,Tank Top,1.0,4.73,4.73
+5452185c-ecfc-412a-890a-4abdb18848f9,Oman,2024-08-09,9418.0,Smart Phone,Pixel,9.0,2.52,22.68
+042b949e-8eb4-40cb-9fd5-c6dd172f2203,Oman,2025-01-13,9673.0,Perfumes,Spicy,1.0,4.61,4.61
+d6c69578-e2e5-4a89-888c-7a64361bc766,Oman,2025-04-07,7654.0,Tshirts,Full Sleeve,10.0,2.88,28.8
+98dcb918-2af9-4a18-9df0-d124282a9d92,Oman,2025-03-18,7224.0,Tshirts,Tank Top,5.0,5.31,26.55
+cfc62c97-f831-442e-bc17-82b60317201f,Oman,2024-10-19,7881.0,Tshirts,Cotton Tee,3.0,3.27,9.81
+8ab0d57f-4f41-4e69-a3b8-e0d6d72199da,Oman,2024-10-25,1499.0,Smart Phone,Galaxy,6.0,2.78,16.68
+72ebbf83-4bdc-4595-82af-25377298dc1d,Oman,2025-04-14,7907.0,Perfumes,Woody,1.0,4.99,4.99
+041ae5fb-67f6-4fc3-abe7-ca06e6dc3567,Oman,2024-07-03,9257.0,Smart Phone,iPhone,2.0,3.2,6.4
+5fdc889f-122d-474d-86f4-d1bb5d7b83be,Oman,2024-07-30,1071.0,Water bottles,Insulated,5.0,2.47,12.35
+adec8d32-3afb-4580-b0f3-bbcd115eb800,Oman,2025-02-19,,Water bottles,Smart,3.0,3.07,9.21
+6c59e618-50e7-4079-9809-22f6cf18383a,Oman,2024-06-03,6682.0,Perfumes,Citrus,1.0,5.54,5.54
+0fd4a3c9-9273-40c1-b0a6-4fb386cc9733,Oman,2024-10-06,5188.0,Shoes,Boots,5.0,3.64,18.2
+3ecba673-358d-4616-9336-b1b54d5e6dde,Oman,2024-12-29,6347.0,Water bottles,Steel,3.0,4.85,14.55
+43eddd87-9131-45c3-b13d-0a0f4ebe4453,Oman,2024-06-04,6240.0,Jeans,Slim Fit,2.0,4.43,8.86
+eafb8da3-fccd-472c-b060-470cb1c3f9d5,Oman,2024-11-11,9596.0,Water bottles,Steel,10.0,5.26,52.6
+65da20e1-8811-4127-9359-2195a3212daa,Oman,2024-10-29,8039.0,Jeans,Straight,7.0,3.61,25.27
+1f808e1c-e29a-4f4c-a36a-76b6548148d8,Oman,2024-12-15,4191.0,Smart Phone,Pixel,3.0,4.26,12.78
+9b7641e8-b6a6-438f-9280-3ae5e1903719,Oman,2024-11-22,5322.0,Jeans,Regular Fit,10.0,3.87,38.7
+75c2f52d-8f3f-4a72-aba9-569ea090433b,Oman,2024-10-14,9961.0,Tshirts,V-neck,1.0,3.42,3.42
+afc94350-5fcf-424f-81c5-380ef470c29a,Oman,2024-11-12,1805.0,Smart Phone,,5.0,4.86,24.3
+3e2dde07-f877-489b-af8c-5b31c5a19411,Oman,2025-02-27,8835.0,Smart Phone,Xiaomi,1.0,4.45,4.45
+bb25367d-cd21-4444-b95b-325ed8fa048d,Oman,2024-06-17,9881.0,Smart Phone,Xiaomi,1.0,4.22,4.22
+0187d9d3-db04-454b-be8e-6b6143ee94c2,Oman,2025-03-22,4041.0,Tshirts,Graphic Tee,1.0,3.44,3.44
+5c21245e-9a7d-4275-8689-5be029f8212a,Oman,2024-10-28,9009.0,Jeans,Skinny,6.0,2.36,14.16
+d9add770-308d-4579-b78e-38ad3decdd27,Oman,2025-03-27,3183.0,Water bottles,Foldable,2.0,5.37,10.74
+dc510056-ff90-47e8-90c6-138135d8675b,Oman,2024-10-18,5244.0,Smart Phone,OnePlus,10.0,2.36,23.6
+8f8822b7-de5b-42f7-afa0-88860a381313,Oman,2025-05-06,3684.0,Tshirts,Cotton Tee,10.0,3.35,33.5
+cdcc049e-ef4d-4c57-a510-8131d0c31c50,Oman,2025-04-26,3708.0,Tshirts,Polo Shirt,4.0,2.6,10.4
+3c9c1cd2-eb1f-4a1c-b930-986b7075b4c1,Oman,2025-01-10,9764.0,Jeans,Bootcut,1.0,2.96,2.96
+2404595d-a6d6-4d00-9690-d9cdde1243a5,Oman,2024-06-01,3239.0,Shoes,Loafers,8.0,3.27,26.16
+058d8c09-2eaf-4417-af9e-62a23d0120f7,Oman,2024-12-23,7935.0,Perfumes,Citrus,6.0,5.16,30.96
+c2da6c78-3a5b-43ea-b05b-ad269de9b518,Oman,2025-03-20,9458.0,Tshirts,Tank Top,3.0,5.4,16.2
+3661039c-2367-42cc-8b18-020347660299,Oman,2024-09-06,9104.0,Tshirts,Cotton Tee,9.0,5.28,47.52
+974b18d9-9aca-46fc-9212-fae7a8eb7709,Oman,2024-12-03,3446.0,Jeans,Skinny,8.0,3.98,31.84
+ccb8d6d6-0253-47b2-9bac-f5bee3b384ca,Oman,2025-01-30,2377.0,Water bottles,Glass,5.0,3.54,17.7
+b0a6b1c9-44cb-4c8d-97bd-e1f55408906f,Oman,2024-09-23,3078.0,Perfumes,Floral,6.0,2.53,15.18
+ea32df39-0ebd-4e73-a395-c49fe58e1370,Oman,2025-05-08,8150.0,Perfumes,Spicy,5.0,3.66,18.3
+9f516516-9bfe-4b18-b091-e53691824513,Oman,2024-06-09,1061.0,Jeans,Straight,2.0,2.75,5.5
+c9e1d93f-64b2-4ea8-9514-1f05b774795e,Oman,2024-09-01,4497.0,Water bottles,Foldable,9.0,2.89,26.01
+c6014415-2f2e-4dbd-a79c-168eac663647,Oman,2025-03-04,8086.0,Shoes,Formal Shoes,9.0,3.98,35.82
+c771f56c-b986-4ad2-a01b-50f6fe2e6163,Oman,2024-07-11,9073.0,Shoes,Boots,7.0,4.21,29.47
+37e56349-7784-46d0-b7aa-1c1a730be62f,Oman,2024-08-01,7785.0,Jeans,Straight,3.0,4.08,12.24
+b328f054-8198-4c1d-b9d9-99b6e2fef46e,Oman,2024-05-27,7527.0,Perfumes,Citrus,6.0,2.57,15.42
+bae8b3cc-4c7a-43dc-adb7-67a666dcf5de,Oman,2024-11-15,8257.0,Smart Phone,Galaxy,7.0,3.44,24.08
+5c8bac02-8efa-4f51-b513-ee5300e208d1,Oman,2024-06-03,4900.0,Smart Phone,iPhone,9.0,3.79,34.11
+55c65dc2-08d8-4a8b-8c2d-93c860e23d57,Oman,2025-01-07,6131.0,Smart Phone,Galaxy,8.0,3.73,29.84
+cbd069d9-80e0-4a64-9fb8-3bc92b621afd,Oman,2024-09-09,1615.0,Jeans,Skinny,1.0,4.25,4.25
+b543622e-ca84-42aa-b911-1299a3eb9098,Oman,2024-09-06,3167.0,Shoes,Sneakers,9.0,4.06,36.54
+04bc969a-452f-43c9-befd-b8dae5d6ab9b,Oman,2025-01-31,8753.0,Tshirts,V-neck,1.0,3.26,3.26
+819f7810-5de8-4b8c-8234-50bbc81076dd,Oman,2024-07-17,8012.0,Jeans,Relaxed,2.0,5.34,10.68
+5f0a41ed-2341-4ff0-ab95-5f6f7414d8f7,Oman,2024-12-21,1039.0,Tshirts,V-neck,1.0,4.33,4.33
+d4958480-6e00-4063-ad0a-d4fad783f6b5,Oman,2024-07-15,1655.0,Smart Phone,Xiaomi,6.0,2.61,15.66
+30df7ed0-67a3-4614-b4e2-fbce3ebf8bd9,Oman,2025-03-22,7744.0,Shoes,Boots,4.0,2.67,10.68
+92dc7824-4860-421b-922b-5652ba9b0f09,Oman,2024-11-03,5378.0,Shoes,Boots,10.0,4.42,44.2
+a54bddbb-7c56-4a1b-9852-bf0250a7db25,Oman,2024-12-27,4422.0,Water bottles,Insulated,6.0,3.57,21.42
+37b3ef4d-ece1-46fe-85d0-e33a1abfac24,Oman,2024-12-27,9874.0,Water bottles,Glass,10.0,4.54,45.4
+ff4c2889-d794-40de-871d-a96db543e8c5,Oman,2025-01-01,8000.0,Water bottles,Insulated,10.0,2.91,29.1
+9ec6cb21-bd76-492b-96da-e0bb08cd3d26,Oman,2025-04-24,6160.0,Tshirts,Full Sleeve,10.0,4.81,48.1
+dde4fe4f-03a3-41d0-9046-f4a1d059a088,Oman,2024-08-31,4400.0,Smart Phone,Realme,7.0,3.75,26.25
+c66b7b69-6abc-47ec-92d3-ea0a249690db,Oman,2025-04-17,4644.0,Smart Phone,OnePlus,2.0,4.16,8.32
+e4a7fcfe-41db-4918-9729-8a48f9b12bdf,Oman,2024-10-08,2652.0,Jeans,Bootcut,8.0,5.2,41.6
+95f1ff22-8c4d-4dae-b7f6-3ccc282dc674,Oman,2025-02-11,9743.0,Water bottles,Foldable,7.0,4.51,31.57
+a918aef5-131a-40d5-a6a2-770bce3a9839,Oman,2025-04-15,2709.0,Tshirts,V-neck,1.0,4.55,4.55
+8ff8749d-49cf-4e85-9dac-cac2545d03f7,Oman,2025-05-11,6561.0,Jeans,Relaxed,8.0,4.59,36.72
+010ba241-042b-4a24-8060-d9e93a5ccb68,Oman,2025-02-09,2199.0,Tshirts,Tank Top,4.0,3.58,14.32
+6fdb20da-734f-41ca-af5f-d46a2eb534fa,Oman,2025-02-25,5983.0,Water bottles,Steel,3.0,5.0,15.0
+2c3126c0-4cd8-454c-bf69-c5def0655f62,Oman,2025-03-31,3647.0,Perfumes,Woody,8.0,4.37,34.96
+760a54e8-b712-4b58-a5cf-1f1d574c4c06,Oman,2025-02-27,9411.0,Jeans,Regular Fit,8.0,5.19,41.52
+242f1baf-86bf-4beb-804d-ca01c63be21f,Oman,2025-05-02,3109.0,Water bottles,Plastic,10.0,3.32,33.2
+a4990739-869e-4bf4-b343-aa18347cd0f4,Oman,2024-12-12,8914.0,Smart Phone,OnePlus,1.0,3.55,3.55
+8bf19e1e-a842-4c3f-946f-97fb0ecc8af9,Oman,2025-04-08,7355.0,Perfumes,Floral,4.0,3.85,15.4
+b29139a9-6269-43e6-8caa-73c985ac0d30,Oman,2024-06-12,4275.0,Smart Phone,Pixel,10.0,4.11,41.1
+93563b72-4163-4003-b92c-972eb2aa1712,Oman,2025-01-18,7063.0,Water bottles,Plastic,3.0,3.55,10.65
+bf6247e2-77b0-4c85-8e52-90ae669bbff2,Oman,2024-12-23,9789.0,Jeans,Straight,4.0,3.08,12.32
+456179ff-f7f2-494d-9ead-dc99f8f390f4,Oman,2024-10-13,1401.0,Shoes,Formal Shoes,1.0,2.99,2.99
+83eb9c88-5316-479f-adf0-505bc0c71eee,Oman,2024-10-27,7337.0,Water bottles,Plastic,10.0,2.42,24.2
+8aa4c43e-ada3-46e9-a233-384e315b3176,Oman,2024-08-15,2955.0,Water bottles,Steel,7.0,2.63,18.41
+0f31d27c-8b02-42cd-96e3-9e870cfa5dd9,Oman,2024-12-22,3305.0,Jeans,Regular Fit,5.0,4.77,23.85
+669942fe-625a-48c6-956b-a9196acc5d15,Oman,2024-07-04,7859.0,Jeans,Bootcut,2.0,4.67,9.34
+51936ec1-e69f-4f21-9b38-5a6a52994a47,Oman,2025-02-22,9299.0,Perfumes,Floral,1.0,5.21,5.21
+549e87aa-471c-4a45-b37a-31106806afc4,Oman,2024-11-23,7530.0,Smart Phone,OnePlus,2.0,3.84,7.68
+c236d295-c069-4fb8-93e9-46d9528da2fe,Oman,2024-09-30,6768.0,Shoes,Formal Shoes,3.0,3.95,11.85
+2c11e260-f74f-42b9-bdbf-27b019917aee,Oman,2024-08-20,5499.0,Tshirts,Graphic Tee,7.0,3.86,27.02
+62ec14eb-0d63-4cae-81c0-d4460176ec49,Oman,2024-12-03,8313.0,Perfumes,Spicy,4.0,2.65,10.6
+cf2df4a6-c972-4c70-8561-88e7566b8b3a,Oman,2024-10-22,9699.0,Jeans,Slim Fit,1.0,2.46,2.46
+aeec5022-4a8a-4052-a1fe-af01db181333,Oman,2024-06-05,2745.0,Smart Phone,OnePlus,4.0,3.49,13.96
+41b64add-e44b-4ef1-acd4-ff6e27666668,Oman,2025-04-13,5851.0,Jeans,Skinny,3.0,5.29,15.87
+d9187ff5-cd3a-4adb-a4ca-da760143a281,Oman,2025-04-02,7976.0,Smart Phone,Pixel,8.0,4.54,36.32
+3bbedece-c689-4b88-8337-0bc204595ccb,Oman,2025-04-03,2040.0,Tshirts,Graphic Tee,1.0,4.73,4.73
+3ec22d44-f555-464d-8516-d89d73dfe835,Oman,2024-10-19,1746.0,Smart Phone,OnePlus,1.0,4.59,4.59
+cf54f88a-4c5d-4377-9f49-3777e1c3fe98,Oman,2025-05-12,5387.0,Smart Phone,Galaxy,9.0,3.31,29.79
+833ff31e-3650-4aef-aa93-17e92764dec0,Oman,2025-01-18,1995.0,Jeans,Skinny,6.0,2.48,14.88
+b195706b-cc1c-4ebc-8b93-aded2c613881,Oman,2024-09-20,9760.0,Jeans,Straight,5.0,4.71,23.55
+9bd4a2fd-fbad-4448-87c8-1588392cbbe0,Oman,2025-03-11,5554.0,Shoes,Sneakers,8.0,2.5,20.0
+44e4b56c-366c-4ff8-91b4-accdbf283a6e,Oman,2025-01-28,8098.0,Shoes,Formal Shoes,3.0,2.57,7.71
+9b7eb2c8-d2dc-4373-90f3-5eeba3520153,Oman,2024-11-14,6515.0,Shoes,Sneakers,7.0,5.53,38.71
+44cb3cf6-8e24-4f29-a721-9bbbfd72c77d,Oman,2024-06-25,4436.0,Shoes,Sports Shoes,7.0,3.12,21.84
+45327fbb-9c01-4c23-a3a5-45995cd1f293,Oman,2024-12-04,8602.0,Jeans,Bootcut,1.0,5.02,5.02
+c52391f2-c0e6-48f6-9a9b-a58634638bf0,Oman,2024-10-07,9346.0,Smart Phone,iPhone,1.0,2.39,2.39
+92b28bea-03a0-4991-bbd1-c7a8f94344b1,Oman,2024-09-16,9163.0,Smart Phone,iPhone,6.0,4.74,28.44
+3907963b-f40e-44dd-a39f-e087a3e5721c,Oman,2024-12-22,6517.0,Smart Phone,OnePlus,2.0,4.28,8.56
+c2e27bb9-a0c0-4fe1-9411-2c1295a05959,Oman,2024-12-13,3299.0,Smart Phone,OnePlus,10.0,3.82,38.2
+00476b2e-6ea4-4c5f-bb8b-161ea869959e,Oman,2024-07-18,4821.0,Perfumes,Floral,9.0,2.81,25.29
+e94e1303-5a90-42bc-970b-c3e2f82dac3a,Oman,2024-12-06,6441.0,Perfumes,Fresh,8.0,5.03,40.24
+d76e9ec1-9c4b-4fe6-87c6-1c3f854506ed,Oman,2025-04-17,1287.0,Perfumes,Fresh,10.0,3.64,36.4
+4feaf4ed-d829-4d37-b0f3-201577f90adb,Oman,2024-07-12,4725.0,Shoes,Sports Shoes,7.0,4.73,33.11
+70a50d6c-be7d-4442-9042-efc718aba437,Oman,2025-01-27,8719.0,,Foldable,6.0,3.82,22.92
+75d4a3be-6fd1-4b5e-8857-d8024923d0c9,Oman,2024-10-01,6985.0,Perfumes,Fresh,4.0,5.46,21.84
+a803abf2-1d1a-4d83-b2d8-b392f4a6a03c,Oman,2024-09-10,2092.0,Smart Phone,Pixel,4.0,3.73,14.92
+bce16224-6ce4-40af-a63c-112e8373c5c7,Oman,2024-08-25,4300.0,Water bottles,Plastic,5.0,5.13,25.65
+c12e6c4d-85a0-40b4-8038-60ac00f20f74,Oman,2025-02-19,6242.0,Tshirts,Polo Shirt,3.0,2.8,8.4
+dfb0d43f-851e-439e-a431-fdf2c965afa7,Oman,2024-10-14,9426.0,Perfumes,Fresh,2.0,4.86,9.72
+1b243463-46c5-4b95-b003-ea91ce54c3a9,Oman,2024-12-21,7885.0,Tshirts,V-neck,5.0,5.25,26.25
+c43644fe-a58e-4128-bea4-2c0028bf9858,,2024-08-07,3757.0,Shoes,Loafers,1.0,3.51,3.51
+07f800a2-6dea-4a22-a439-5bfef8984efa,Oman,2025-02-24,9988.0,Jeans,Relaxed,7.0,4.46,31.22
+c1b9f9a5-9f69-45d2-b768-0e3d60724952,Oman,2024-08-30,3715.0,Jeans,Regular Fit,10.0,3.24,32.4
+7b06583b-d6b1-4981-ab84-76fb75912faf,Oman,2024-09-04,4153.0,Water bottles,Glass,5.0,4.68,23.4
+6721837f-624a-4cab-80a3-0b00b325b0ac,Oman,2024-07-23,4500.0,Water bottles,Plastic,7.0,3.94,27.58
+ea2d97c8-a469-4111-b773-84cda83e78b1,Oman,2025-02-02,2511.0,Water bottles,Foldable,2.0,4.66,9.32
+ec5ee44d-8795-46a7-8fdc-d94cfb52654c,Oman,2025-04-26,8679.0,Perfumes,Spicy,3.0,2.99,8.97
+4b7ea28d-264a-46f3-802a-c7178a77444a,Oman,2025-03-12,7788.0,Perfumes,Fresh,8.0,4.92,39.36
+d6027e82-97fe-4542-8c7b-7e6f9f739794,Oman,2024-05-23,4859.0,Water bottles,Foldable,2.0,3.7,7.4
+24f82a96-b995-40cf-b5cd-9559222e34e7,Oman,2024-08-07,8762.0,Tshirts,Graphic Tee,4.0,2.68,10.72
+80a9891e-9fea-4f54-b347-83b01e79df28,Oman,2024-12-24,1441.0,Shoes,Sports Shoes,6.0,5.37,32.22
+2bd7e12e-e247-4f64-a6c8-fd99fb0ee501,Oman,2024-08-10,8725.0,Smart Phone,Realme,10.0,5.05,50.5
+0e7e41b6-92bd-40ed-93d8-a5bdade73cc0,Oman,2024-05-27,8340.0,Shoes,Sandals,6.0,2.44,14.64
+8d5c45f9-e379-442a-abcd-21c30e3db0ba,Oman,2024-08-30,6291.0,Water bottles,Insulated,5.0,5.28,26.4
+a08aee11-1212-4d81-826d-f154b4094d74,Oman,2025-03-17,4318.0,Smart Phone,iPhone,9.0,5.54,49.86
+fd242766-13d0-4698-865b-587897e5ae89,Oman,2025-03-27,9923.0,Tshirts,Tank Top,3.0,4.43,13.29
+0a2fc756-af7c-41b8-9fd3-1f6d8a7102d8,Oman,2025-04-06,8582.0,Tshirts,Cotton Tee,1.0,4.9,4.9
+954ba590-5a4d-42c7-90f9-9efe83a1d8c4,Oman,2024-06-08,1951.0,Jeans,Skinny,7.0,2.72,19.04
+5e9db47c-4d70-42ea-94be-70be8ecdb525,Oman,2024-11-28,3746.0,Tshirts,Cotton Tee,6.0,4.31,25.86
+35c8f998-8cc8-4670-93a7-79d367ad3af1,Oman,2024-11-26,8262.0,Shoes,Formal Shoes,9.0,4.46,40.14
+05d9c4d3-866e-4085-b492-abcf6938edd8,Oman,2025-04-13,8847.0,Shoes,Boots,9.0,4.69,42.21
+3ce02798-26a3-4a0d-944b-45a4660a3c58,Oman,2024-12-30,7539.0,Shoes,Boots,8.0,4.03,32.24
+1d50f098-2e2f-4252-9bd8-a01dae66f964,Oman,2025-05-12,6467.0,Jeans,Bootcut,7.0,4.55,31.85
+e0e4fb32-8c14-4f23-9695-4ee6bcfc7e7f,Oman,2025-03-23,9959.0,Tshirts,Cotton Tee,9.0,4.16,37.44
+912ba8a6-edab-432d-a799-8565198a6a0c,Oman,2025-01-20,7340.0,Perfumes,Citrus,3.0,4.84,14.52
+c32dd294-c8bd-4448-a7d9-8c3ed8eaea6e,Oman,2024-06-21,3192.0,Tshirts,V-neck,7.0,2.66,18.62
+a61b6d5d-06cc-4bba-8ef4-b59bd0c34115,Oman,2025-03-31,9002.0,Shoes,Boots,3.0,2.83,8.49
+635589f4-66db-4507-aa58-341101cd8f3c,Oman,2025-02-15,1600.0,Shoes,Boots,2.0,3.56,7.12
+74660343-0c0d-40d9-9e50-e261df81ee4a,Oman,2024-12-27,,Perfumes,Spicy,5.0,4.56,22.8
+96e82445-2590-4585-8782-8c907b25f00e,Oman,2024-12-15,3358.0,Jeans,Straight,9.0,4.25,38.25
+e4ba28fc-9b50-4366-8da3-b59e633b35fd,Oman,2024-08-11,5503.0,Tshirts,Tank Top,6.0,3.43,20.58
+a9aa3883-82e9-4b99-b4d9-4221e7c10651,Oman,2025-05-10,,Tshirts,Full Sleeve,8.0,2.62,20.96
+ebdba48c-7441-4d13-a6f1-58909b8347fe,Oman,2024-05-31,9041.0,Smart Phone,iPhone,10.0,2.53,25.3
+9d3b2012-82d3-466f-b5d2-65de53f17e12,Oman,2024-10-21,4691.0,Shoes,Loafers,9.0,3.33,29.97
+569c16ba-30e5-45eb-b973-3885ff1d7d34,Oman,2024-09-28,3798.0,Tshirts,Polo Shirt,6.0,2.53,15.18
+e6179f06-a87f-4e58-8e2e-2e2ad701597c,Oman,2025-04-20,4572.0,Perfumes,Spicy,4.0,4.86,19.44
+571b8409-544b-4325-92a9-e05019a36ee8,Oman,2025-01-14,1536.0,Perfumes,Woody,4.0,2.65,10.6
+17f718db-a4ca-4318-a081-a7805b8392ce,Oman,2024-12-03,4647.0,Perfumes,Aqua,7.0,5.09,35.63
+d2799a25-b5fe-46c1-861a-eea8843e7994,Oman,2024-08-30,6098.0,Perfumes,Citrus,8.0,5.15,41.2
+8992b691-8254-4e92-bb5a-e35a5e1df2e2,Oman,2024-08-03,2714.0,Perfumes,Citrus,5.0,2.96,14.8
+105b2fdc-4fb5-41b3-938b-aaf1f8cbb96e,Oman,2024-09-10,1842.0,Jeans,Straight,2.0,3.6,7.2
+1a3710ae-b399-4b7e-ab74-7d0da6c2325b,Oman,2025-03-02,4716.0,Smart Phone,,9.0,3.6,32.4
+529cbc09-cb14-41d0-a5ee-e681fa4f961d,Oman,2025-04-09,1806.0,Tshirts,Graphic Tee,6.0,3.29,19.74
+fd901bcb-8927-4f04-a68d-7b7232cdc1d0,Oman,2024-11-02,2865.0,Smart Phone,Realme,5.0,4.66,23.3
+64bf4bff-c003-4851-a0b6-88085305482b,Oman,2025-03-28,2223.0,Tshirts,Tank Top,8.0,3.85,30.8
+a38cfdf1-9531-4690-8997-ed80be602590,Oman,2024-10-31,5957.0,Jeans,Straight,1.0,3.51,3.51
+445abdce-a0a7-4916-8729-8c4ecde66117,Oman,2024-09-29,7985.0,Perfumes,Fresh,1.0,4.93,4.93
+6979bafa-436e-4bb8-8abb-6f54832b3664,Oman,2024-11-13,1405.0,Smart Phone,Galaxy,10.0,3.12,31.2
+3b5df6ce-fd5b-441a-82e3-6a0aea3c179f,Oman,2025-03-28,2087.0,Jeans,Relaxed,4.0,2.53,10.12
+227c85aa-f008-4202-b7ca-34f66e97f8ce,Oman,2025-01-07,8860.0,Shoes,Sports Shoes,3.0,5.17,15.51
+818b4ed4-7fa4-48ff-8225-5b2c37f81f31,Oman,2025-01-26,4412.0,Shoes,Sports Shoes,8.0,2.4,19.2
+95111968-5ae5-4fa6-9e78-6fa2de5cd5a3,Oman,2024-11-23,3624.0,Shoes,Loafers,4.0,2.51,10.04
+ab5b2ca1-b40b-458f-a8f6-8c8199f6a893,Oman,2024-07-10,8195.0,Water bottles,Insulated,8.0,5.48,43.84
+64bc999b-8250-4470-9abd-edcf3bc80f65,Oman,2024-12-17,6430.0,Perfumes,Citrus,6.0,4.51,27.06
+b489593e-ebf8-4648-9e48-2c028f286cdb,Oman,2025-01-26,5985.0,Tshirts,Full Sleeve,2.0,3.79,7.58
+d2575c4b-fef5-40ca-a9e6-c348a47d0a49,Oman,2024-08-10,2482.0,Smart Phone,Realme,9.0,3.59,32.31
+bc83ecb0-fe1f-4ee7-9ac2-e65c603bfb90,Oman,2024-10-05,6684.0,Jeans,Slim Fit,9.0,4.7,42.3
+899c7e9a-4119-4db3-bd26-551fa077da25,Oman,2024-08-18,5778.0,Jeans,Straight,9.0,3.84,34.56
+788fb376-d8b8-47d4-a261-8710cb720f38,Oman,2025-02-13,5171.0,Water bottles,Foldable,2.0,3.64,7.28
+1f5121a6-ba26-4bc3-ad3b-4adc6386d673,Oman,2024-09-25,9925.0,Jeans,Regular Fit,4.0,5.39,21.56
+ebec8b0a-1513-464b-a67a-2cc7488f39a6,Oman,2025-01-12,5386.0,Smart Phone,Galaxy,6.0,5.38,32.28
+edd8b2da-ec60-42bb-ae90-6cfebda01104,Oman,2025-01-05,2882.0,Smart Phone,Realme,5.0,5.28,26.4
+00c08124-7123-4c83-904a-d7ea6cb8cc22,Oman,2024-09-21,9415.0,Smart Phone,Pixel,9.0,3.71,33.39
+9085f5b7-678c-4f93-9813-395caa1667b0,Oman,2024-12-14,5696.0,Smart Phone,iPhone,7.0,2.33,16.31
+3a596560-1950-428d-bf99-581de428539a,Oman,2025-03-15,7334.0,Perfumes,Floral,2.0,5.44,10.88
+b48a2d14-0efe-4e46-a3ad-0b6eb2f4f8d5,Oman,2024-12-29,4332.0,Perfumes,Aqua,9.0,4.55,40.95
+7322b792-cf94-4b7d-bca2-6cbab1a9a576,Oman,2024-09-02,3104.0,Shoes,Loafers,6.0,4.13,24.78
+dc0382e2-b80e-4079-8f74-12ff976bf9d7,Oman,2024-07-01,7636.0,Perfumes,Woody,10.0,4.29,42.9
+ff363203-a30d-4097-aa18-9a7d49e2b4f4,Oman,2024-08-15,1469.0,Tshirts,Graphic Tee,4.0,3.05,12.2
+f634cd4f-6cbc-4250-a6cc-cf5acfd92fcf,Oman,2025-04-10,2909.0,Water bottles,Plastic,8.0,3.37,26.96
+6a65d16c-3048-46aa-a404-5f1e8ecdf68c,Oman,2024-10-07,7780.0,Perfumes,Spicy,1.0,5.07,5.07
+0062050e-13f5-47c1-b3da-16646f7d696b,Oman,2024-07-07,4940.0,Jeans,Regular Fit,10.0,4.56,45.6
+f33bb643-cfb1-4ce1-ac84-740d47237612,Oman,2025-05-06,3202.0,Water bottles,Insulated,5.0,3.82,19.1
+20c4ff5d-d699-4908-995a-017ccb1e7a8c,Oman,2024-07-04,4607.0,Water bottles,Foldable,8.0,5.3,42.4
+8b51dc99-96a0-465b-9d1c-a8c644c73898,Oman,2024-05-29,8171.0,Perfumes,Woody,8.0,4.54,36.32
+3880446d-8dc1-4914-ac62-6aa7f8d1aae8,Oman,2025-04-25,3453.0,Water bottles,Glass,8.0,2.66,21.28
+d072d994-46ad-4f26-8def-1085a2baec1a,Oman,2024-10-17,5813.0,Shoes,Boots,10.0,3.28,32.8
+3617050a-2a09-4fde-9de5-62c306e308f5,Oman,2024-08-17,6741.0,Perfumes,Spicy,1.0,5.29,5.29
+d9f9b008-4dd5-4c39-b53a-531b100af3a9,Oman,2024-10-14,6906.0,Water bottles,Plastic,9.0,4.52,40.68
+23de6993-4ea2-4faf-a1b5-eaf46f2d0a1b,Oman,2025-04-16,7287.0,Perfumes,Aqua,8.0,3.84,30.72
+20d461ba-c069-4036-bd57-7db03f0fac32,Oman,2024-10-08,4574.0,Perfumes,Spicy,6.0,3.76,22.56
+c84478ba-95a5-4efe-914e-ff4911051eba,Oman,2025-03-01,6832.0,Perfumes,Fresh,7.0,5.3,37.1
+a3ad0476-286f-456a-8207-eff89528688e,Oman,2024-07-23,8962.0,Perfumes,Floral,5.0,4.72,23.6
+d9ce8b26-6029-4a67-b04c-c8c3af706ace,Oman,,5304.0,Smart Phone,Pixel,9.0,3.3,29.7
+9b9c72a2-4c73-4d60-97b9-fa71cfd83503,Oman,2024-05-31,9971.0,Tshirts,Full Sleeve,7.0,4.6,32.2
+2dcc6e66-f909-49a5-80a2-89d052c8cb58,Oman,2025-02-26,2041.0,Jeans,Straight,2.0,4.22,8.44
+35523fa3-fa90-4745-b8d5-6915ba860309,Oman,2025-04-02,5727.0,Water bottles,Smart,1.0,5.19,5.19
+e0005105-417d-4986-aeef-c38eece45dd8,Oman,2024-12-13,3958.0,Shoes,Formal Shoes,9.0,2.74,24.66
+3a8bad91-8933-4ade-a91d-6821888fdb71,Oman,2024-12-22,5926.0,Perfumes,Aqua,10.0,3.05,30.5
+f4ea6d5d-3dbf-4e1c-8149-88c87804b7be,Oman,2024-08-12,6917.0,Perfumes,Spicy,7.0,5.38,37.66
+bd2afb9f-bb30-492a-a0c2-ad6546a77fbe,Oman,2025-02-08,4243.0,Tshirts,Tank Top,1.0,2.96,2.96
+1d4d08e7-17c1-49a5-9b8b-8ccd2618dd5d,Oman,2024-08-23,8503.0,Smart Phone,Galaxy,7.0,4.23,29.61
+96f300a4-7770-42d2-845d-f42586a6d4ba,Oman,2025-03-29,6190.0,Perfumes,Aqua,1.0,2.88,2.88
+dff61376-224e-4e65-9043-595936b22d4e,Oman,2025-02-05,1132.0,Jeans,Regular Fit,3.0,4.61,13.83
+527db562-954a-49b9-8393-25354a1d8a01,Oman,2024-09-01,8222.0,Jeans,Skinny,10.0,4.95,49.5
+6cc7f157-6f79-4fc6-a68f-c9077edc2ce1,Oman,2024-06-19,9225.0,Jeans,Bootcut,7.0,4.75,33.25
+b91c3516-1993-444b-8f4d-626e0d358bc3,Oman,2025-02-08,9780.0,Perfumes,Citrus,4.0,2.54,10.16
+15f54aa0-3e42-4e14-b70c-276c7afd04ce,Oman,2024-09-12,2381.0,Tshirts,Graphic Tee,6.0,4.65,27.9
+109ec9c3-f035-481d-9793-d05053172e89,Oman,2024-08-19,4749.0,Perfumes,Citrus,4.0,4.79,19.16
+699d0f72-88ec-410b-bb3b-ca786ee1e14b,Oman,2024-07-19,2702.0,Jeans,Bootcut,8.0,,32.0
+7c62f997-03c8-432f-8cd9-1ab2f1fe6e7c,Oman,2025-03-20,2271.0,Smart Phone,iPhone,3.0,2.8,8.4
+0b9b39e4-18e9-41fd-b4c3-77c58c7dacfa,Oman,2025-01-07,3111.0,Water bottles,Plastic,6.0,2.79,16.74
+d6c56584-7442-4e4a-82cf-fc0f54a6b09a,Oman,2024-06-03,3339.0,Water bottles,Steel,6.0,5.56,33.36
+94040039-d26c-4105-ad85-33a2dd1d125f,Oman,2025-01-23,4242.0,Tshirts,V-neck,2.0,2.92,5.84
+b8b34edc-cf02-4db8-acab-e1e93e906a8c,Oman,2024-06-11,4025.0,Perfumes,Spicy,4.0,5.53,22.12
+f57cefc8-2f5d-4fd6-8de2-01b231fb18bc,Oman,2024-11-25,1309.0,Water bottles,Glass,1.0,3.57,3.57
+d4b8a420-ea5f-45f4-9391-a1f4acdf286c,Oman,2024-07-06,5723.0,Perfumes,Spicy,2.0,3.31,6.62
+4a0dff8a-1888-40b8-9877-b282bdaba6d8,Oman,2025-03-16,7614.0,Shoes,Sneakers,8.0,3.78,30.24
+1a648d30-0963-461c-bafb-783068aae55f,Oman,2024-09-13,5195.0,Water bottles,Smart,3.0,2.8,8.4
+90feec12-96bd-4185-bd10-a6f251dbb17f,Oman,2024-07-08,7953.0,Water bottles,Glass,4.0,2.55,10.2
+d94b413c-34af-4ec4-bff6-16dae490ee09,Oman,2025-02-25,9508.0,Smart Phone,Galaxy,7.0,3.86,27.02
+da566160-22bc-466b-a0f4-1f0b24019b6a,Oman,2024-07-06,1516.0,Perfumes,Spicy,1.0,2.67,2.67
+de7ac752-3b6b-4054-91cb-cee7fdc03004,Oman,2024-12-28,4017.0,Smart Phone,Pixel,8.0,5.26,42.08
+5f581cc5-0c14-4ea9-ad14-f0beaa32e76f,Oman,2024-10-07,2566.0,Jeans,Regular Fit,5.0,5.36,26.8
+9d2bc6ae-bd39-4a47-a9cb-126df5fc402b,Oman,2025-03-04,9752.0,Water bottles,Glass,7.0,4.02,28.14
+936c9d62-393f-4137-b585-ffbf4e86fd9c,Oman,2024-06-22,3974.0,Shoes,Sandals,10.0,4.57,45.7
+f90d3083-f492-4446-a0fb-298e845ba11c,Oman,2024-06-28,4517.0,Tshirts,Polo Shirt,7.0,4.33,30.31
+99032fa5-bba1-4927-be46-16c22887e9be,Oman,2024-08-20,6497.0,Tshirts,Cotton Tee,4.0,4.37,17.48
+ade4f5f9-6966-42a8-9c23-9ca9d5186ad4,Oman,2024-09-01,4548.0,Perfumes,Woody,4.0,4.6,18.4
+66548fd6-8027-4505-af88-198b4de53f26,Oman,2024-09-06,8015.0,Perfumes,Fresh,2.0,3.31,6.62
+43826ccb-2c5a-40c8-8146-2442cb0568b6,Oman,2024-12-26,8035.0,Smart Phone,OnePlus,3.0,4.47,13.41
+bed40c9c-2c82-46ea-8482-ebb7317ddb7c,Oman,2024-06-04,6842.0,Water bottles,Smart,8.0,3.02,24.16
+742d5ae3-c017-467b-aff0-a0203f5d49d9,Oman,2025-01-16,5533.0,Perfumes,Citrus,4.0,4.98,19.92
+a310dff5-8cd6-4615-92a6-3189a97060ed,Oman,2025-01-11,4801.0,Jeans,Straight,6.0,2.74,16.44
+c63ee24d-d5b8-456b-a79e-bc275b30ab41,Oman,2024-06-18,3909.0,Water bottles,Smart,3.0,3.77,11.31
+f5b680f9-fb59-425b-a236-c6f1ff4daa0c,Oman,2024-10-18,6447.0,Jeans,Regular Fit,5.0,3.15,15.75
+447b9b0c-10fb-4052-98d9-192e900e7426,Oman,2024-11-19,7391.0,Water bottles,Glass,9.0,2.65,23.85
+c99bd782-5ea6-40a0-a85f-6c82f5df7921,Oman,2024-08-17,1992.0,Water bottles,Glass,4.0,4.87,19.48
+6a9f07d4-6aa3-44bd-aa86-ff039e9d5a73,Oman,2024-09-07,5367.0,Smart Phone,Galaxy,4.0,4.54,18.16
+5e95d7b6-fe1c-4a28-8862-b70c7904ffb1,Oman,2024-08-07,5083.0,Smart Phone,Pixel,7.0,3.53,24.71
+b2ae1be5-94e4-4f2f-9957-cd9667818049,Oman,2024-10-05,8234.0,Tshirts,V-neck,10.0,5.32,53.2
+4552d0d2-f2ef-480a-be0f-d9ecc7074546,Oman,2025-05-07,7452.0,Shoes,Formal Shoes,8.0,2.71,21.68
+aabb7d32-515a-4417-b83c-e50d6f2e6e73,Oman,2024-08-12,6538.0,Perfumes,Aqua,2.0,4.34,8.68
+b2e0c353-949f-4826-8faa-586e3558483c,Oman,2025-02-05,9091.0,Shoes,Sneakers,3.0,3.09,9.27
+4c3d4a81-2696-4a0a-97a6-e2bcec7cc6e6,Oman,2024-06-23,6550.0,Water bottles,Steel,10.0,4.24,42.4
+a4158988-281a-4dd1-94f0-98c0798ddfb9,Oman,2024-11-07,4679.0,Water bottles,Glass,4.0,2.79,11.16
+f0b00a51-3666-401f-857d-f92352f074c3,Oman,2025-01-25,8031.0,Shoes,Boots,8.0,5.49,43.92
+06b0bb2f-93e7-4ff9-ab33-95f83f10dc05,Oman,2024-10-21,9821.0,Tshirts,Full Sleeve,5.0,5.13,25.65
+786b6874-90c5-4d15-8bc8-f4c925a953e1,Oman,2024-12-29,7803.0,Jeans,Relaxed,8.0,4.63,37.04
+397f9ba7-dc46-4101-9abf-8127189f59f5,Oman,2025-01-30,9193.0,Water bottles,Plastic,3.0,5.13,15.39
+e59dad4d-64c6-46e1-99fc-4dff15534ea0,Oman,2025-03-13,1378.0,Shoes,Formal Shoes,4.0,5.35,21.4
+795700a0-354d-4b65-8e70-6e5a7f4220cb,Oman,2024-07-03,1965.0,Tshirts,Polo Shirt,6.0,4.34,26.04
+c6676b08-2a82-407a-b0ee-1d5478b63685,Oman,2025-04-01,7940.0,Water bottles,Steel,10.0,5.05,50.5
+8dcbc387-f57c-4a25-bb62-9e6ad0844473,Oman,2025-04-30,5507.0,Jeans,Slim Fit,4.0,4.97,19.88
+21be9f38-1e29-415e-b53f-e8c392e73ba5,Oman,2024-06-30,5677.0,Smart Phone,Pixel,10.0,2.91,29.1
+97975b0b-324b-4851-88a4-1ff065f28679,Oman,2025-03-08,5879.0,Smart Phone,,2.0,4.39,8.78
+6598a7bc-7128-4350-85f4-6ccbc8728188,Oman,2024-07-24,6297.0,Water bottles,Insulated,5.0,3.46,17.3
+24e700ef-d69c-4471-8729-1e1da4773a78,Oman,2025-02-28,5858.0,Tshirts,Polo Shirt,3.0,2.93,8.79
+34826796-67cc-4176-802a-c52a582f5c69,Oman,2025-05-05,4133.0,Jeans,Bootcut,10.0,5.24,52.4
+23817db9-75c3-4e98-9bdf-df34990c8fb9,Oman,2025-02-28,7478.0,Tshirts,Polo Shirt,7.0,4.4,30.8
+8170c721-4323-43c7-9299-ad80d216bc34,Oman,2025-04-07,8397.0,Smart Phone,Pixel,10.0,4.02,40.2
+6964c5b4-068c-4237-ac17-96a6fd54c0c9,Oman,2025-02-02,4579.0,Tshirts,Graphic Tee,10.0,4.47,44.7
+1c666748-999e-4f31-b87e-1146542186b7,Oman,2024-05-26,2760.0,Jeans,Relaxed,5.0,3.77,18.85
+c5fabf97-c907-460e-9993-54c62b788de2,Oman,2024-12-21,2861.0,Tshirts,V-neck,1.0,3.71,3.71
+3f34bdb6-b7ea-40d8-86ac-911966bf02ee,Oman,2024-12-20,4794.0,Jeans,Regular Fit,2.0,3.98,7.96
+37275969-459b-482c-b8d9-1bd645ad48ed,Oman,2024-11-14,4360.0,Smart Phone,OnePlus,5.0,4.38,21.9
+8892161c-460c-4e9c-af86-d54cf4fdc90c,Oman,2025-03-18,9937.0,Smart Phone,Galaxy,9.0,2.84,25.56
+16af3442-43ea-484a-b0fc-a9d9cc1186c0,Oman,2025-02-20,2017.0,Smart Phone,iPhone,4.0,4.12,16.48
+6f25222d-dd6f-4420-9237-7609f47bc25b,Oman,2024-11-21,5113.0,Perfumes,Woody,7.0,5.38,37.66
+1a8e041a-1755-428b-8b5e-0d91e8a13331,Oman,2024-10-16,2360.0,Water bottles,Glass,10.0,4.01,40.1
+d9321ab3-0c2c-4f31-8660-d917c58b72cd,Oman,2024-09-11,1633.0,Water bottles,Plastic,8.0,4.63,37.04
+d4aee54d-8fd3-4455-8796-47bc26889e4a,Oman,2025-04-21,7835.0,Shoes,Sneakers,10.0,3.74,37.4
+1e7b5e00-ed03-4b70-aac0-1a5cda6c59b2,Oman,2024-10-17,9917.0,Jeans,Straight,1.0,3.86,3.86
+f6fe34c8-bf7c-4122-8871-66e1ffcef759,Oman,2024-06-11,4286.0,Water bottles,Glass,2.0,3.95,7.9
+be22c440-e533-4b2a-807f-690e42004aca,Oman,2025-05-11,6392.0,Jeans,Bootcut,5.0,3.69,18.45
+e35e232c-42d9-4eff-8db3-4e0e4d67b051,Oman,2024-07-13,4432.0,Smart Phone,Pixel,3.0,2.99,8.97
+6ceb699e-131e-4238-b28e-2a6451ba7725,Oman,2024-06-06,8832.0,Perfumes,Floral,1.0,5.04,5.04
+189e7d6e-abda-4e04-bbff-a9e390c2ebf0,Oman,2024-11-18,9905.0,Jeans,Regular Fit,5.0,2.63,13.15
+52ecc7ed-1470-4aa5-8f0a-f0b761d51454,Oman,2025-03-15,8873.0,Shoes,Sandals,6.0,2.72,16.32
+e23e12f0-b3af-41a9-9aef-38021950555f,Oman,2024-06-16,9118.0,Shoes,Sports Shoes,3.0,3.26,9.78
+229e898b-e07c-49b2-b40a-09db1db293e7,Oman,2025-03-13,2601.0,Tshirts,V-neck,8.0,5.12,40.96
+ed1cf073-4f37-4486-ae8d-67b5953d4f7d,Oman,2025-04-08,9532.0,Smart Phone,Xiaomi,4.0,3.83,15.32
+1698875d-a7bb-4caa-8d91-afe38e3ec6ee,Oman,2024-09-03,2507.0,Water bottles,Steel,1.0,3.7,3.7
+889b2b65-d723-42ce-a1ec-d4d21e85edf7,Oman,2024-11-08,6195.0,Shoes,Loafers,8.0,4.42,35.36
+ef13319e-7c0d-4c79-a89c-8fca22ffe9fc,Oman,2025-02-08,4491.0,Smart Phone,Galaxy,4.0,4.76,19.04
+d960ca79-79f7-440f-afa6-dbccf841b86c,Oman,2024-11-28,7037.0,Perfumes,Woody,1.0,4.71,4.71
+dc352b5a-4b68-4c40-a16c-ab197da8f7d7,Oman,2024-10-27,2175.0,Water bottles,Smart,8.0,4.87,38.96
+f6c7a1c1-c9e2-4ec1-8dda-01243d24c1c1,Oman,2024-06-13,1614.0,Tshirts,V-neck,10.0,3.3,33.0
+4d39f29f-7fd3-4daf-a31c-6761eb002062,Oman,2025-01-07,5690.0,Tshirts,Cotton Tee,4.0,3.51,14.04
+26d93400-a433-4e4e-bfdf-77a22b5881f8,Oman,2024-06-29,6707.0,Perfumes,Citrus,2.0,3.13,6.26
+137d97fc-0c42-433b-a081-aabd48b18785,Oman,2025-02-13,7733.0,Tshirts,Graphic Tee,2.0,4.93,9.86
+f73f707d-6eef-482a-a9d8-7a6498c8ab51,Oman,2025-01-26,2088.0,Tshirts,Cotton Tee,7.0,5.24,36.68
+d06c0d92-40d6-4c8b-8c41-0b8e6811b11a,Oman,2024-09-24,6294.0,Shoes,Sandals,3.0,3.75,11.25
+7f317011-a7ee-452d-81f6-00272ced976e,Oman,2025-02-25,6109.0,Smart Phone,Galaxy,9.0,4.25,38.25
+2390f607-0084-48f5-9336-980ee4b7405a,Oman,2025-01-14,8971.0,Tshirts,Polo Shirt,10.0,4.35,43.5
+ef2a2bd7-10a4-43de-8f08-ac06b87d6e7a,Oman,2025-02-12,8643.0,Jeans,Relaxed,6.0,2.66,15.96
+b46ce5f8-98e2-4ca7-8af5-2b5e95709b28,Oman,2025-01-07,6880.0,Jeans,Relaxed,1.0,3.25,3.25
+48468d49-9ac1-4a87-a3f3-01a96d090422,Oman,2024-11-26,1956.0,Tshirts,Polo Shirt,1.0,3.25,3.25
+9741c0fa-1b20-457e-9e86-ca3d07d712df,Oman,2025-01-13,8089.0,Perfumes,Citrus,6.0,3.91,23.46
+a9d51bcf-f067-4d81-990d-e23b73901c46,Oman,2025-05-05,4411.0,Tshirts,Full Sleeve,3.0,3.87,11.61
+813ee22d-c73e-47c7-9d33-25355d994b1e,Oman,2024-09-06,3386.0,Water bottles,Steel,5.0,2.78,13.9
+72c0d42d-2f29-4a3e-bd92-ea2ada0b7ca4,Oman,2025-01-16,8465.0,Tshirts,Graphic Tee,8.0,4.26,34.08
+221deb4f-677a-41cf-a3c4-722c27f3b303,Oman,2025-03-05,6924.0,Shoes,Sneakers,6.0,3.54,21.24
+424d3469-06a0-4fb4-9df0-fb2667b43715,Oman,2024-10-09,1369.0,Perfumes,Floral,2.0,2.41,4.82
+4b4788c1-153f-4118-8af7-21a9a9d0716a,Oman,2025-04-12,1083.0,Smart Phone,Pixel,4.0,3.51,14.04
+825dd0ea-60c9-4560-9183-6f31fca0cd72,Oman,2025-01-20,3949.0,Perfumes,Floral,3.0,2.93,8.79
+b34f9f51-c996-49e6-8a5f-dcff42bbba8c,Oman,2024-11-28,1056.0,Shoes,Sneakers,6.0,2.47,14.82
+d00f207b-faff-492e-a35f-345cf7ea0599,Oman,2024-10-20,5455.0,Perfumes,Floral,3.0,3.19,9.57
+c27b7491-cde0-41fa-b8d4-b975fcff9ed9,Oman,2024-06-21,1126.0,Smart Phone,iPhone,1.0,5.43,5.43
+31325047-2b22-49cd-a85b-58a978c2249a,Oman,2024-11-24,2994.0,Water bottles,Smart,1.0,5.24,5.24
+a8db9b01-caf1-4eb1-9ec4-390559e68fe2,Oman,2024-07-15,4757.0,Tshirts,Polo Shirt,9.0,3.54,31.86
+2e54ca50-25e8-483d-8d5d-e8d9249031eb,Oman,2024-07-20,5550.0,Jeans,Straight,4.0,2.8,11.2
+27d1c679-ddc7-4f59-93a5-5fb678963d04,Oman,2024-12-04,6864.0,Jeans,Bootcut,9.0,3.18,28.62
+9872643b-974f-45f5-9b22-8880fffb0041,Oman,2024-09-06,1021.0,Tshirts,Polo Shirt,4.0,3.07,12.28
+b9ee2247-09fc-4dac-979e-f85745de0e0b,Oman,2025-03-01,5390.0,Shoes,Boots,5.0,4.28,21.4
+1da6833f-cd72-4a7f-9af7-884873ce9813,Oman,2024-08-10,7111.0,Jeans,Bootcut,9.0,3.2,28.8
+b45c25af-1a0e-4e79-8821-1db0e3d0ef71,Oman,2024-06-27,4182.0,Shoes,Sports Shoes,7.0,4.42,30.94
+f194f3d4-c79e-4b8e-b799-3edc51954d56,Oman,2024-11-02,1125.0,Jeans,Bootcut,9.0,5.09,45.81
+4a0d7cd8-6fca-4dbf-adf2-7628caa2bc81,Oman,2024-06-28,6888.0,Jeans,Bootcut,1.0,3.15,3.15
+fb04f274-8e78-446b-bd47-af43f4dd5978,Oman,2024-05-29,9588.0,Perfumes,Woody,7.0,3.5,24.5
+ed37e6c8-20ac-44c2-877a-59633d81f280,Oman,2024-12-09,1281.0,Water bottles,Smart,4.0,4.57,18.28
+e51bc4b4-0613-4523-92a2-3aa7d9fb128a,Oman,2024-09-07,6397.0,Perfumes,Spicy,6.0,5.35,32.1
+9cfee5c9-13c3-46ce-8d20-d60f3e1a09ae,Oman,2024-09-20,8692.0,Smart Phone,iPhone,7.0,4.01,28.07
+744202f2-ccc4-4ce8-a8f5-21848e40669a,Oman,2024-09-02,1596.0,Tshirts,V-neck,7.0,3.16,22.12
+828b6347-a43d-4cc6-95c2-b8712cdf8e10,Oman,2025-01-30,4658.0,Smart Phone,OnePlus,10.0,3.9,39.0
+c189c9f2-38d5-4872-a2b1-d31f05c75509,Oman,2024-09-24,4724.0,Shoes,Sandals,3.0,4.17,12.51
+c5ea7727-95ce-4a80-8eed-7ac976f3e6e1,Oman,2024-06-27,4635.0,Jeans,Relaxed,1.0,4.75,4.75
+b9b2da97-9edd-4a9b-a920-935fd2eb985f,Oman,2025-04-30,5105.0,Smart Phone,Pixel,2.0,3.75,7.5
+3d533342-e763-4620-aaef-318cee60b3e1,Oman,2025-03-29,1341.0,Shoes,Loafers,7.0,3.51,24.57
+2fc336b1-473b-4fcb-8272-8e4a8b7381ea,Oman,2024-12-23,7866.0,Water bottles,Glass,5.0,3.08,15.4
+910220ca-6e0f-47b7-b6f9-c71f9a4d5aaf,Oman,2025-01-16,5883.0,Shoes,Sandals,6.0,4.38,26.28
+85130c5e-2739-44f3-a4d4-36925bfa2c97,Oman,2025-01-05,7181.0,Shoes,Loafers,10.0,4.99,49.9
+637536e0-0c68-4763-ba56-d9b01111c859,Oman,2024-09-19,1708.0,Water bottles,Insulated,10.0,2.92,29.2
+24d6bca4-517f-4719-a629-a922153f1e28,Oman,2024-11-02,7789.0,Shoes,Formal Shoes,3.0,3.51,10.53
+6b12bd63-3900-429b-ad2b-667417de253f,Oman,2025-01-26,5896.0,Water bottles,Insulated,10.0,4.67,46.7
+0eff819a-8d45-4180-a61f-82b0967683ab,Oman,2024-07-07,6860.0,Tshirts,V-neck,2.0,4.58,9.16
+831448cb-053f-449f-a290-8eda384ec60d,Oman,2024-08-30,5845.0,Smart Phone,Realme,4.0,4.31,17.24
+c61c79b4-75b7-4c75-8d21-9a3c44f455a3,Oman,2025-04-04,9173.0,Perfumes,Floral,5.0,3.86,19.3
+52b73f7e-2e2b-4b8d-a8ce-4dc4dc14124d,Oman,2025-03-21,1149.0,Water bottles,Glass,9.0,4.27,38.43
+2f26cb42-ace1-415e-8830-1db78810a169,,2024-08-15,1078.0,Water bottles,Insulated,10.0,3.49,34.9
+147bf656-461e-4f44-882b-3c90c44c8117,Oman,2024-11-06,6043.0,Smart Phone,Realme,3.0,4.88,14.64
+578dd65f-54bc-4607-b85b-81c21c50ff9e,Oman,2024-08-17,2769.0,Smart Phone,Xiaomi,4.0,5.36,21.44
+50b9286d-5689-409d-88da-0ce153df7070,Oman,2024-11-08,1471.0,Perfumes,Fresh,7.0,2.69,18.83
+7fbda5de-d587-46bb-ac92-f14d625924b2,Oman,2024-12-18,3656.0,Jeans,Relaxed,2.0,4.7,9.4
+73c1f6a2-5e71-4662-aa1f-7077470d8b46,Oman,2024-06-06,4488.0,Perfumes,Fresh,8.0,3.25,26.0
+9ede807c-24f7-43a3-a83b-921238bc4ce7,Oman,2025-03-18,6879.0,Jeans,Slim Fit,4.0,4.68,18.72
+d92bba25-38e4-4bdf-ae50-9b8d2e689243,Oman,2024-06-15,9811.0,Smart Phone,Galaxy,3.0,4.56,13.68
+867e0a97-23a9-41a6-8f78-59ebebef7531,Oman,2024-10-11,1755.0,Tshirts,Cotton Tee,9.0,3.62,32.58
+d400f069-e961-4a72-852f-7be7478f8cad,Oman,2024-07-07,7427.0,Smart Phone,Xiaomi,9.0,2.41,21.69
+b0ae3b25-e1ba-406f-a7a2-5a162f0ee497,Oman,2025-01-08,8952.0,Smart Phone,Realme,10.0,3.63,36.3
+99a93fad-282f-47e5-b386-fc844ba548a8,Oman,2024-07-06,2425.0,Jeans,Slim Fit,7.0,3.68,25.76
+ed77ed37-8aa4-49b7-b6c9-68256842e7f5,Oman,2025-03-08,3897.0,Perfumes,Woody,7.0,4.42,30.94
+af3b32b9-5bf3-4412-9e85-6dede7b96323,Oman,2024-08-15,8779.0,Water bottles,Glass,10.0,3.0,30.0
+0144aea1-d58e-48b9-bd92-9259dbc2959d,Oman,2024-10-14,1540.0,Water bottles,Plastic,5.0,4.16,20.8
+d6c8cdd4-1f01-4085-b727-a7a5f89f057b,Oman,2024-08-11,3570.0,Smart Phone,iPhone,10.0,3.23,32.3
+88197b4c-4d54-4b96-8b8f-743d8007519f,Oman,2025-03-13,6870.0,Jeans,Relaxed,10.0,5.1,51.0
+0b8a93b1-26b6-49a6-af58-a84801f169fb,Oman,2024-10-23,4989.0,Shoes,Sneakers,7.0,3.34,23.38
+39c702ee-9e76-47dd-9fa8-f48a362e75cf,Oman,2024-11-20,2012.0,Shoes,Sports Shoes,2.0,5.48,10.96
+058cbf65-a568-4f3a-8ee1-ec9d00871d18,Oman,2024-07-24,6596.0,Tshirts,Polo Shirt,7.0,5.37,37.59
+256efea5-6074-4781-9975-8e626e274881,Oman,2024-07-24,5600.0,Smart Phone,Realme,10.0,3.71,37.1
+839d8c61-1061-4bba-be02-bf27b3341bf8,Oman,2025-02-25,7036.0,Perfumes,Citrus,1.0,4.47,4.47
+4f21768d-9986-43d9-b846-9cb35a990478,Oman,2024-05-14,8364.0,Perfumes,Floral,6.0,3.36,20.16
+cfd86194-9f24-44ca-bf5c-381594516729,Oman,2025-04-27,1007.0,Tshirts,Cotton Tee,7.0,2.82,19.74
+5818d1ae-c796-4a8d-8b3e-75c74920aa02,Oman,2025-02-20,4558.0,Shoes,Sports Shoes,2.0,2.45,4.9
+15354005-3bfd-4c43-be2e-af0a22ffd90b,Oman,2024-10-10,8626.0,Water bottles,Plastic,10.0,5.02,50.2
+c4b4859c-88d3-442b-8826-a9b4ea823045,Oman,2024-06-12,5667.0,Perfumes,Aqua,4.0,2.71,10.84
+70eb6a37-4a24-4243-a078-e10054dd07dc,Oman,2025-02-23,1210.0,Shoes,Boots,8.0,3.34,26.72
+9d6ca021-1e46-4cdc-bd76-8a7dc8497cca,Oman,2024-09-05,2315.0,Smart Phone,Pixel,4.0,5.44,21.76
+7fbb667d-f95a-4a97-b38c-5016ab8a5d03,Oman,2024-10-27,1957.0,Shoes,Sports Shoes,5.0,2.79,13.95
+788ef5c1-a8a9-4ed5-ad42-72515837c2f9,Oman,2025-01-20,3048.0,Perfumes,Spicy,2.0,3.58,7.16
+28fdb02e-9353-4111-88a4-11f706c8e1aa,Oman,2024-12-15,9969.0,Tshirts,Graphic Tee,10.0,4.67,46.7
+12fd66db-a984-4f6c-a822-b2cd0e10d045,Oman,2025-03-19,1980.0,Tshirts,V-neck,2.0,4.91,9.82
+11ba33d4-3ef3-4a21-a1cd-bab627e7bad6,Oman,2025-01-31,8238.0,Tshirts,V-neck,10.0,5.07,50.7
+d36e8d21-a113-484e-a2e9-ee6206278321,Oman,2024-11-15,8005.0,Tshirts,Cotton Tee,5.0,2.54,12.7
+22af0844-3efe-4c12-95d6-32793459f752,Oman,2024-07-11,4250.0,Jeans,Slim Fit,9.0,3.04,27.36
+8a05ce06-1f83-418b-bc7d-ca05af17b2a6,Oman,2024-09-29,2173.0,Smart Phone,Pixel,7.0,2.88,20.16
+d198a560-60e8-447c-a357-ddebde771787,Oman,2025-01-15,9467.0,Tshirts,Full Sleeve,10.0,2.66,26.6
+833ba35e-a5a9-41be-88d3-ef98b8702def,Oman,2024-10-03,4615.0,Jeans,Bootcut,2.0,3.0,6.0
+1547c5db-1573-423d-bf7b-a12ae95f9710,Oman,2024-09-02,9812.0,Jeans,Bootcut,6.0,4.7,28.2
+26044516-b267-4a5d-a869-c41d908994b1,Oman,2025-04-18,4986.0,Shoes,Loafers,4.0,2.6,10.4
+3509b022-12b9-4e57-b281-b0d1b3fa5d5f,Oman,2024-07-08,8165.0,Tshirts,Graphic Tee,8.0,2.61,20.88
+a059b9f3-a8a0-4df5-9974-c84e58365e9e,Oman,2024-11-25,4419.0,Water bottles,Steel,10.0,4.63,46.3
+c1456f26-7a8f-46a2-b88c-d2b020769df3,Oman,2024-12-07,7762.0,Perfumes,Citrus,2.0,2.6,5.2
+e1e3f5cf-1252-453b-91f3-b11c57adfb93,Oman,2024-09-23,9581.0,Smart Phone,Galaxy,8.0,2.73,21.84
+192e3dc1-1820-4c03-8a8e-f99723b3b81b,Oman,2025-03-12,5502.0,Jeans,Relaxed,10.0,2.79,27.9
+d084b7df-07c3-45bf-9eec-a16faad41a73,Oman,2024-10-11,6785.0,Tshirts,Polo Shirt,8.0,3.76,30.08
+64965ca5-6d8f-45e7-b348-c8b029e61c7b,Oman,2024-09-04,8062.0,Tshirts,Polo Shirt,9.0,4.8,43.2
+e0778fce-cb03-4bc6-9da4-fad571f326a8,Oman,2024-08-07,3367.0,Tshirts,V-neck,2.0,2.76,5.52
+4797222c-fe50-4bba-aede-3ede7ce3da45,Oman,2024-09-13,6659.0,Perfumes,Citrus,5.0,5.32,26.6
+e8dab4dc-cecb-41f1-b655-1ac63879b941,Oman,2024-08-18,6987.0,Smart Phone,Realme,10.0,2.67,26.7
+ee2b9186-5063-4f9e-a46a-9ebfac32371b,Oman,2025-03-01,7729.0,Smart Phone,Pixel,6.0,4.74,28.44
+82e52a40-70f8-4c5d-8768-462a429b01a5,Oman,2024-09-04,3617.0,Shoes,Sandals,10.0,3.21,32.1
+cd5afc3f-d06b-4dc5-8757-b52b2a28e8cd,Oman,2024-12-24,7022.0,Perfumes,Aqua,8.0,2.5,20.0
+4e8c378e-058c-45ca-9ecc-e184d4991725,Oman,2024-10-18,3123.0,Tshirts,Full Sleeve,2.0,4.12,8.24
+53b5af5a-6b36-498e-9146-8a8cf87f7210,Oman,2024-10-09,6469.0,Shoes,Loafers,3.0,3.51,10.53
+d18432b5-249b-4a0e-9c1f-989fdbd6ed4a,Oman,2025-01-30,3070.0,Shoes,Sneakers,4.0,2.68,10.72
+6afae130-e035-4af5-b282-e9b8c02d7852,Oman,2025-02-14,6235.0,Shoes,Loafers,1.0,3.9,3.9
+70db85f9-9d27-439d-8593-b210b3c052a8,Oman,2024-12-26,4530.0,Water bottles,Insulated,3.0,5.46,16.38
+44f03f5b-e099-42de-af50-061f41e501fe,Oman,2025-04-15,3268.0,Smart Phone,Xiaomi,6.0,3.52,21.12
+1c392667-9355-4e00-a188-966e12acccff,Oman,2024-09-07,3414.0,Shoes,Loafers,8.0,5.44,43.52
+e49a4f58-4aee-4f72-b225-6d64c9947eba,Oman,2024-11-21,5700.0,Tshirts,Cotton Tee,6.0,2.98,17.88
+7e24a483-f8f3-43d1-984a-a3d5e92425d6,Oman,2025-02-18,7120.0,Water bottles,Steel,10.0,4.54,45.4
+4a9313ba-850e-4e3a-9d30-58481dc06c56,Oman,2025-02-09,1850.0,Water bottles,Foldable,9.0,3.63,32.67
+3aecf60f-341f-4701-8633-c388757e1b17,Oman,2025-01-21,9678.0,Shoes,Sandals,10.0,4.17,41.7
+73e99f68-4ae8-485c-97f6-a4cf224ad577,Oman,2024-12-15,4981.0,Perfumes,Spicy,1.0,3.37,3.37
+bb2bc475-a525-46d1-b1d8-57b8316ce558,Oman,2025-04-21,5419.0,Tshirts,Tank Top,6.0,5.31,31.86
+ec2adb5f-b7bf-4049-9064-5aa451106091,Oman,2024-10-14,8295.0,Shoes,Formal Shoes,4.0,4.23,16.92
+6830e63b-3277-42a7-a53a-846503021844,Oman,2025-01-13,4284.0,Perfumes,Woody,3.0,3.01,9.03
+fd0a5f40-113e-4dde-9ce2-0449011cb53c,Oman,2024-07-06,3482.0,Water bottles,Steel,3.0,4.48,13.44
+d74c8860-f2fb-42c6-925b-53f506edd6bb,Oman,2024-06-02,5787.0,Jeans,Relaxed,7.0,4.04,28.28
+,Oman,2024-10-11,5147.0,Shoes,Sandals,8.0,2.36,18.88
+8b0b0789-dea3-452b-b6f5-e6d1c5f2b7ac,Oman,2024-08-01,7242.0,Tshirts,V-neck,5.0,5.43,27.15
+826f2b7c-ca3c-4cf8-b26e-5ef705df756b,Oman,2024-07-17,9851.0,Jeans,Slim Fit,9.0,4.12,37.08
+b949c125-7faf-45be-a7cc-fdf39af1cbf0,Oman,2025-02-25,2405.0,Smart Phone,iPhone,1.0,3.56,3.56
+023befcb-6195-44ec-b4f3-d38db28307d7,Oman,2025-04-09,7069.0,Perfumes,Citrus,,2.81,2.81
+9179703b-47a9-4b30-ab57-abeceacf6180,Oman,2025-02-15,1851.0,Smart Phone,Xiaomi,1.0,5.17,5.17
+254429c6-3013-4a80-9df9-693a1d1d0eaa,Oman,2024-08-23,7055.0,Tshirts,Graphic Tee,9.0,2.96,26.64
+e87907ac-17f4-488c-9dfe-9121c37b2471,Oman,2024-12-19,4525.0,Smart Phone,Pixel,4.0,3.12,12.48
+a7308128-d32a-40f6-8cc7-754d5fcb995b,Oman,2025-04-24,6436.0,Tshirts,Cotton Tee,3.0,3.99,11.97
+79a6470c-1c16-46a2-a439-a29b4ab1ab59,Oman,2024-09-24,9861.0,Jeans,Straight,3.0,3.02,9.06
+f39fe641-377c-45a4-8c7d-5796e0b5ddd0,Oman,2024-12-03,1585.0,Jeans,Bootcut,9.0,2.38,21.42
+1171794f-a357-4a67-815a-16b4492ce47f,Oman,2024-06-06,2006.0,Shoes,Loafers,4.0,4.82,19.28
+593bf230-105a-4242-bdf3-1349459dcfb5,Oman,2024-10-18,7307.0,Perfumes,Spicy,5.0,5.15,25.75
+136ac2c8-5705-4ed4-824b-ef98e4c49882,Oman,2025-02-04,4499.0,Shoes,Sneakers,9.0,2.5,22.5
+85beac2f-30e0-4e79-9486-334bd5694a38,Oman,2025-01-15,8820.0,Perfumes,Aqua,6.0,3.4,20.4
+5a2df2b1-51d9-470e-b544-d3e64f6f727a,Oman,2024-11-26,8329.0,Tshirts,Full Sleeve,4.0,2.87,11.48
+d0cde5c3-d73e-4632-bcaf-d9ae1c284b82,Oman,2024-11-05,5296.0,Tshirts,V-neck,6.0,3.24,19.44
+ed592398-f649-4f09-9759-91ea093d4e37,Oman,2025-01-05,1609.0,Smart Phone,iPhone,9.0,3.1,27.9
+ca51be9e-766c-46eb-a379-cc86279edbac,Oman,2025-05-03,9636.0,Tshirts,Graphic Tee,2.0,3.7,7.4
+b40a6f51-a555-4445-8f0a-89a5b1a4675d,Oman,2024-08-01,8925.0,Water bottles,Glass,9.0,4.65,41.85
+17e9a413-6f99-4420-9a53-1cf9b3a45d11,Oman,2024-06-24,9453.0,Perfumes,Citrus,4.0,4.81,
+fb1fb5e8-6c9e-4b87-a3a6-b06fed871e96,Oman,2025-03-20,7314.0,Tshirts,Cotton Tee,5.0,2.43,12.15
+bc603788-9442-4e6b-9b33-0f1770443480,Oman,2025-02-14,9541.0,Shoes,Formal Shoes,4.0,3.89,15.56
+28eab54a-32ff-4dc2-a9fb-9d7433b3f445,Oman,2024-10-21,8806.0,Perfumes,Woody,9.0,2.92,26.28
+5223111f-b82b-4912-8aab-d482deaa3d09,Oman,2025-04-14,1460.0,Tshirts,Full Sleeve,5.0,3.57,17.85
+894b984f-faa2-4a9e-b83a-c1f55534f77d,Oman,2024-08-02,7142.0,Smart Phone,Pixel,3.0,3.69,11.07
+a4c487d5-5b46-4364-816d-ea2630890e76,Oman,2024-12-09,6697.0,Jeans,Slim Fit,9.0,5.37,48.33
+b4a17f7a-7092-40bc-93c0-0a596c070379,Oman,2024-07-11,9936.0,Perfumes,Floral,7.0,2.43,17.01
+f3acca68-5d5f-4efd-bf35-bd0d5e9f40f8,Oman,2024-08-14,5625.0,Shoes,Sandals,1.0,4.98,4.98
+a8d23fe2-6672-4dfa-a34d-2c5028c2cbfc,Oman,2024-07-08,8669.0,Jeans,Skinny,10.0,4.97,49.7
+7b62e628-b34d-4ab6-86da-d79be7c9b4b3,Oman,2024-09-21,2090.0,Water bottles,Plastic,4.0,2.78,11.12
+d07b7724-8a17-400a-948b-525aae6af388,Oman,2024-08-25,8008.0,Perfumes,Fresh,5.0,4.43,22.15
+de773d4f-9ad1-4cac-bc20-ecf58c4d33b5,Oman,2024-08-02,1105.0,Jeans,Relaxed,10.0,4.23,42.3
+5749f77e-83f3-4616-89e7-cab326d0e3c4,Oman,2024-08-01,3581.0,Shoes,Boots,6.0,4.94,29.64
+2dc3d6a2-7647-447c-9363-28f4e6a4ab12,Oman,2024-11-16,7295.0,Smart Phone,OnePlus,10.0,5.13,51.3
+cfa57f25-8f67-4b46-97af-d8f26e1450f9,Oman,2025-01-20,4636.0,Tshirts,Tank Top,3.0,3.64,10.92
+a3521701-11d3-4d40-9110-5a80414ab65f,Oman,2024-10-05,3696.0,Water bottles,Steel,10.0,4.31,43.1
+849267cb-dff2-4807-a033-3e8151e745ff,Oman,2024-10-04,9918.0,Perfumes,Fresh,5.0,2.55,12.75
+f0fe1354-30c0-464a-9174-89127794e58e,Oman,2025-05-04,9768.0,Jeans,Straight,9.0,5.21,46.89
+78ce872d-ec81-4021-9076-27b4ea855d66,Oman,2024-07-01,8482.0,Smart Phone,Galaxy,7.0,2.55,17.85
+8e39d3e8-3948-4a8a-9422-7f59c3f97e60,Oman,2025-04-14,8784.0,Smart Phone,iPhone,8.0,3.43,27.44
+bf348ab6-eb7b-4ad8-b4b4-96507819bc81,Oman,2025-03-03,2980.0,Shoes,Sandals,2.0,2.53,5.06
+4ae09629-8052-4055-828c-708de0fa546a,Oman,2024-07-07,6227.0,Jeans,Skinny,2.0,4.29,8.58
+7b1137b3-bb84-417e-b17b-b80020d6697c,Oman,2025-01-22,2007.0,Smart Phone,Realme,2.0,4.98,9.96
+153bd49a-e84b-4e24-b14d-466c0234eddf,Oman,2024-07-09,4169.0,Perfumes,Aqua,6.0,2.99,17.94
+7d25eadb-4a4e-46c1-acd5-b1384b927128,Oman,2024-08-06,6714.0,Tshirts,Tank Top,4.0,3.65,14.6
+d948bf57-7bc1-47cb-a89d-145cbd25e347,Oman,2025-03-29,8324.0,Smart Phone,Xiaomi,3.0,5.24,15.72
+c1e464fb-180c-4ae3-b83b-0d47fc46d1b7,Oman,2025-01-09,7163.0,Smart Phone,OnePlus,5.0,3.6,18.0
+6f3b8e35-9c23-413d-b5b3-ecb55d61362d,Oman,2024-09-26,7533.0,Smart Phone,iPhone,1.0,3.85,3.85
+681ec744-748b-49d3-8508-c7e76713250d,Oman,2024-09-05,1666.0,Water bottles,Plastic,3.0,3.46,10.38
+,Oman,2024-10-07,9585.0,Jeans,Regular Fit,9.0,3.75,33.75
+499e52b5-31dc-4958-bc0a-12c6dacd40ba,Oman,2025-03-12,7007.0,Shoes,Sneakers,3.0,4.48,13.44
+d2f98849-efa8-47a7-a956-8c6726ffb2a1,Oman,2025-04-05,6972.0,Water bottles,Glass,4.0,3.95,15.8
+9fc7d5e4-757a-4380-87c3-cb29323f2ffd,Oman,2024-07-30,3986.0,Smart Phone,Xiaomi,6.0,2.83,16.98
+945730a5-1697-401f-9679-4fe3208f2390,Oman,2024-06-12,5233.0,Shoes,Sandals,10.0,3.66,36.6
+b4135c64-9faf-40fd-bbec-4b873e6ebd2c,Oman,2024-05-19,8514.0,Smart Phone,iPhone,10.0,4.69,46.9
+48d5e760-b17a-4315-9ca1-eca40570b7f6,Oman,2024-11-15,7903.0,Tshirts,Polo Shirt,3.0,3.64,10.92
+55a6b3ef-1d30-42ee-8323-aba40cd14fc1,Oman,2024-11-21,2872.0,Tshirts,Polo Shirt,4.0,3.33,13.32
+54292824-f1d6-4202-a86a-5ba5152652ea,Oman,2024-05-28,2575.0,Perfumes,Woody,10.0,5.53,55.3
+b5767c1a-659f-46ba-91b9-e56c0b3a2953,Oman,2025-03-31,7865.0,Jeans,Regular Fit,6.0,2.71,16.26
+085ecfbc-8100-4c08-87dd-ebf30248256f,Oman,2024-07-05,6509.0,Jeans,Straight,4.0,4.16,16.64
+8e6a0b5e-dd0f-43e8-b4a9-b142990e3a80,Oman,2025-05-05,9316.0,Tshirts,Polo Shirt,7.0,5.19,36.33
+5bb0273f-34ff-4001-b6b7-026d8019cce7,Oman,2024-11-21,4062.0,Water bottles,Foldable,2.0,5.17,10.34
+6725be25-9209-4726-889f-c7771b9894c5,Oman,2024-11-13,2495.0,Tshirts,Graphic Tee,3.0,3.72,11.16
+3e12400c-6268-4b43-808c-d80dd175b167,Oman,2025-04-27,9279.0,Jeans,Slim Fit,2.0,3.76,7.52
+a231a9d9-fc25-42dc-a9c5-5a32ec93993b,Oman,2024-10-11,3552.0,Perfumes,Floral,6.0,2.89,17.34
+17745bc2-3529-4231-a068-9f1905dfc5bb,Oman,2025-05-14,9107.0,Perfumes,Floral,7.0,4.25,29.75
+a84b588e-d139-453f-a382-6ff9b1530921,Oman,2024-10-19,9494.0,Smart Phone,Galaxy,4.0,4.2,16.8
+89e9f343-6491-43fb-8f74-edc2245942f9,Oman,2024-09-20,1563.0,Shoes,Sneakers,2.0,3.34,6.68
+ace08b86-bc11-430a-a16d-ac5bb06fcf8c,Oman,2025-01-24,1340.0,Perfumes,Floral,1.0,4.7,4.7
+0cb484d4-aa00-4ba5-a420-a2868bcd7eb4,Oman,2024-06-16,2409.0,Shoes,Sneakers,3.0,3.2,9.6
+c4044523-8f39-48f3-862a-9d3196d7aa01,Oman,2024-09-22,4415.0,Tshirts,Full Sleeve,1.0,5.1,5.1
+e09e0c95-7ed9-407d-a4ab-6f4dd2eb35a1,Oman,2024-06-27,4324.0,Jeans,Relaxed,4.0,3.48,13.92
+a51c67a2-e10d-4cfd-8e98-ddb8bac93cc8,Oman,2025-02-08,7894.0,Jeans,Skinny,8.0,5.19,41.52
+3791ed72-e8d9-4d15-a7cb-e0b3d852f3b5,Oman,2024-10-09,1953.0,Tshirts,Cotton Tee,1.0,2.6,2.6
+96de8576-09a7-45f9-b8ee-05310e8eaab3,Oman,2024-06-03,9623.0,Perfumes,Fresh,7.0,3.94,27.58
+3c1b999b-96b1-4459-985e-4886d21d0696,Oman,2024-06-08,9536.0,Jeans,Regular Fit,7.0,3.94,27.58
+cf3e297f-00e8-4059-ba24-6f051d2c5ae2,Oman,2025-05-14,1734.0,Water bottles,Glass,2.0,4.66,9.32
+fb7e6256-a4c9-46c8-86d7-9a322c69da1d,Oman,2024-08-11,3944.0,Shoes,Boots,5.0,,25.85
+9f23a324-0cf2-4f5a-aed5-57269fff8f80,Oman,2025-02-25,8266.0,Perfumes,,4.0,3.0,12.0
+3e10a57c-16a9-46ed-acb8-fa646acaefa5,Oman,2025-03-09,7453.0,Water bottles,Plastic,4.0,2.97,11.88
+a487cde9-ea8b-4d73-88a6-6f332b9eebab,Oman,2024-05-23,8030.0,Smart Phone,Realme,8.0,5.3,42.4
+da6173ed-594a-4f2e-9118-7b8885190182,Oman,2025-04-15,5201.0,Perfumes,Aqua,6.0,3.67,22.02
+00f57d76-d8c8-48ac-b53f-6434c4e3f862,Oman,2025-04-17,6693.0,Smart Phone,Realme,4.0,3.69,14.76
+12dabc46-3864-4b10-b7c2-3f92e94eed3f,Oman,2025-03-31,2446.0,Water bottles,Steel,5.0,5.24,26.2
+ae4e31cf-594e-4567-babf-14cd094d4ebd,Oman,2024-12-13,4474.0,Shoes,Loafers,10.0,5.54,55.4
+3e9800fb-bdde-4cbf-879e-0484aca1c130,Oman,2024-05-17,8088.0,Tshirts,Cotton Tee,8.0,5.51,44.08
+9acb0437-33ea-45b5-ae0b-de137f48266c,Oman,2024-11-03,3285.0,Smart Phone,Pixel,6.0,4.35,26.1
+fcc8919e-95a3-4a61-8ec5-65cb183bee9b,Oman,2024-07-01,7644.0,Jeans,Relaxed,7.0,4.56,31.92
+7a9b9038-6d59-4967-bc5e-d0a2cff287e1,Oman,2025-02-06,2610.0,Tshirts,Tank Top,9.0,3.08,27.72
+65ebbf76-7a8d-45b4-bec8-05c282538874,Oman,2025-04-16,9891.0,Water bottles,Smart,8.0,3.84,30.72
+68bf2bda-377c-48a0-b54b-fabbcf7c5ca0,Oman,2025-05-08,7496.0,Smart Phone,Realme,10.0,2.67,26.7
+a3cf31f8-c845-49ef-86a3-cbf1e10c8e36,Oman,2024-07-15,8534.0,Jeans,Regular Fit,2.0,2.65,5.3
+9795795d-2c01-4a94-a6c9-e45feca021c6,Oman,2024-07-14,4015.0,Water bottles,Foldable,8.0,,44.4
+71a05d6c-6f5a-4ff3-aea8-4a386cd44902,Oman,2024-11-29,9435.0,Water bottles,Insulated,6.0,3.29,19.74
+b012c7e6-b301-41e0-91e3-644d02dd8c6b,Oman,2024-07-28,8332.0,Jeans,Regular Fit,8.0,5.57,44.56
+f31923cb-15eb-49a8-a5a7-2b5fa4c1bf91,Oman,2024-10-14,4068.0,Shoes,Sports Shoes,2.0,3.06,6.12
+9a2b8246-a40d-480d-aab1-e0a98ce04298,Oman,2025-01-31,8598.0,Smart Phone,Realme,5.0,4.78,23.9
+3de90fd9-956f-469b-94ae-02444a9b69e3,Oman,2025-03-23,2739.0,Shoes,Sandals,8.0,3.37,26.96
+9f5b4ced-5765-42bb-92ce-32e822b54f37,Oman,2024-11-15,8868.0,Shoes,Loafers,5.0,5.2,26.0
+529d8531-6f0f-408b-a6fc-bc1d77009e43,Oman,2025-01-03,9126.0,Tshirts,Cotton Tee,8.0,3.48,27.84
+8c8e3021-0662-4e64-8bdf-f0e061539a40,Oman,2025-04-04,4079.0,Jeans,Straight,10.0,4.87,48.7
+f5a7d23e-5e8e-46b5-8e9a-6a6ae981ad2e,Oman,2025-02-26,1403.0,Jeans,Regular Fit,4.0,2.66,10.64
+128b6ad3-ec9d-4658-8781-eccd512caa25,Oman,2025-05-05,3278.0,Smart Phone,OnePlus,9.0,5.17,46.53
+dcebbf94-f2f1-4eb0-b50f-64a5971965f5,Oman,2024-09-27,6749.0,Smart Phone,Xiaomi,3.0,3.31,9.93
+886a9dcb-88cd-465c-97c2-9048cd2aac5b,Oman,2024-11-01,2870.0,Perfumes,Fresh,2.0,3.55,7.1
+868c8cdd-4ef1-43c8-ba1c-6272d76d6de7,Oman,2024-10-27,6915.0,Perfumes,Floral,8.0,5.57,44.56
+b7e90497-011d-4b99-8b28-82a5c61c3397,Oman,2025-01-03,5290.0,Perfumes,Aqua,4.0,3.94,15.76
+a37b16b0-b439-4cc8-9828-5c33450fa0b1,Oman,2024-07-23,8586.0,Jeans,Slim Fit,2.0,2.77,5.54
+3ba049a6-a05f-43ef-8cbf-00cafe0f1bc9,Oman,2025-01-18,2045.0,Water bottles,Steel,6.0,4.16,24.96
+d5eabe9a-6434-4e31-81d6-45b4a4cc89db,Oman,2025-01-11,1591.0,Smart Phone,Pixel,3.0,3.71,11.13
+9255bb41-2bc1-4bf7-8675-ef607e4ff60d,Oman,2025-03-02,1376.0,Jeans,Bootcut,3.0,2.62,7.86
+99c93a43-a4a4-48f5-a95c-7f2566c8b707,Oman,2024-09-24,3445.0,Shoes,Boots,4.0,3.96,15.84
+3a20bb07-297c-4bb1-ae60-60c3fed6b3b6,Oman,2025-04-09,7685.0,Jeans,Skinny,7.0,4.06,28.42
+1e7b1fdd-d222-4ef8-b5f8-56e89acf760b,Oman,2025-01-15,7298.0,Smart Phone,Xiaomi,7.0,4.55,31.85
+037dea9d-0ab6-4866-a2ed-70132b0bc27a,Oman,2025-03-13,7306.0,Smart Phone,Xiaomi,10.0,3.71,37.1
+238e7ae4-6c68-43d8-b5e8-f105a6b595be,Oman,2024-08-22,4919.0,Jeans,Bootcut,5.0,5.06,25.3
+bc1a591f-cae8-49a6-b1f8-049a7835f883,Oman,2025-01-15,1407.0,Tshirts,Cotton Tee,7.0,3.78,26.46
+7eac66c1-539e-4025-8f18-d1b9b28158f0,Oman,2025-04-22,7406.0,Shoes,Sneakers,10.0,4.29,42.9
+98f9ca92-f606-4220-a9d0-ff78f22f7c79,Oman,2024-10-03,9127.0,Perfumes,Citrus,7.0,3.87,27.09
+6163d267-b869-45ca-8cb9-1e8741765a5e,Oman,2024-12-10,7105.0,Shoes,Sneakers,1.0,3.0,3.0
+b97c5829-548e-4512-811f-6fa23807da06,Oman,2024-06-08,5598.0,Jeans,Skinny,8.0,4.3,34.4
+e575741f-6ddb-4278-a7c2-d086617d3cd9,Oman,2024-12-13,9423.0,Jeans,Relaxed,1.0,3.84,3.84
+df61766a-bf5e-4bf2-aa8f-d30932d93235,Oman,2024-08-25,5860.0,Perfumes,Floral,5.0,3.54,17.7
+3a8835a8-db2c-4f5b-bdcd-00a98fc2ae2d,Oman,2025-01-25,8028.0,Tshirts,Polo Shirt,2.0,5.06,10.12
+6a9f2613-dacc-4bfc-a8f7-24f6a146704d,Oman,2025-04-02,4536.0,Water bottles,Glass,3.0,2.34,7.02
+d47262cf-6442-4305-ba87-fb096f26324b,Oman,2024-09-07,9480.0,Jeans,Bootcut,8.0,4.67,37.36
+07801bde-277d-4af9-bd86-c367502d3593,Oman,2025-04-13,8745.0,Water bottles,Smart,1.0,5.5,5.5
+012bdad5-7893-4d2d-8647-43c75d6b4e01,Oman,2025-05-07,9321.0,Shoes,Sandals,8.0,5.01,40.08
+3e635507-4a6d-4157-9be4-00f8e6adf948,Oman,2024-07-14,5927.0,Jeans,Bootcut,9.0,2.87,25.83
+ba92a64a-f9b3-4a02-9f0b-63633e6d48ce,Oman,2024-10-28,1522.0,Water bottles,Steel,1.0,4.5,4.5
+44e65aaa-8831-4ab3-acc4-2de6988ba37a,Oman,2024-10-16,3706.0,Water bottles,Foldable,3.0,4.84,14.52
+0d174a20-0218-46a9-929e-8c00bb99da58,Oman,2024-11-07,3821.0,Smart Phone,Xiaomi,3.0,5.55,16.65
+9a7f8712-c216-4949-bc5e-260aeaf2b5ee,Oman,2025-03-04,4213.0,Jeans,Skinny,3.0,5.39,16.17
+77aa2f40-b26a-4ae2-8bb1-9467913062ca,Oman,2024-11-03,4723.0,Perfumes,Fresh,6.0,3.6,21.6
+e830331b-7d72-4ae1-bd01-7e57ea285bde,Oman,2024-07-08,,Smart Phone,Pixel,8.0,4.22,33.76
+103d5175-0750-4866-ace5-73078fee2edb,Oman,2024-10-24,3256.0,Smart Phone,Realme,3.0,3.36,10.08
+59e5e402-fe28-45ad-8f20-d2d155c7f766,Oman,2024-06-25,6805.0,Perfumes,Citrus,1.0,3.27,3.27
+b06aab8f-21f5-41e8-ad34-9caa09d7f5f8,Oman,2025-02-08,6627.0,Jeans,Regular Fit,1.0,2.45,2.45
+f59ca4ca-2f5b-48e8-a86e-568705edca30,Oman,2024-12-18,5338.0,Water bottles,Smart,5.0,4.78,23.9
+ac1e3050-afc9-4fac-af0c-363bc59349d1,Oman,2025-02-03,4915.0,Shoes,Loafers,5.0,4.16,20.8
+077928c3-937b-44e7-9a43-8639a825610c,Oman,2024-08-28,8112.0,Perfumes,Floral,4.0,3.29,13.16
+e7f6dec2-615b-4d20-acf7-0176d72a88c4,Oman,2024-07-24,2818.0,Smart Phone,Realme,7.0,5.06,
+5d0cda73-8608-4a42-8d15-b670b12067d8,Oman,2024-11-22,6735.0,Jeans,Relaxed,10.0,4.89,48.9
