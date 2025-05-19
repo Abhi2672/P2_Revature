@@ -151,8 +151,12 @@ Each dataset contains approximately 1000 rows and the following fields (8–10):
 
 ## 👨‍💼 Contributors
 
-- Vishwajeet Haralkar  
-- [Your Organization Name]
+- Abhishek more
+- Chetlapalle Sai Deekshitha
+- Allamsetti Pardha vishnu vardhan
+- chinchinada sumasri
+- manjunatha poojari
+- chethana G
 
 ---
 
