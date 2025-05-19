@@ -98,7 +98,6 @@ Each dataset contains approximately 1000 rows and the following fields (8–10):
 
 ### A. **Downloadable Report (CSV/Excel)**  
 - Fields: `ProductId`, `ProductName`, `Category`, `QtySold`, `Price_INR`, `Amount_INR`  
-- 📎 [Link to Final Report (CSV)](./output/Final_Cleaned_Sales_INR.csv)
 
 ---
 
@@ -164,7 +163,11 @@ Each dataset contains approximately 1000 rows and the following fields (8–10):
 
 If you have questions or need help setting up the project, reach out to:
 
-📧 your.email@example.com  
-🌐 www.yourwebsite.com  
+chethanag705@gmail.com
+saideekshithachetlapalle@gmail.com
+sumasrichinchinada@gmail.com
+poojarimanjunatha433@gmail.com
+abhimore267222222@gmail.com
+pardha2002@gmail.com
 
 ---
