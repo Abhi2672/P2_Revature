@@ -1,0 +1,1402 @@
+[
+  {
+    "SaleId": "SL1000",
+    "Category": "Tshirts",
+    "Product": "Tshirt5",
+    "Qty": 4,
+    "Sale": 3145.08
+  },
+  {
+    "SaleId": "SL1001",
+    "Category": "Shoes",
+    "Product": "Shoes2",
+    "Qty": 2,
+    "Sale": 1003.3
+  },
+  {
+    "SaleId": "SL1002",
+    "Category": "Tshirts",
+    "Product": "Tshirt1",
+    "Qty": 5,
+    "Sale": 5488.95
+  },
+  {
+    "SaleId": "SL1003",
+    "Category": "Tshirts",
+    "Product": "Tshirt6",
+    "Qty": 3,
+    "Sale": 1911.9900000000002
+  },
+  {
+    "SaleId": "SL1004",
+    "Category": "Tshirts",
+    "Product": "Tshirt5",
+    "Qty": 8,
+    "Sale": 4594.96
+  },
+  {
+    "SaleId": "SL1005",
+    "Category": "Perfumes",
+    "Product": "Perfume2",
+    "Qty": 1,
+    "Sale": 776.7
+  },
+  {
+    "SaleId": "SL1006",
+    "Category": "Perfumes",
+    "Product": "Perfume2",
+    "Qty": 7,
+    "Sale": 4963.21
+  },
+  {
+    "SaleId": "SL1007",
+    "Category": "Shoes",
+    "Product": "Shoes3",
+    "Qty": 2,
+    "Sale": 1378.66
+  },
+  {
+    "SaleId": "SL1008",
+    "Category": "Water bottles",
+    "Product": "WaterBottle5",
+    "Qty": 2,
+    "Sale": 2097.36
+  },
+  {
+    "SaleId": "SL1009",
+    "Category": "Tshirts",
+    "Product": "Tshirt2",
+    "Qty": 1,
+    "Sale": 500.39
+  },
+  {
+    "SaleId": "SL1010",
+    "Category": "Shoes",
+    "Product": "Shoes5",
+    "Qty": 3,
+    "Sale": 3128.01
+  },
+  {
+    "SaleId": "SL1011",
+    "Category": "Tshirts",
+    "Product": "Tshirt4",
+    "Qty": 8,
+    "Sale": 8308.24
+  },
+  {
+    "SaleId": "SL1012",
+    "Category": "Tshirts",
+    "Product": "Tshirt3",
+    "Qty": 4,
+    "Sale": 4053.08
+  },
+  {
+    "SaleId": "SL1013",
+    "Category": "Jeans",
+    "Product": "Jeans3",
+    "Qty": 5,
+    "Sale": 4344.45
+  },
+  {
+    "SaleId": "SL1014",
+    "Category": "Shoes",
+    "Product": "Shoes1",
+    "Qty": 10,
+    "Sale": 5145.700000000001
+  },
+  {
+    "SaleId": "SL1015",
+    "Category": "Water bottles",
+    "Product": "WaterBottle4",
+    "Qty": 5,
+    "Sale": 4974.700000000001
+  },
+  {
+    "SaleId": "SL1016",
+    "Category": "Smart Phone",
+    "Product": "SmartPhone6",
+    "Qty": 6,
+    "Sale": 6017.76
+  },
+  {
+    "SaleId": "SL1017",
+    "Category": "Water bottles",
+    "Product": "WaterBottle3",
+    "Qty": 8,
+    "Sale": 6184.8
+  },
+  {
+    "SaleId": "SL1018",
+    "Category": "Smart Phone",
+    "Product": "SmartPhone6",
+    "Qty": 4,
+    "Sale": 3249.64
+  },
+  {
+    "SaleId": "SL1019",
+    "Category": "Jeans",
+    "Product": "Jeans3",
+    "Qty": 4,
+    "Sale": 3634.0
+  },
+  {
+    "SaleId": "SL1020",
+    "Category": "Shoes",
+    "Product": "Shoes5",
+    "Qty": 9,
+    "Sale": 5753.34
+  },
+  {
+    "SaleId": "SL1021",
+    "Category": "Perfumes",
+    "Product": "Perfume6",
+    "Qty": 8,
+    "Sale": 6383.92
+  },
+  {
+    "SaleId": "SL1022",
+    "Category": "Smart Phone",
+    "Product": "SmartPhone2",
+    "Qty": 5,
+    "Sale": 3237.25
+  },
+  {
+    "SaleId": "SL1023",
+    "Category": "Tshirts",
+    "Product": "Tshirt4",
+    "Qty": 6,
+    "Sale": 6029.58
+  },
+  {
+    "SaleId": "SL1024",
+    "Category": "Jeans",
+    "Product": "Jeans4",
+    "Qty": 3,
+    "Sale": 3211.59
+  },
+  {
+    "SaleId": "SL1025",
+    "Category": "Shoes",
+    "Product": "Shoes2",
+    "Qty": 6,
+    "Sale": 3712.62
+  },
+  {
+    "SaleId": "SL1026",
+    "Category": "Smart Phone",
+    "Product": "SmartPhone4",
+    "Qty": 10,
+    "Sale": 6328.8
+  },
+  {
+    "SaleId": "SL1027",
+    "Category": "Jeans",
+    "Product": "Jeans1",
+    "Qty": 5,
+    "Sale": 3425.55
+  },
+  {
+    "SaleId": "SL1028",
+    "Category": "Tshirts",
+    "Product": "Tshirt5",
+    "Qty": 10,
+    "Sale": 5970.2
+  },
+  {
+    "SaleId": "SL1029",
+    "Category": "Tshirts",
+    "Product": "Tshirt5",
+    "Qty": 2,
+    "Sale": 1571.66
+  },
+  {
+    "SaleId": "SL1030",
+    "Category": "Water bottles",
+    "Product": "WaterBottle4",
+    "Qty": 5,
+    "Sale": 5171.3
+  },
+  {
+    "SaleId": "SL1031",
+    "Category": "Perfumes",
+    "Product": "Perfume2",
+    "Qty": 9,
+    "Sale": 5918.400000000001
+  },
+  {
+    "SaleId": "SL1032",
+    "Category": "Tshirts",
+    "Product": "Tshirt1",
+    "Qty": 6,
+    "Sale": 3639.96
+  },
+  {
+    "SaleId": "SL1033",
+    "Category": "Tshirts",
+    "Product": "Tshirt6",
+    "Qty": 1,
+    "Sale": 1064.6
+  },
+  {
+    "SaleId": "SL1034",
+    "Category": "Jeans",
+    "Product": "Jeans1",
+    "Qty": 4,
+    "Sale": 2825.24
+  },
+  {
+    "SaleId": "SL1035",
+    "Category": "Tshirts",
+    "Product": "Tshirt1",
+    "Qty": 8,
+    "Sale": 4765.52
+  },
+  {
+    "SaleId": "SL1036",
+    "Category": "Shoes",
+    "Product": "Shoes5",
+    "Qty": 4,
+    "Sale": 2141.0
+  },
+  {
+    "SaleId": "SL1037",
+    "Category": "Water bottles",
+    "Product": "WaterBottle3",
+    "Qty": 3,
+    "Sale": 3461.07
+  },
+  {
+    "SaleId": "SL1038",
+    "Category": "Shoes",
+    "Product": "Shoes6",
+    "Qty": 5,
+    "Sale": 2608.65
+  },
+  {
+    "SaleId": "SL1039",
+    "Category": "Water bottles",
+    "Product": "WaterBottle1",
+    "Qty": 10,
+    "Sale": 9403.6
+  },
+  {
+    "SaleId": "SL1040",
+    "Category": "Tshirts",
+    "Product": "Tshirt2",
+    "Qty": 8,
+    "Sale": 8852.4
+  },
+  {
+    "SaleId": "SL1041",
+    "Category": "Shoes",
+    "Product": "Shoes6",
+    "Qty": 9,
+    "Sale": 5660.19
+  },
+  {
+    "SaleId": "SL1042",
+    "Category": "Water bottles",
+    "Product": "WaterBottle1",
+    "Qty": 10,
+    "Sale": 8175.8
+  },
+  {
+    "SaleId": "SL1043",
+    "Category": "Jeans",
+    "Product": "Jeans6",
+    "Qty": 5,
+    "Sale": 4056.5
+  },
+  {
+    "SaleId": "SL1044",
+    "Category": "Jeans",
+    "Product": "Jeans2",
+    "Qty": 6,
+    "Sale": 3415.32
+  },
+  {
+    "SaleId": "SL1045",
+    "Category": "Perfumes",
+    "Product": "Perfume1",
+    "Qty": 9,
+    "Sale": 7991.460000000001
+  },
+  {
+    "SaleId": "SL1046",
+    "Category": "Jeans",
+    "Product": "Jeans1",
+    "Qty": 8,
+    "Sale": 7700.88
+  },
+  {
+    "SaleId": "SL1047",
+    "Category": "Water bottles",
+    "Product": "WaterBottle1",
+    "Qty": 3,
+    "Sale": 2361.7799999999997
+  },
+  {
+    "SaleId": "SL1048",
+    "Category": "Perfumes",
+    "Product": "Perfume4",
+    "Qty": 3,
+    "Sale": 2438.13
+  },
+  {
+    "SaleId": "SL1049",
+    "Category": "Shoes",
+    "Product": "Shoes1",
+    "Qty": 9,
+    "Sale": 5653.26
+  },
+  {
+    "SaleId": "SL1050",
+    "Category": "Perfumes",
+    "Product": "Perfume6",
+    "Qty": 3,
+    "Sale": 3341.3999999999996
+  },
+  {
+    "SaleId": "SL1051",
+    "Category": "Tshirts",
+    "Product": "Tshirt5",
+    "Qty": 6,
+    "Sale": 3543.0
+  },
+  {
+    "SaleId": "SL1052",
+    "Category": "Perfumes",
+    "Product": "Perfume2",
+    "Qty": 2,
+    "Sale": 2239.72
+  },
+  {
+    "SaleId": "SL1053",
+    "Category": "Tshirts",
+    "Product": "Tshirt1",
+    "Qty": 10,
+    "Sale": 11548.900000000001
+  },
+  {
+    "SaleId": "SL1054",
+    "Category": "Perfumes",
+    "Product": "Perfume5",
+    "Qty": 1,
+    "Sale": 796.81
+  },
+  {
+    "SaleId": "SL1055",
+    "Category": "Water bottles",
+    "Product": "WaterBottle1",
+    "Qty": 10,
+    "Sale": 7535.4
+  },
+  {
+    "SaleId": "SL1056",
+    "Category": "Perfumes",
+    "Product": "Perfume1",
+    "Qty": 1,
+    "Sale": 814.63
+  },
+  {
+    "SaleId": "SL1057",
+    "Category": "Shoes",
+    "Product": "Shoes4",
+    "Qty": 7,
+    "Sale": 6517.7
+  },
+  {
+    "SaleId": "SL1058",
+    "Category": "Tshirts",
+    "Product": "Tshirt4",
+    "Qty": 5,
+    "Sale": 4427.6
+  },
+  {
+    "SaleId": "SL1059",
+    "Category": "Perfumes",
+    "Product": "Perfume4",
+    "Qty": 10,
+    "Sale": 5896.0
+  },
+  {
+    "SaleId": "SL1060",
+    "Category": "Water bottles",
+    "Product": "WaterBottle1",
+    "Qty": 7,
+    "Sale": 7881.370000000001
+  },
+  {
+    "SaleId": "SL1061",
+    "Category": "Shoes",
+    "Product": "Shoes4",
+    "Qty": 10,
+    "Sale": 6302.4
+  },
+  {
+    "SaleId": "SL1062",
+    "Category": "Tshirts",
+    "Product": "Tshirt6",
+    "Qty": 2,
+    "Sale": 1769.04
+  },
+  {
+    "SaleId": "SL1063",
+    "Category": "Smart Phone",
+    "Product": "SmartPhone1",
+    "Qty": 3,
+    "Sale": 1870.59
+  },
+  {
+    "SaleId": "SL1064",
+    "Category": "Tshirts",
+    "Product": "Tshirt4",
+    "Qty": 10,
+    "Sale": 5186.0
+  },
+  {
+    "SaleId": "SL1065",
+    "Category": "Tshirts",
+    "Product": "Tshirt4",
+    "Qty": 7,
+    "Sale": 6251.56
+  },
+  {
+    "SaleId": "SL1066",
+    "Category": "Perfumes",
+    "Product": "Perfume6",
+    "Qty": 10,
+    "Sale": 7089.0
+  },
+  {
+    "SaleId": "SL1067",
+    "Category": "Tshirts",
+    "Product": "Tshirt1",
+    "Qty": 10,
+    "Sale": 11694.300000000001
+  },
+  {
+    "SaleId": "SL1068",
+    "Category": "Water bottles",
+    "Product": "WaterBottle2",
+    "Qty": 7,
+    "Sale": 6851.81
+  },
+  {
+    "SaleId": "SL1069",
+    "Category": "Smart Phone",
+    "Product": "SmartPhone1",
+    "Qty": 10,
+    "Sale": 7308.6
+  },
+  {
+    "SaleId": "SL1070",
+    "Category": "Smart Phone",
+    "Product": "SmartPhone6",
+    "Qty": 2,
+    "Sale": 1499.52
+  },
+  {
+    "SaleId": "SL1071",
+    "Category": "Water bottles",
+    "Product": "WaterBottle3",
+    "Qty": 8,
+    "Sale": 8079.44
+  },
+  {
+    "SaleId": "SL1072",
+    "Category": "Tshirts",
+    "Product": "Tshirt5",
+    "Qty": 10,
+    "Sale": 6813.3
+  },
+  {
+    "SaleId": "SL1073",
+    "Category": "Water bottles",
+    "Product": "WaterBottle3",
+    "Qty": 10,
+    "Sale": 9364.7
+  },
+  {
+    "SaleId": "SL1074",
+    "Category": "Water bottles",
+    "Product": "WaterBottle1",
+    "Qty": 1,
+    "Sale": 668.58
+  },
+  {
+    "SaleId": "SL1075",
+    "Category": "Jeans",
+    "Product": "Jeans5",
+    "Qty": 9,
+    "Sale": 5989.32
+  },
+  {
+    "SaleId": "SL1076",
+    "Category": "Smart Phone",
+    "Product": "SmartPhone5",
+    "Qty": 10,
+    "Sale": 7682.799999999999
+  },
+  {
+    "SaleId": "SL1077",
+    "Category": "Jeans",
+    "Product": "Jeans3",
+    "Qty": 5,
+    "Sale": 4930.6
+  },
+  {
+    "SaleId": "SL1078",
+    "Category": "Jeans",
+    "Product": "Jeans6",
+    "Qty": 5,
+    "Sale": 4872.799999999999
+  },
+  {
+    "SaleId": "SL1079",
+    "Category": "Jeans",
+    "Product": "Jeans2",
+    "Qty": 3,
+    "Sale": 3099.3599999999997
+  },
+  {
+    "SaleId": "SL1080",
+    "Category": "Water bottles",
+    "Product": "WaterBottle1",
+    "Qty": 10,
+    "Sale": 8243.8
+  },
+  {
+    "SaleId": "SL1081",
+    "Category": "Jeans",
+    "Product": "Jeans6",
+    "Qty": 3,
+    "Sale": 2542.5299999999997
+  },
+  {
+    "SaleId": "SL1082",
+    "Category": "Smart Phone",
+    "Product": "SmartPhone1",
+    "Qty": 4,
+    "Sale": 4635.04
+  },
+  {
+    "SaleId": "SL1083",
+    "Category": "Jeans",
+    "Product": "Jeans6",
+    "Qty": 4,
+    "Sale": 3521.8
+  },
+  {
+    "SaleId": "SL1084",
+    "Category": "Water bottles",
+    "Product": "WaterBottle3",
+    "Qty": 9,
+    "Sale": 9002.34
+  },
+  {
+    "SaleId": "SL1085",
+    "Category": "Perfumes",
+    "Product": "Perfume3",
+    "Qty": 5,
+    "Sale": 5392.1
+  },
+  {
+    "SaleId": "SL1086",
+    "Category": "Perfumes",
+    "Product": "Perfume5",
+    "Qty": 7,
+    "Sale": 4660.95
+  },
+  {
+    "SaleId": "SL1087",
+    "Category": "Tshirts",
+    "Product": "Tshirt1",
+    "Qty": 4,
+    "Sale": 4618.72
+  },
+  {
+    "SaleId": "SL1088",
+    "Category": "Smart Phone",
+    "Product": "SmartPhone6",
+    "Qty": 4,
+    "Sale": 4453.96
+  },
+  {
+    "SaleId": "SL1089",
+    "Category": "Jeans",
+    "Product": "Jeans4",
+    "Qty": 1,
+    "Sale": 841.66
+  },
+  {
+    "SaleId": "SL1090",
+    "Category": "Perfumes",
+    "Product": "Perfume1",
+    "Qty": 9,
+    "Sale": 8911.619999999999
+  },
+  {
+    "SaleId": "SL1091",
+    "Category": "Jeans",
+    "Product": "Jeans1",
+    "Qty": 5,
+    "Sale": 3280.3500000000004
+  },
+  {
+    "SaleId": "SL1092",
+    "Category": "Shoes",
+    "Product": "Shoes2",
+    "Qty": 1,
+    "Sale": 903.59
+  },
+  {
+    "SaleId": "SL1093",
+    "Category": "Jeans",
+    "Product": "Jeans6",
+    "Qty": 5,
+    "Sale": 5269.349999999999
+  },
+  {
+    "SaleId": "SL1094",
+    "Category": "Water bottles",
+    "Product": "WaterBottle2",
+    "Qty": 10,
+    "Sale": 9474.0
+  },
+  {
+    "SaleId": "SL1095",
+    "Category": "Jeans",
+    "Product": "Jeans6",
+    "Qty": 5,
+    "Sale": 5779.85
+  },
+  {
+    "SaleId": "SL1096",
+    "Category": "Jeans",
+    "Product": "Jeans1",
+    "Qty": 9,
+    "Sale": 6852.78
+  },
+  {
+    "SaleId": "SL1097",
+    "Category": "Smart Phone",
+    "Product": "SmartPhone1",
+    "Qty": 6,
+    "Sale": 5769.6
+  },
+  {
+    "SaleId": "SL1098",
+    "Category": "Smart Phone",
+    "Product": "SmartPhone6",
+    "Qty": 9,
+    "Sale": 8557.199999999999
+  },
+  {
+    "SaleId": "SL1099",
+    "Category": "Perfumes",
+    "Product": "Perfume6",
+    "Qty": 5,
+    "Sale": 5855.700000000001
+  },
+  {
+    "SaleId": "SL1100",
+    "Category": "Smart Phone",
+    "Product": "SmartPhone6",
+    "Qty": 2,
+    "Sale": 1730.5
+  },
+  {
+    "SaleId": "SL1101",
+    "Category": "Shoes",
+    "Product": "Shoes4",
+    "Qty": 6,
+    "Sale": 3664.8599999999997
+  },
+  {
+    "SaleId": "SL1102",
+    "Category": "Tshirts",
+    "Product": "Tshirt3",
+    "Qty": 1,
+    "Sale": 1027.91
+  },
+  {
+    "SaleId": "SL1103",
+    "Category": "Water bottles",
+    "Product": "WaterBottle5",
+    "Qty": 7,
+    "Sale": 7246.120000000001
+  },
+  {
+    "SaleId": "SL1104",
+    "Category": "Jeans",
+    "Product": "Jeans5",
+    "Qty": 8,
+    "Sale": 5897.52
+  },
+  {
+    "SaleId": "SL1105",
+    "Category": "Water bottles",
+    "Product": "WaterBottle5",
+    "Qty": 5,
+    "Sale": 3334.8
+  },
+  {
+    "SaleId": "SL1106",
+    "Category": "Smart Phone",
+    "Product": "SmartPhone1",
+    "Qty": 8,
+    "Sale": 9223.44
+  },
+  {
+    "SaleId": "SL1107",
+    "Category": "Tshirts",
+    "Product": "Tshirt4",
+    "Qty": 9,
+    "Sale": 7771.86
+  },
+  {
+    "SaleId": "SL1108",
+    "Category": "Water bottles",
+    "Product": "WaterBottle4",
+    "Qty": 5,
+    "Sale": 4529.25
+  },
+  {
+    "SaleId": "SL1109",
+    "Category": "Smart Phone",
+    "Product": "SmartPhone6",
+    "Qty": 1,
+    "Sale": 1142.59
+  },
+  {
+    "SaleId": "SL1110",
+    "Category": "Shoes",
+    "Product": "Shoes5",
+    "Qty": 10,
+    "Sale": 6173.0
+  },
+  {
+    "SaleId": "SL1111",
+    "Category": "Shoes",
+    "Product": "Shoes6",
+    "Qty": 4,
+    "Sale": 2496.6
+  },
+  {
+    "SaleId": "SL1112",
+    "Category": "Water bottles",
+    "Product": "WaterBottle6",
+    "Qty": 6,
+    "Sale": 6205.92
+  },
+  {
+    "SaleId": "SL1113",
+    "Category": "Smart Phone",
+    "Product": "SmartPhone6",
+    "Qty": 7,
+    "Sale": 6957.16
+  },
+  {
+    "SaleId": "SL1114",
+    "Category": "Jeans",
+    "Product": "Jeans2",
+    "Qty": 7,
+    "Sale": 6338.639999999999
+  },
+  {
+    "SaleId": "SL1115",
+    "Category": "Water bottles",
+    "Product": "WaterBottle2",
+    "Qty": 5,
+    "Sale": 5228.25
+  },
+  {
+    "SaleId": "SL1116",
+    "Category": "Smart Phone",
+    "Product": "SmartPhone6",
+    "Qty": 1,
+    "Sale": 927.69
+  },
+  {
+    "SaleId": "SL1117",
+    "Category": "Jeans",
+    "Product": "Jeans5",
+    "Qty": 9,
+    "Sale": 4767.3
+  },
+  {
+    "SaleId": "SL1118",
+    "Category": "Tshirts",
+    "Product": "Tshirt5",
+    "Qty": 9,
+    "Sale": 9149.67
+  },
+  {
+    "SaleId": "SL1119",
+    "Category": "Perfumes",
+    "Product": "Perfume4",
+    "Qty": 1,
+    "Sale": 907.77
+  },
+  {
+    "SaleId": "SL1120",
+    "Category": "Jeans",
+    "Product": "Jeans2",
+    "Qty": 10,
+    "Sale": 8337.3
+  },
+  {
+    "SaleId": "SL1121",
+    "Category": "Smart Phone",
+    "Product": "SmartPhone3",
+    "Qty": 4,
+    "Sale": 2898.92
+  },
+  {
+    "SaleId": "SL1122",
+    "Category": "Perfumes",
+    "Product": "Perfume1",
+    "Qty": 7,
+    "Sale": 4946.06
+  },
+  {
+    "SaleId": "SL1123",
+    "Category": "Water bottles",
+    "Product": "WaterBottle1",
+    "Qty": 5,
+    "Sale": 5213.099999999999
+  },
+  {
+    "SaleId": "SL1124",
+    "Category": "Shoes",
+    "Product": "Shoes2",
+    "Qty": 4,
+    "Sale": 4485.16
+  },
+  {
+    "SaleId": "SL1125",
+    "Category": "Smart Phone",
+    "Product": "SmartPhone5",
+    "Qty": 6,
+    "Sale": 5540.58
+  },
+  {
+    "SaleId": "SL1126",
+    "Category": "Shoes",
+    "Product": "Shoes6",
+    "Qty": 9,
+    "Sale": 7426.9800000000005
+  },
+  {
+    "SaleId": "SL1127",
+    "Category": "Shoes",
+    "Product": "Shoes4",
+    "Qty": 5,
+    "Sale": 5759.049999999999
+  },
+  {
+    "SaleId": "SL1128",
+    "Category": "Jeans",
+    "Product": "Jeans5",
+    "Qty": 10,
+    "Sale": 6618.8
+  },
+  {
+    "SaleId": "SL1129",
+    "Category": "Jeans",
+    "Product": "Jeans4",
+    "Qty": 3,
+    "Sale": 2889.5099999999998
+  },
+  {
+    "SaleId": "SL1130",
+    "Category": "Jeans",
+    "Product": "Jeans2",
+    "Qty": 5,
+    "Sale": 4345.75
+  },
+  {
+    "SaleId": "SL1131",
+    "Category": "Jeans",
+    "Product": "Jeans6",
+    "Qty": 9,
+    "Sale": 10080.99
+  },
+  {
+    "SaleId": "SL1132",
+    "Category": "Water bottles",
+    "Product": "WaterBottle2",
+    "Qty": 8,
+    "Sale": 7336.96
+  },
+  {
+    "SaleId": "SL1133",
+    "Category": "Smart Phone",
+    "Product": "SmartPhone5",
+    "Qty": 7,
+    "Sale": 5028.8
+  },
+  {
+    "SaleId": "SL1134",
+    "Category": "Water bottles",
+    "Product": "WaterBottle1",
+    "Qty": 10,
+    "Sale": 10408.099999999999
+  },
+  {
+    "SaleId": "SL1135",
+    "Category": "Smart Phone",
+    "Product": "SmartPhone1",
+    "Qty": 3,
+    "Sale": 2466.81
+  },
+  {
+    "SaleId": "SL1136",
+    "Category": "Water bottles",
+    "Product": "WaterBottle4",
+    "Qty": 1,
+    "Sale": 904.06
+  },
+  {
+    "SaleId": "SL1137",
+    "Category": "Jeans",
+    "Product": "Jeans4",
+    "Qty": 3,
+    "Sale": 2585.16
+  },
+  {
+    "SaleId": "SL1138",
+    "Category": "Jeans",
+    "Product": "Jeans1",
+    "Qty": 7,
+    "Sale": 5731.88
+  },
+  {
+    "SaleId": "SL1139",
+    "Category": "Water bottles",
+    "Product": "WaterBottle4",
+    "Qty": 1,
+    "Sale": 764.62
+  },
+  {
+    "SaleId": "SL1140",
+    "Category": "Shoes",
+    "Product": "Shoes1",
+    "Qty": 7,
+    "Sale": 7274.889999999999
+  },
+  {
+    "SaleId": "SL1141",
+    "Category": "Shoes",
+    "Product": "Shoes5",
+    "Qty": 5,
+    "Sale": 5276.35
+  },
+  {
+    "SaleId": "SL1142",
+    "Category": "Water bottles",
+    "Product": "WaterBottle5",
+    "Qty": 5,
+    "Sale": 5006.5
+  },
+  {
+    "SaleId": "SL1143",
+    "Category": "Smart Phone",
+    "Product": "SmartPhone5",
+    "Qty": 4,
+    "Sale": 3684.36
+  },
+  {
+    "SaleId": "SL1144",
+    "Category": "Smart Phone",
+    "Product": "SmartPhone4",
+    "Qty": 5,
+    "Sale": 4630.45
+  },
+  {
+    "SaleId": "SL1145",
+    "Category": "Tshirts",
+    "Product": "Tshirt5",
+    "Qty": 4,
+    "Sale": 4690.12
+  },
+  {
+    "SaleId": "SL1146",
+    "Category": "Tshirts",
+    "Product": "Tshirt2",
+    "Qty": 5,
+    "Sale": 2986.05
+  },
+  {
+    "SaleId": "SL1147",
+    "Category": "Tshirts",
+    "Product": "Tshirt1",
+    "Qty": 8,
+    "Sale": 9055.68
+  },
+  {
+    "SaleId": "SL1148",
+    "Category": "Tshirts",
+    "Product": "Tshirt4",
+    "Qty": 9,
+    "Sale": 7216.0199999999995
+  },
+  {
+    "SaleId": "SL1149",
+    "Category": "Perfumes",
+    "Product": "Perfume3",
+    "Qty": 3,
+    "Sale": 1854.4499999999998
+  },
+  {
+    "SaleId": "SL1150",
+    "Category": "Perfumes",
+    "Product": "Perfume2",
+    "Qty": 9,
+    "Sale": 9494.73
+  },
+  {
+    "SaleId": "SL1151",
+    "Category": "Shoes",
+    "Product": "Shoes5",
+    "Qty": 2,
+    "Sale": 2183.86
+  },
+  {
+    "SaleId": "SL1152",
+    "Category": "Tshirts",
+    "Product": "Tshirt5",
+    "Qty": 6,
+    "Sale": 3527.2799999999997
+  },
+  {
+    "SaleId": "SL1153",
+    "Category": "Tshirts",
+    "Product": "Tshirt3",
+    "Qty": 10,
+    "Sale": 8405.5
+  },
+  {
+    "SaleId": "SL1154",
+    "Category": "Water bottles",
+    "Product": "WaterBottle3",
+    "Qty": 6,
+    "Sale": 4629.78
+  },
+  {
+    "SaleId": "SL1155",
+    "Category": "Jeans",
+    "Product": "Jeans4",
+    "Qty": 5,
+    "Sale": 4493.25
+  },
+  {
+    "SaleId": "SL1156",
+    "Category": "Tshirts",
+    "Product": "Tshirt6",
+    "Qty": 1,
+    "Sale": 903.13
+  },
+  {
+    "SaleId": "SL1157",
+    "Category": "Water bottles",
+    "Product": "WaterBottle5",
+    "Qty": 6,
+    "Sale": 6907.74
+  },
+  {
+    "SaleId": "SL1158",
+    "Category": "Jeans",
+    "Product": "Jeans5",
+    "Qty": 6,
+    "Sale": 5994.0599999999995
+  },
+  {
+    "SaleId": "SL1159",
+    "Category": "Jeans",
+    "Product": "Jeans4",
+    "Qty": 9,
+    "Sale": 6479.099999999999
+  },
+  {
+    "SaleId": "SL1160",
+    "Category": "Water bottles",
+    "Product": "WaterBottle1",
+    "Qty": 6,
+    "Sale": 7153.5
+  },
+  {
+    "SaleId": "SL1161",
+    "Category": "Perfumes",
+    "Product": "Perfume5",
+    "Qty": 9,
+    "Sale": 8528.94
+  },
+  {
+    "SaleId": "SL1162",
+    "Category": "Water bottles",
+    "Product": "WaterBottle3",
+    "Qty": 4,
+    "Sale": 4703.12
+  },
+  {
+    "SaleId": "SL1163",
+    "Category": "Water bottles",
+    "Product": "WaterBottle5",
+    "Qty": 10,
+    "Sale": 8621.2
+  },
+  {
+    "SaleId": "SL1164",
+    "Category": "Smart Phone",
+    "Product": "SmartPhone2",
+    "Qty": 1,
+    "Sale": 745.1
+  },
+  {
+    "SaleId": "SL1165",
+    "Category": "Smart Phone",
+    "Product": "SmartPhone1",
+    "Qty": 3,
+    "Sale": 3023.37
+  },
+  {
+    "SaleId": "SL1166",
+    "Category": "Water bottles",
+    "Product": "WaterBottle6",
+    "Qty": 7,
+    "Sale": 5253.71
+  },
+  {
+    "SaleId": "SL1167",
+    "Category": "Smart Phone",
+    "Product": "SmartPhone1",
+    "Qty": 4,
+    "Sale": 3756.8
+  },
+  {
+    "SaleId": "SL1168",
+    "Category": "Perfumes",
+    "Product": "Perfume5",
+    "Qty": 2,
+    "Sale": 1381.3
+  },
+  {
+    "SaleId": "SL1169",
+    "Category": "Shoes",
+    "Product": "Shoes2",
+    "Qty": 8,
+    "Sale": 7108.16
+  },
+  {
+    "SaleId": "SL1170",
+    "Category": "Water bottles",
+    "Product": "WaterBottle2",
+    "Qty": 3,
+    "Sale": 3530.19
+  },
+  {
+    "SaleId": "SL1171",
+    "Category": "Shoes",
+    "Product": "Shoes3",
+    "Qty": 6,
+    "Sale": 5916.4800000000005
+  },
+  {
+    "SaleId": "SL1172",
+    "Category": "Jeans",
+    "Product": "Jeans6",
+    "Qty": 9,
+    "Sale": 8676.36
+  },
+  {
+    "SaleId": "SL1173",
+    "Category": "Perfumes",
+    "Product": "Perfume3",
+    "Qty": 9,
+    "Sale": 7649.19
+  },
+  {
+    "SaleId": "SL1174",
+    "Category": "Perfumes",
+    "Product": "Perfume4",
+    "Qty": 10,
+    "Sale": 10258.699999999999
+  },
+  {
+    "SaleId": "SL1175",
+    "Category": "Smart Phone",
+    "Product": "SmartPhone2",
+    "Qty": 3,
+    "Sale": 2565.75
+  },
+  {
+    "SaleId": "SL1176",
+    "Category": "Tshirts",
+    "Product": "Tshirt2",
+    "Qty": 10,
+    "Sale": 9002.2
+  },
+  {
+    "SaleId": "SL1177",
+    "Category": "Perfumes",
+    "Product": "Perfume1",
+    "Qty": 2,
+    "Sale": 2396.92
+  },
+  {
+    "SaleId": "SL1178",
+    "Category": "Jeans",
+    "Product": "Jeans1",
+    "Qty": 8,
+    "Sale": 7946.24
+  },
+  {
+    "SaleId": "SL1179",
+    "Category": "Shoes",
+    "Product": "Shoes4",
+    "Qty": 9,
+    "Sale": 9097.470000000001
+  },
+  {
+    "SaleId": "SL1180",
+    "Category": "Shoes",
+    "Product": "Shoes4",
+    "Qty": 8,
+    "Sale": 8336.32
+  },
+  {
+    "SaleId": "SL1181",
+    "Category": "Shoes",
+    "Product": "Shoes3",
+    "Qty": 5,
+    "Sale": 2979.8500000000004
+  },
+  {
+    "SaleId": "SL1182",
+    "Category": "Jeans",
+    "Product": "Jeans2",
+    "Qty": 3,
+    "Sale": 3395.7300000000005
+  },
+  {
+    "SaleId": "SL1183",
+    "Category": "Perfumes",
+    "Product": "Perfume6",
+    "Qty": 1,
+    "Sale": 614.02
+  },
+  {
+    "SaleId": "SL1184",
+    "Category": "Jeans",
+    "Product": "Jeans3",
+    "Qty": 4,
+    "Sale": 3143.68
+  },
+  {
+    "SaleId": "SL1185",
+    "Category": "Water bottles",
+    "Product": "WaterBottle5",
+    "Qty": 5,
+    "Sale": 3575.85
+  },
+  {
+    "SaleId": "SL1186",
+    "Category": "Shoes",
+    "Product": "Shoes5",
+    "Qty": 8,
+    "Sale": 4013.6
+  },
+  {
+    "SaleId": "SL1187",
+    "Category": "Shoes",
+    "Product": "Shoes6",
+    "Qty": 2,
+    "Sale": 1455.52
+  },
+  {
+    "SaleId": "SL1188",
+    "Category": "Water bottles",
+    "Product": "WaterBottle6",
+    "Qty": 6,
+    "Sale": 4910.5199999999995
+  },
+  {
+    "SaleId": "SL1189",
+    "Category": "Perfumes",
+    "Product": "Perfume3",
+    "Qty": 9,
+    "Sale": 9048.869999999999
+  },
+  {
+    "SaleId": "SL1190",
+    "Category": "Shoes",
+    "Product": "Shoes3",
+    "Qty": 3,
+    "Sale": 3172.59
+  },
+  {
+    "SaleId": "SL1191",
+    "Category": "Tshirts",
+    "Product": "Tshirt5",
+    "Qty": 8,
+    "Sale": 9313.12
+  },
+  {
+    "SaleId": "SL1192",
+    "Category": "Water bottles",
+    "Product": "WaterBottle6",
+    "Qty": 3,
+    "Sale": 1668.81
+  },
+  {
+    "SaleId": "SL1193",
+    "Category": "Smart Phone",
+    "Product": "SmartPhone5",
+    "Qty": 10,
+    "Sale": 9779.1
+  },
+  {
+    "SaleId": "SL1194",
+    "Category": "Perfumes",
+    "Product": "Perfume1",
+    "Qty": 5,
+    "Sale": 3490.05
+  },
+  {
+    "SaleId": "SL1195",
+    "Category": "Smart Phone",
+    "Product": "SmartPhone4",
+    "Qty": 4,
+    "Sale": 4734.12
+  },
+  {
+    "SaleId": "SL1196",
+    "Category": "Shoes",
+    "Product": "Shoes2",
+    "Qty": 2,
+    "Sale": 1524.76
+  },
+  {
+    "SaleId": "SL1197",
+    "Category": "Tshirts",
+    "Product": "Tshirt2",
+    "Qty": 7,
+    "Sale": 6279.7
+  },
+  {
+    "SaleId": "SL1198",
+    "Category": "Tshirts",
+    "Product": "Tshirt5",
+    "Qty": 9,
+    "Sale": 8068.41
+  },
+  {
+    "SaleId": "SL1199",
+    "Category": "Smart Phone",
+    "Product": "SmartPhone5",
+    "Qty": 10,
+    "Sale": 10866.099999999999
+  }
+]

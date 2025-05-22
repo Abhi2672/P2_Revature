@@ -1,0 +1,201 @@
+SaleId,Category,Product,Qty,Sale
+JP0001,Perfumes,Perfume1,20.0,25517.24
+JP0002,Water bottles,Bottle6,10.0,10206.9
+JP0003,Smart Phone,Phone1,,11551.72
+JP0004,Tshirts,Tshirt1,11.0,15172.41
+JP0005,Shoes,Shoes3,14.0,18103.45
+JP0006,Perfumes,Perfume4,19.0,22079.31
+JP0007,Jeans,Jeans1,,15641.38
+JP0008,Smart Phone,Phone5,5.0,8379.31
+JP0009,Water bottles,Bottle3,,2037.93
+JP0010,Smart Phone,Phone3,18.0,17844.83
+JP0011,Smart Phone,Phone3,,27855.17
+JP0012,Water bottles,Bottle3,,15756.9
+JP0013,Smart Phone,Phone1,,22448.28
+JP0014,Perfumes,Perfume3,10.0,20241.38
+JP0015,Smart Phone,Phone3,1.0,1931.03
+JP0016,Water bottles,Bottle4,10.0,19327.59
+JP0017,Shoes,Shoes2,,10293.1
+JP0018,Water bottles,Bottle1,,3279.31
+JP0019,Perfumes,Perfume3,5.0,6913.79
+JP0020,Shoes,Shoes6,14.0,17017.24
+JP0021,Jeans,Jeans5,,10365.52
+JP0022,Smart Phone,Phone3,11.0,18567.24
+JP0023,Tshirts,Tshirt2,,22137.93
+JP0024,Tshirts,Tshirt4,,7234.48
+JP0025,Smart Phone,Phone3,,23855.17
+JP0026,Tshirts,Tshirt6,,18103.45
+JP0027,Perfumes,Perfume3,20.0,40103.45
+JP0028,Tshirts,Tshirt6,,28096.55
+JP0029,Tshirts,Tshirt2,2.0,2796.55
+JP0030,Smart Phone,Phone1,4.0,7241.38
+JP0031,Jeans,Jeans4,,36806.9
+JP0032,Smart Phone,Phone5,,8068.97
+JP0033,Smart Phone,Phone5,,11027.59
+JP0034,Jeans,Jeans4,15.0,22525.86
+JP0035,Tshirts,Tshirt6,,12596.55
+JP0036,Shoes,Shoes2,,7156.9
+JP0037,Water bottles,Bottle6,20.0,19000.0
+JP0038,Shoes,Shoes2,5.0,4913.79
+JP0039,Perfumes,Perfume2,19.0,24175.86
+JP0040,Shoes,Shoes2,20.0,27000.0
+JP0041,Jeans,Jeans2,,4675.86
+JP0042,Water bottles,Bottle1,5.0,7465.52
+JP0043,Jeans,Jeans5,11.0,12858.62
+JP0044,Shoes,Shoes1,,7158.62
+JP0045,Water bottles,Bottle1,,25500.0
+JP0046,Perfumes,Perfume1,15.0,29198.28
+JP0047,Tshirts,Tshirt6,,1670.69
+JP0048,Tshirts,Tshirt4,,16827.59
+JP0049,Water bottles,Bottle4,3.0,4287.93
+JP0050,Perfumes,Perfume2,3.0,4039.66
+JP0051,Perfumes,Perfume6,,30689.66
+JP0052,Perfumes,Perfume3,,4144.83
+JP0053,Water bottles,Bottle6,18.0,29172.41
+JP0054,Smart Phone,Phone2,,21606.9
+JP0055,Smart Phone,Phone6,,17770.69
+JP0056,Water bottles,Bottle3,12.0,20379.31
+JP0057,Tshirts,Tshirt1,3.0,4872.41
+JP0058,Tshirts,Tshirt6,12.0,22117.24
+JP0059,Tshirts,Tshirt5,,8179.31
+JP0060,Smart Phone,Phone3,14.0,19165.52
+JP0061,Perfumes,Perfume3,12.0,22572.41
+JP0062,Perfumes,Perfume2,,5027.59
+JP0063,Shoes,Shoes5,12.0,16241.38
+JP0064,Perfumes,Perfume2,14.0,27106.9
+JP0065,Water bottles,Bottle6,9.0,10613.79
+JP0066,Shoes,Shoes6,,1481.03
+JP0067,Jeans,Jeans2,,4922.41
+JP0068,Water bottles,Bottle6,1.0,1798.28
+JP0069,Jeans,Jeans4,,8782.76
+JP0070,Shoes,Shoes3,11.0,10487.93
+JP0071,Jeans,Jeans2,20.0,41034.48
+JP0072,Tshirts,Tshirt3,,34379.31
+JP0073,Smart Phone,Phone4,9.0,15889.66
+JP0074,Tshirts,Tshirt3,14.0,19068.97
+JP0075,Water bottles,Bottle6,,17913.79
+JP0076,Tshirts,Tshirt2,13.0,11363.79
+JP0077,Jeans,Jeans3,7.0,9184.48
+JP0078,Shoes,Shoes3,4.0,6958.62
+JP0079,Water bottles,Bottle4,6.0,9196.55
+JP0080,Perfumes,Perfume6,,12843.1
+JP0081,Water bottles,Bottle1,14.0,23413.79
+JP0082,Tshirts,Tshirt3,,24363.79
+JP0083,Water bottles,Bottle6,,13829.31
+JP0084,Tshirts,Tshirt3,,4500.0
+JP0085,Smart Phone,Phone1,,24722.41
+JP0086,Perfumes,Perfume1,,11682.76
+JP0087,Shoes,Shoes2,3.0,5394.83
+JP0088,Perfumes,Perfume2,,10000.0
+JP0089,Jeans,Jeans1,,7262.07
+JP0090,Perfumes,Perfume2,3.0,5912.07
+JP0091,Smart Phone,Phone4,,39212.07
+JP0092,Water bottles,Bottle6,,21658.62
+JP0093,Jeans,Jeans4,,16413.79
+JP0094,Shoes,Shoes5,,5270.69
+JP0095,Shoes,Shoes4,15.0,14431.03
+JP0096,Shoes,Shoes3,3.0,5839.66
+JP0097,Perfumes,Perfume5,,33951.72
+JP0098,Water bottles,Bottle1,15.0,21439.66
+JP0099,Perfumes,Perfume4,17.0,16501.72
+JP0100,Smart Phone,Phone1,11.0,19268.97
+JP0101,Water bottles,Bottle2,2.0,3268.97
+JP0102,Smart Phone,Phone5,17.0,25558.62
+JP0103,Shoes,Shoes3,,29172.41
+JP0104,Tshirts,Tshirt6,11.0,15874.14
+JP0105,Tshirts,Tshirt5,,26137.93
+JP0106,Jeans,Jeans3,3.0,4437.93
+JP0107,Shoes,Shoes6,13.0,24856.9
+JP0108,Water bottles,Bottle1,,21962.07
+JP0109,Jeans,Jeans6,17.0,34029.31
+JP0110,Water bottles,Bottle4,,10717.24
+JP0111,Shoes,Shoes2,,12032.76
+JP0112,Jeans,Jeans2,5.0,6913.79
+JP0113,Tshirts,Tshirt5,18.0,36527.59
+JP0114,Shoes,Shoes5,,6796.55
+JP0115,Jeans,Jeans6,20.0,32689.66
+JP0116,Tshirts,Tshirt4,12.0,19737.93
+JP0117,Perfumes,Perfume3,15.0,27051.72
+JP0118,Jeans,Jeans3,16.0,24165.52
+JP0119,Water bottles,Bottle5,,17662.07
+JP0120,Perfumes,Perfume5,14.0,16993.1
+JP0121,Perfumes,Perfume2,9.0,17937.93
+JP0122,Smart Phone,Phone3,18.0,31903.45
+JP0123,Tshirts,Tshirt3,3.0,4029.31
+JP0124,Smart Phone,Phone5,,8179.31
+JP0125,Smart Phone,Phone3,,12417.24
+JP0126,Perfumes,Perfume3,,12062.07
+JP0127,Jeans,Jeans1,11.0,22094.83
+JP0128,Shoes,Shoes2,5.0,6836.21
+JP0129,Smart Phone,Phone6,,33068.97
+JP0130,Tshirts,Tshirt1,,6206.9
+JP0131,Perfumes,Perfume6,,10568.97
+JP0132,Jeans,Jeans3,4.0,5131.03
+JP0133,Smart Phone,Phone6,,3889.66
+JP0134,Smart Phone,Phone5,18.0,35596.55
+JP0135,Perfumes,Perfume5,8.0,11006.9
+JP0136,Smart Phone,Phone1,,24437.93
+JP0137,Smart Phone,Phone2,,16677.59
+JP0138,Perfumes,Perfume5,17.0,26350.0
+JP0139,Smart Phone,Phone1,,1308.62
+JP0140,Shoes,Shoes1,12.0,24248.28
+JP0141,Water bottles,Bottle1,,2193.1
+JP0142,Shoes,Shoes5,11.0,18491.38
+JP0143,Water bottles,Bottle4,6.0,5834.48
+JP0144,Water bottles,Bottle4,,2434.48
+JP0145,Jeans,Jeans1,,23018.97
+JP0146,Perfumes,Perfume4,9.0,18031.03
+JP0147,Jeans,Jeans3,12.0,24227.59
+JP0148,Shoes,Shoes3,,21225.86
+JP0149,Water bottles,Bottle4,,19062.07
+JP0150,Water bottles,Bottle4,,14096.55
+JP0151,Tshirts,Tshirt4,20.0,36482.76
+JP0152,Shoes,Shoes3,4.0,5758.62
+JP0153,Water bottles,Bottle3,,26962.07
+JP0154,Jeans,Jeans6,,3300.0
+JP0155,Water bottles,Bottle3,,2693.1
+JP0156,Tshirts,Tshirt6,,10603.45
+JP0157,Tshirts,Tshirt2,,4612.07
+JP0158,Tshirts,Tshirt2,,29220.69
+JP0159,Tshirts,Tshirt5,,18186.21
+JP0160,Smart Phone,Phone1,19.0,34134.48
+JP0161,Shoes,Shoes4,,5206.9
+JP0162,Tshirts,Tshirt6,,23086.21
+JP0163,Perfumes,Perfume1,,11537.93
+JP0164,Perfumes,Perfume3,16.0,17241.38
+JP0165,Jeans,Jeans1,15.0,24698.28
+JP0166,Tshirts,Tshirt6,,17565.52
+JP0167,Perfumes,Perfume3,10.0,19879.31
+JP0168,Jeans,Jeans3,17.0,18289.66
+JP0169,Jeans,Jeans2,,10882.76
+JP0170,Perfumes,Perfume5,,9172.41
+JP0171,Perfumes,Perfume1,,25020.69
+JP0172,Perfumes,Perfume4,14.0,15158.62
+JP0173,Shoes,Shoes6,,28636.21
+JP0174,Shoes,Shoes2,18.0,19613.79
+JP0175,Smart Phone,Phone5,2.0,3551.72
+JP0176,Jeans,Jeans3,6.0,8586.21
+JP0177,Water bottles,Bottle2,,9000.0
+JP0178,Jeans,Jeans6,,10827.59
+JP0179,Perfumes,Perfume5,3.0,5720.69
+JP0180,Perfumes,Perfume2,,3713.79
+JP0181,Tshirts,Tshirt1,,14072.41
+JP0182,Perfumes,Perfume4,20.0,34793.1
+JP0183,Water bottles,Bottle5,,13710.34
+JP0184,Water bottles,Bottle4,,1979.31
+JP0185,Jeans,Jeans4,,11767.24
+JP0186,Shoes,Shoes5,,17089.66
+JP0187,Smart Phone,Phone2,12.0,17089.66
+JP0188,Jeans,Jeans4,,13241.38
+JP0189,Jeans,Jeans1,,30793.1
+JP0190,Smart Phone,Phone2,,20691.38
+JP0191,Jeans,Jeans2,,17413.79
+JP0192,Smart Phone,Phone1,,26301.72
+JP0193,Jeans,Jeans2,,1893.1
+JP0194,Shoes,Shoes4,,24579.31
+JP0195,Tshirts,Tshirt1,14.0,18586.21
+JP0196,Water bottles,Bottle3,,12237.93
+JP0197,Tshirts,Tshirt5,18.0,27031.03
+JP0198,Perfumes,Perfume3,,26275.86
+JP0199,Perfumes,Perfume3,20.0,21758.62
+JP0200,Tshirts,Tshirt4,,22158.62
