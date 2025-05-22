@@ -1,0 +1,1088 @@
+predicted_Sale,Qty,Category,Product,Country
+515.39932310859626,3,Shoes,Adidas Shoes,India
+15050.988614766609,5,Water bottles,Bottle1,Japan
+17301.71376629161,14,Water bottles,Bottle1,Japan
+17551.794338683278,15,Water bottles,Bottle1,Japan
+2647.7843641038853,18,Water bottles,Bottle1,HongKong
+397.05921257888383,9,Water bottles,Bottle1,HongKong
+647.13978497055075,10,Water bottles,Bottle1,HongKong
+-1103.4242217711176,3,Water bottles,Bottle1,HongKong
+-1045.5312290666761,8,Water bottles,Bottle1,Oman
+1205.1939224583252,17,Water bottles,Bottle1,Oman
+2870.1759030722942,17,Water bottles,Bottle1,Norway
+119.28960676395934,6,Water bottles,Bottle1,Norway
+238.48136951889012,11,Water bottles,Bottle1,Germany
+-1762.1632096144449,3,Water bottles,Bottle1,Germany
+1989.045376260558,18,Water bottles,Bottle1,Germany
+738.642514302224,13,Water bottles,Bottle1,Germany
+1989.045376260558,18,Water bottles,Bottle1,Germany
+-1354.6087303143404,4,Water bottles,Bottle1,Qatar
+2146.5192831689951,18,Water bottles,Bottle1,Qatar
+2396.599855560662,19,Water bottles,Bottle1,Qatar
+13000.905526089462,2,Water bottles,Bottle2,Japan
+155.43312334784616,18,Water bottles,Bottle2,Oman
+405.51369573951263,19,Water bottles,Bottle2,Oman
+655.59426813118,20,Water bottles,Bottle2,Oman
+-2430.9546266965212,1,Water bottles,Bottle2,Norway
+570.012242003481,13,Water bottles,Bottle2,Norway
+-180.22947517151954,10,Water bottles,Bottle2,Norway
+-2561.8434363332572,5,Water bottles,Bottle2,Germany
+189.04285997507839,16,Water bottles,Bottle2,Germany
+1189.3651495417457,20,Water bottles,Bottle2,Germany
+-2061.6822915499238,7,Water bottles,Bottle2,Germany
+939.28457715007846,19,Water bottles,Bottle2,Germany
+-1404.0472398581528,9,Water bottles,Bottle2,Qatar
+16496.710822325826,12,Water bottles,Bottle3,Japan
+-407.94373138689923,7,Water bottles,Bottle3,HongKong
+400.19097849254297,15,Water bottles,Bottle3,Oman
+1650.593840450877,20,Water bottles,Bottle3,Oman
+-1185.8744819851577,2,Water bottles,Bottle3,Norway
+814.77009714817757,10,Water bottles,Bottle3,Norway
+314.60895236484373,8,Water bottles,Bottle3,Norway
+3315.5758210648464,20,Water bottles,Bottle3,Norway
+1934.2841494697759,19,Water bottles,Bottle3,Germany
+-566.52157444689271,9,Water bottles,Bottle3,Germany
+-1816.924436405227,4,Water bottles,Bottle3,Germany
+1434.1230046864421,17,Water bottles,Bottle3,Germany
+1591.5969115948792,17,Water bottles,Bottle3,Qatar
+-1409.3699571051229,5,Water bottles,Bottle3,Qatar
+15604.311579639592,10,Water bottles,Bottle4,Japan
+13853.747572897924,3,Water bottles,Bottle4,Japan
+14603.989290072925,6,Water bottles,Bottle4,Japan
+14603.989290072925,6,Water bottles,Bottle4,Japan
+-49.940112114800968,10,Water bottles,Bottle4,HongKong
+-1300.3429740731353,5,Water bottles,Bottle4,HongKong
+950.38217745186637,14,Water bottles,Bottle4,HongKong
+700.30160506019945,13,Water bottles,Bottle4,HongKong
+-1550.4235464648023,4,Water bottles,Bottle4,HongKong
+1450.5433222352003,16,Water bottles,Bottle4,HongKong
+-1242.4499813686939,10,Water bottles,Bottle4,Oman
+-992.36940897702732,11,Water bottles,Bottle4,Oman
+758.19459776464066,18,Water bottles,Bottle4,Oman
+508.11402537297374,17,Water bottles,Bottle4,Oman
+-1242.4499813686939,10,Water bottles,Bottle4,Oman
+672.61257163694188,11,Water bottles,Bottle4,Norway
+2423.17657837861,18,Water bottles,Bottle4,Norway
+2423.17657837861,18,Water bottles,Bottle4,Norway
+-1458.9208171331288,7,Water bottles,Bottle4,Germany
+-2959.40425148313,1,Water bottles,Bottle4,Germany
+-458.59852756646148,11,Water bottles,Bottle4,Germany
+-1051.3663378330248,8,Water bottles,Bottle4,Qatar
+-1069.4562623277361,3,Water bottles,Bottle5,HongKong
+-569.29511754440216,5,Water bottles,Bottle5,HongKong
+-1319.536834719403,2,Water bottles,Bottle5,HongKong
+431.02717202226529,9,Water bottles,Bottle5,HongKong
+681.10774441393221,10,Water bottles,Bottle5,HongKong
+1239.1618819017067,17,Water bottles,Bottle5,Oman
+488.9201647267065,14,Water bottles,Bottle5,Oman
+-11.240980056627336,12,Water bottles,Bottle5,Oman
+653.41871099067464,8,Water bottles,Bottle5,Norway
+1153.5798557740086,10,Water bottles,Bottle5,Norway
+2654.0632901240097,16,Water bottles,Bottle5,Norway
+3654.3855796906773,20,Water bottles,Bottle5,Norway
+3154.2244349073435,18,Water bottles,Bottle5,Norway
+522.5299013539385,12,Water bottles,Bottle5,Germany
+772.61047374560587,13,Water bottles,Bottle5,Germany
+-320.31848130429159,8,Water bottles,Bottle5,Qatar
+-70.237908912624675,9,Water bottles,Bottle5,Qatar
+-70.237908912624675,9,Water bottles,Bottle5,Qatar
+-570.39905369595851,7,Water bottles,Bottle5,Qatar
+15785.012735426266,10,Water bottles,Bottle6,Japan
+18285.818459342936,20,Water bottles,Bottle6,Japan
+17785.6573145596,18,Water bottles,Bottle6,Japan
+15534.932163034598,9,Water bottles,Bottle6,Japan
+13534.287583901263,1,Water bottles,Bottle6,Japan
+2131.4056228052077,18,Water bottles,Bottle6,HongKong
+-369.40010111146091,8,Water bottles,Bottle6,HongKong
+-1869.8835354614625,2,Water bottles,Bottle6,HongKong
+1188.9763259429815,19,Water bottles,Bottle6,Oman
+1439.0568983346484,20,Water bottles,Bottle6,Oman
+-561.58768079868662,12,Water bottles,Bottle6,Oman
+2603.877734165284,18,Water bottles,Bottle6,Norway
+1603.5554445986168,14,Water bottles,Bottle6,Norway
+-397.08913453471848,6,Water bottles,Bottle6,Norway
+1103.3942998152825,12,Water bottles,Bottle6,Norway
+-2528.6225233047894,2,Water bottles,Bottle6,Germany
+-1528.3002337381222,6,Water bottles,Bottle6,Germany
+1722.7472073535473,19,Water bottles,Bottle6,Germany
+-277.8973717797877,11,Water bottles,Bottle6,Germany
+-1778.3808061297887,5,Water bottles,Bottle6,Germany
+-2121.0680440046854,3,Water bottles,Bottle6,Qatar
+1380.0599694786506,17,Water bottles,Bottle6,Qatar
+879.89882469531733,15,Water bottles,Bottle6,Qatar
+18039.146095141627,11,Jeans,Jeans1,Japan
+19039.468384708296,15,Jeans,Jeans1,Japan
+5364.2537657970342,5,Jeans,Jeans1,SriLanka
+5114.1731934053678,4,Jeans,Jeans1,SriLanka
+6114.4954829720346,8,Jeans,Jeans1,SriLanka
+5364.2537657970342,5,Jeans,Jeans1,SriLanka
+6364.5760553637019,9,Jeans,Jeans1,SriLanka
+5864.4149105803681,7,Jeans,Jeans1,SriLanka
+6114.4954829720346,8,Jeans,Jeans1,SriLanka
+-308.098900216659,5,Jeans,Jeans1,Oman
+192.06224456667462,7,Jeans,Jeans1,Oman
+3726.7999946772429,19,Jeans,Jeans1,Germany
+475.75255358557354,6,Jeans,Jeans1,Germany
+3726.7999946772429,19,Jeans,Jeans1,Germany
+-774.65030837276061,1,Jeans,Jeans1,Germany
+4134.354473977347,20,Jeans,Jeans1,Qatar
+2633.8710396273459,14,Jeans,Jeans1,Qatar
+133.06531571067728,4,Jeans,Jeans1,Qatar
+383.145888102344,5,Jeans,Jeans1,Qatar
+1133.3876052773444,8,Jeans,Jeans1,Qatar
+-617.17640146432348,1,Jeans,Jeans1,Qatar
+21066.449687709679,20,Jeans,Jeans2,Japan
+17315.241101834676,5,Jeans,Jeans2,Japan
+6390.9127792317513,6,Jeans,Jeans2,SriLanka
+5640.671062056751,3,Jeans,Jeans2,SriLanka
+6640.9933516234187,7,Jeans,Jeans2,SriLanka
+7391.235068798419,10,Jeans,Jeans2,SriLanka
+6140.8322068400839,5,Jeans,Jeans2,SriLanka
+5640.671062056751,3,Jeans,Jeans2,SriLanka
+3411.5534168219519,12,Jeans,Jeans2,HongKong
+1968.9629751763923,11,Jeans,Jeans2,Oman
+1968.9629751763923,11,Jeans,Jeans2,Oman
+15354.73818888009,7,Jeans,Jeans3,Japan
+14354.415899313422,3,Jeans,Jeans3,Japan
+17605.463340405091,16,Jeans,Jeans3,Japan
+14604.49647170509,4,Jeans,Jeans3,Japan
+16605.141050838425,12,Jeans,Jeans3,Japan
+17855.543912796758,17,Jeans,Jeans3,Japan
+15104.657616488425,6,Jeans,Jeans3,Japan
+3680.1681491021645,5,Jeans,Jeans3,SriLanka
+3430.0875767104981,4,Jeans,Jeans3,SriLanka
+3680.1681491021645,5,Jeans,Jeans3,SriLanka
+3430.0875767104981,4,Jeans,Jeans3,SriLanka
+2201.2922210423667,17,Jeans,Jeans3,HongKong
+-1299.8357924409697,3,Jeans,Jeans3,HongKong
+1951.2116486506998,16,Jeans,Jeans3,HongKong
+-1299.8357924409697,3,Jeans,Jeans3,HongKong
+-241.62051016986095,12,Jeans,Jeans3,Oman
+1673.4420428357753,13,Jeans,Jeans3,Norway
+923.20032566077487,10,Jeans,Jeans3,Norway
+-577.28310868922642,4,Jeans,Jeans3,Norway
+542.2309436323718,13,Jeans,Jeans3,Germany
+1199.8659953241427,15,Jeans,Jeans3,Qatar
+17946.494875791781,15,Jeans,Jeans4,Japan
+3771.119112097188,3,Jeans,Jeans4,SriLanka
+3270.9579673138542,1,Jeans,Jeans4,SriLanka
+3771.119112097188,3,Jeans,Jeans4,SriLanka
+3771.119112097188,3,Jeans,Jeans4,SriLanka
+4271.2802568805218,5,Jeans,Jeans4,SriLanka
+5271.6025464471886,9,Jeans,Jeans4,SriLanka
+41.518032512387776,6,Jeans,Jeans4,HongKong
+541.67917729572162,8,Jeans,Jeans4,HongKong
+1291.9208944707225,11,Jeans,Jeans4,HongKong
+291.5986049040547,7,Jeans,Jeans4,HongKong
+599.57217000016283,13,Jeans,Jeans4,Oman
+1099.7333147834966,15,Jeans,Jeans4,Oman
+-117.05981054760548,8,Jeans,Jeans4,Germany
+1290.8169583191657,13,Jeans,Jeans4,Qatar
+1540.8975307108326,14,Jeans,Jeans4,Qatar
+-709.82762081416911,5,Jeans,Jeans4,Qatar
+16844.806215397046,11,Jeans,Jeans5,Japan
+5170.2361756191194,9,Jeans,Jeans5,SriLanka
+4920.155603227453,8,Jeans,Jeans5,SriLanka
+5170.2361756191194,9,Jeans,Jeans5,SriLanka
+5420.3167480107868,10,Jeans,Jeans5,SriLanka
+4419.9944584441191,6,Jeans,Jeans5,SriLanka
+3441.2796751676551,20,Jeans,Jeans5,HongKong
+690.39337885931911,9,Jeans,Jeans5,HongKong
+690.39337885931911,9,Jeans,Jeans5,HongKong
+-309.92891070734834,5,Jeans,Jeans5,HongKong
+-2002.5999247445752,3,Jeans,Jeans5,Oman
+1748.6086611304281,18,Jeans,Jeans5,Oman
+2248.769805913762,20,Jeans,Jeans5,Oman
+-502.11649039457382,9,Jeans,Jeans5,Oman
+1412.9460626110622,10,Jeans,Jeans5,Norway
+1412.9460626110622,10,Jeans,Jeans5,Norway
+162.54320065272793,5,Jeans,Jeans5,Norway
+-1968.9901881173428,1,Jeans,Jeans5,Germany
+-1718.9096157256763,2,Jeans,Jeans5,Germany
+-968.66789855067543,5,Jeans,Jeans5,Germany
+-1561.4357088172392,2,Jeans,Jeans5,Qatar
+-311.03284685890446,7,Jeans,Jeans5,Qatar
+19163.935268974234,17,Jeans,Jeans6,Japan
+19914.176986149236,20,Jeans,Jeans6,Japan
+4988.5595052796407,5,Jeans,Jeans6,SriLanka
+4988.5595052796407,5,Jeans,Jeans6,SriLanka
+4488.3983604963069,3,Jeans,Jeans6,SriLanka
+4738.4789328879742,4,Jeans,Jeans6,SriLanka
+4988.5595052796407,5,Jeans,Jeans6,SriLanka
+4988.5595052796407,5,Jeans,Jeans6,SriLanka
+5988.8817948463084,9,Jeans,Jeans6,SriLanka
+5988.8817948463084,9,Jeans,Jeans6,SriLanka
+-241.52500865516072,2,Jeans,Jeans6,HongKong
+3509.6835772198428,17,Jeans,Jeans6,HongKong
+2259.2807152615078,12,Jeans,Jeans6,HongKong
+4009.8447220031758,19,Jeans,Jeans6,HongKong
+2759.4418600448416,14,Jeans,Jeans6,HongKong
+-1183.9543055173867,3,Jeans,Jeans6,Oman
+2817.3348527492826,19,Jeans,Jeans6,Oman
+4732.3974057549194,20,Jeans,Jeans6,Norway
+731.1082474882495,4,Jeans,Jeans6,Norway
+3982.1556885799191,17,Jeans,Jeans6,Norway
+2231.5916818382507,10,Jeans,Jeans6,Norway
+2731.7528266215841,12,Jeans,Jeans6,Norway
+2481.6722542299176,11,Jeans,Jeans6,Norway
+-1150.3445688901547,1,Jeans,Jeans6,Germany
+3351.1057341598485,19,Jeans,Jeans6,Germany
+1600.5417274181805,12,Jeans,Jeans6,Germany
+1257.8544895432842,10,Jeans,Jeans6,Qatar
+1242.138769793587,6,Shoes,Nike Shoes,India
+241.81648022691934,2,Shoes,Nike Shoes,India
+18836.521246896373,20,Perfumes,Perfume1,Japan
+17586.11838493804,15,Perfumes,Perfume1,Japan
+4911.2260555934454,9,Perfumes,Perfume1,SriLanka
+2910.5814764601105,1,Perfumes,Perfume1,SriLanka
+4911.2260555934454,9,Perfumes,Perfume1,SriLanka
+4411.0649108101115,7,Perfumes,Perfume1,SriLanka
+3160.6620488517774,2,Perfumes,Perfume1,SriLanka
+3910.9037660267777,5,Perfumes,Perfume1,SriLanka
+2432.02783796698,17,Perfumes,Perfume1,HongKong
+2432.02783796698,17,Perfumes,Perfume1,HongKong
+2181.9472655753129,16,Perfumes,Perfume1,HongKong
+-1511.368327595249,6,Perfumes,Perfume1,Oman
+989.4373963214199,16,Perfumes,Perfume1,Oman
+-596.62806415628017,3,Perfumes,Perfume1,Norway
+653.7747978020542,8,Perfumes,Perfume1,Norway
+2404.3388045437223,15,Perfumes,Perfume1,Norway
+772.966560556985,13,Perfumes,Perfume1,Germany
+-1070.2041116679125,5,Perfumes,Perfume1,Qatar
+1930.7627570320897,17,Perfumes,Perfume1,Qatar
+18970.969067487422,19,Perfumes,Perfume2,Japan
+14969.679909220753,3,Perfumes,Perfume2,Japan
+17720.566205529089,14,Perfumes,Perfume2,Japan
+14969.679909220753,3,Perfumes,Perfume2,Japan
+16470.163343570752,9,Perfumes,Perfume2,Japan
+3295.1098694428274,1,Perfumes,Perfume2,SriLanka
+4795.5933037928289,7,Perfumes,Perfume2,SriLanka
+5295.7544485761618,9,Perfumes,Perfume2,SriLanka
+3545.1904418344939,2,Perfumes,Perfume2,SriLanka
+5295.7544485761618,9,Perfumes,Perfume2,SriLanka
+315.75050703302793,7,Perfumes,Perfume2,HongKong
+3316.71737573303,19,Perfumes,Perfume2,HongKong
+-434.4912101419726,4,Perfumes,Perfume2,HongKong
+-2377.2427965708666,1,Perfumes,Perfume2,Oman
+-126.5176450458647,10,Perfumes,Perfume2,Oman
+-126.5176450458647,10,Perfumes,Perfume2,Oman
+2288.7060527431049,13,Perfumes,Perfume2,Norway
+3789.1894870931064,19,Perfumes,Perfume2,Norway
+2157.817243106369,17,Perfumes,Perfume2,Germany
+-342.98848081029917,7,Perfumes,Perfume2,Germany
+2657.9783878897028,19,Perfumes,Perfume2,Germany
+407.25323636470114,10,Perfumes,Perfume2,Germany
+-185.51457390186204,7,Perfumes,Perfume2,Qatar
+19536.054048068356,10,Perfumes,Perfume3,Japan
+18285.651186110023,5,Perfumes,Perfume3,Japan
+22036.859771985026,20,Perfumes,Perfume3,Japan
+20036.215192851691,12,Perfumes,Perfume3,Japan
+20786.456910026693,15,Perfumes,Perfume3,Japan
+21036.537482418356,16,Perfumes,Perfume3,Japan
+19536.054048068356,10,Perfumes,Perfume3,Japan
+22036.859771985026,20,Perfumes,Perfume3,Japan
+7111.242291115429,5,Perfumes,Perfume3,SriLanka
+6611.0811463320961,3,Perfumes,Perfume3,SriLanka
+8111.5645806820967,9,Perfumes,Perfume3,SriLanka
+8111.5645806820967,9,Perfumes,Perfume3,SriLanka
+2631.399494355629,5,Perfumes,Perfume3,HongKong
+5190.0982109767392,20,Perfumes,Perfume3,Oman
+5190.0982109767392,20,Perfumes,Perfume3,Oman
+5190.0982109767392,20,Perfumes,Perfume3,Oman
+5104.51618484904,13,Perfumes,Perfume3,Norway
+3880.6984201624068,12,Perfumes,Perfume3,Qatar
+4630.9401373374085,15,Perfumes,Perfume3,Qatar
+19819.977814846483,19,Perfumes,Perfume4,Japan
+19319.816670063148,17,Perfumes,Perfume4,Japan
+17319.172090929813,9,Perfumes,Perfume4,Japan
+18569.574952888146,14,Perfumes,Perfume4,Japan
+20070.05838723815,20,Perfumes,Perfume4,Japan
+4644.27976158522,3,Perfumes,Perfume4,SriLanka
+6394.8437683268885,10,Perfumes,Perfume4,SriLanka
+4144.1186168018858,1,Perfumes,Perfume4,SriLanka
+6394.8437683268885,10,Perfumes,Perfume4,SriLanka
+164.43696482541907,3,Perfumes,Perfume4,HongKong
+-1028.072904428474,3,Perfumes,Perfume4,Oman
+-527.91175964514,5,Perfumes,Perfume4,Oman
+1472.7328194881948,13,Perfumes,Perfume4,Oman
+-277.8311872534731,6,Perfumes,Perfume4,Oman
+-1278.1534768201409,2,Perfumes,Perfume4,Oman
+1722.8133918798612,14,Perfumes,Perfume4,Oman
+2637.5536553188304,11,Perfumes,Perfume4,Norway
+1637.2313657521631,7,Perfumes,Perfume4,Norway
+2887.6342277104968,12,Perfumes,Perfume4,Norway
+386.82850379382853,2,Perfumes,Perfume4,Norway
+2637.5536553188304,11,Perfumes,Perfume4,Norway
+3387.7953724938307,14,Perfumes,Perfume4,Norway
+1506.3425561154268,11,Perfumes,Perfume4,Germany
+506.02026654875965,7,Perfumes,Perfume4,Germany
+1756.4231285070937,12,Perfumes,Perfume4,Germany
+506.02026654875965,7,Perfumes,Perfume4,Germany
+2756.7454180737609,16,Perfumes,Perfume4,Germany
+2664.1387525905316,15,Perfumes,Perfume4,Qatar
+3414.3804697655319,18,Perfumes,Perfume4,Qatar
+3664.4610421571992,19,Perfumes,Perfume4,Qatar
+17179.558545107371,14,Perfumes,Perfume5,Japan
+15679.075110757371,8,Perfumes,Perfume5,Japan
+17929.800262282373,17,Perfumes,Perfume5,Japan
+14428.672248799036,3,Perfumes,Perfume5,Japan
+2754.1022090211104,1,Perfumes,Perfume5,SriLanka
+4254.5856433711115,7,Perfumes,Perfume5,SriLanka
+4754.7467881544453,9,Perfumes,Perfume5,SriLanka
+3004.1827814127773,2,Perfumes,Perfume5,SriLanka
+1025.1457085696452,12,Perfumes,Perfume5,HongKong
+1275.2262809613121,13,Perfumes,Perfume5,HongKong
+1275.2262809613121,13,Perfumes,Perfume5,HongKong
+2275.54857052798,17,Perfumes,Perfume5,HongKong
+1333.1192736657536,18,Perfumes,Perfume5,Oman
+1083.0387012740866,17,Perfumes,Perfume5,Oman
+82.71641170741907,13,Perfumes,Perfume5,Oman
+1616.8095826846525,17,Perfumes,Perfume5,Germany
+523.88062763475511,12,Perfumes,Perfume5,Qatar
+273.80005524308865,11,Perfumes,Perfume5,Qatar
+-1476.7639514985794,4,Perfumes,Perfume5,Qatar
+-2227.00566867358,1,Perfumes,Perfume5,Qatar
+773.961200026422,13,Perfumes,Perfume5,Qatar
+4436.5060358239925,8,Perfumes,Perfume6,SriLanka
+3186.1031738656579,3,Perfumes,Perfume6,SriLanka
+4936.6671806073255,10,Perfumes,Perfume6,SriLanka
+3686.2643186489918,5,Perfumes,Perfume6,SriLanka
+2685.9420290823241,1,Perfumes,Perfume6,SriLanka
+1457.1466734141927,14,Perfumes,Perfume6,HongKong
+2457.4689629808604,18,Perfumes,Perfume6,HongKong
+-2486.2494921480356,3,Perfumes,Perfume6,Oman
+-1235.8466301897015,8,Perfumes,Perfume6,Oman
+-1235.8466301897015,8,Perfumes,Perfume6,Oman
+1765.1202385103011,20,Perfumes,Perfume6,Oman
+-1986.0883473647018,5,Perfumes,Perfume6,Oman
+1014.8785213353004,17,Perfumes,Perfume6,Oman
+3180.0216467326036,19,Perfumes,Perfume6,Norway
+3180.0216467326036,19,Perfumes,Perfume6,Norway
+-1071.3480839257331,2,Perfumes,Perfume6,Norway
+1679.5382123826021,13,Perfumes,Perfume6,Norway
+2429.7799295576028,16,Perfumes,Perfume6,Norway
+-571.18693914239941,4,Perfumes,Perfume6,Norway
+-2202.5591831291367,2,Perfumes,Perfume6,Germany
+2048.8105475292,19,Perfumes,Perfume6,Germany
+2206.2844544376371,19,Perfumes,Perfume6,Qatar
+205.63987530430234,11,Perfumes,Perfume6,Qatar
+1205.9621648709694,15,Perfumes,Perfume6,Qatar
+14817.183144889726,4,Smart Phone,Phone1,Japan
+16567.747151631393,11,Smart Phone,Phone1,Japan
+18568.391730764728,19,Smart Phone,Phone1,Japan
+3164.2206114020028,20,Smart Phone,Phone1,HongKong
+1163.5760322686679,12,Smart Phone,Phone1,HongKong
+-2029.5784161185602,4,Smart Phone,Phone1,Oman
+-2029.5784161185602,4,Smart Phone,Phone1,Oman
+-1029.2561265518925,8,Smart Phone,Phone1,Oman
+1971.7107421481096,20,Smart Phone,Phone1,Oman
+971.38845258144249,16,Smart Phone,Phone1,Oman
+2386.2898608037449,15,Smart Phone,Phone1,Norway
+-1245.7269623163274,5,Smart Phone,Phone1,Germany
+1505.1593339920082,16,Smart Phone,Phone1,Germany
+-2246.0492518829947,1,Smart Phone,Phone1,Germany
+-1338.3336277995572,4,Smart Phone,Phone1,Qatar
+-1838.4947725828911,2,Smart Phone,Phone1,Qatar
+16473.536442862314,12,Smart Phone,Phone2,Japan
+-1681.5209728087461,2,Smart Phone,Phone2,HongKong
+819.28475110792249,12,Smart Phone,Phone2,HongKong
+2319.7681854579241,18,Smart Phone,Phone2,HongKong
+-2874.0308420626388,2,Smart Phone,Phone2,Oman
+-1623.6279801043047,7,Smart Phone,Phone2,Oman
+3292.4014416013342,20,Smart Phone,Phone2,Norway
+1291.7568624679989,12,Smart Phone,Phone2,Norway
+1541.8374348596658,13,Smart Phone,Phone2,Norway
+1791.9180072513327,14,Smart Phone,Phone2,Norway
+1160.868052831263,16,Smart Phone,Phone2,Germany
+-2090.1793882604061,3,Smart Phone,Phone2,Germany
+410.62633565626231,13,Smart Phone,Phone2,Germany
+-1089.8570986937389,7,Smart Phone,Phone2,Germany
+1318.3419597397,16,Smart Phone,Phone2,Qatar
+-432.22204700196778,9,Smart Phone,Phone2,Qatar
+818.18081495636636,14,Smart Phone,Phone2,Qatar
+18193.410126227529,18,Smart Phone,Phone3,Japan
+13942.040395569193,1,Smart Phone,Phone3,Japan
+16442.846119485861,11,Smart Phone,Phone3,Japan
+17193.087836660863,14,Smart Phone,Phone3,Japan
+18193.410126227529,18,Smart Phone,Phone3,Japan
+3039.31957925647,20,Smart Phone,Phone3,HongKong
+2789.2390068648033,19,Smart Phone,Phone3,HongKong
+2289.0778620814694,17,Smart Phone,Phone3,HongKong
+596.406848044243,15,Smart Phone,Phone3,Oman
+1846.8097100025775,20,Smart Phone,Phone3,Oman
+596.406848044243,15,Smart Phone,Phone3,Oman
+3261.7111182248791,19,Smart Phone,Phone3,Norway
+2011.3082562665454,14,Smart Phone,Phone3,Norway
+260.74424952487732,7,Smart Phone,Phone3,Norway
+510.824821916544,8,Smart Phone,Phone3,Norway
+-739.57804004179013,3,Smart Phone,Phone3,Norway
+-989.658612433457,2,Smart Phone,Phone3,Norway
+2380.5805914131433,20,Smart Phone,Phone3,Germany
+1130.1777294548087,15,Smart Phone,Phone3,Germany
+2130.500019021476,19,Smart Phone,Phone3,Germany
+-1963.3958047284236,2,Smart Phone,Phone3,Qatar
+2287.9739259299131,19,Smart Phone,Phone3,Qatar
+2287.9739259299131,19,Smart Phone,Phone3,Qatar
+16151.894684941772,9,Smart Phone,Phone4,Japan
+-502.67929637928808,5,Smart Phone,Phone4,HongKong
+1555.8582754584882,18,Smart Phone,Phone4,Oman
+3470.9208284641236,19,Smart Phone,Phone4,Norway
+-530.36832980254565,3,Smart Phone,Phone4,Norway
+720.03453215578872,8,Smart Phone,Phone4,Norway
+-530.36832980254565,3,Smart Phone,Phone4,Norway
+3721.001400855791,20,Smart Phone,Phone4,Norway
+-530.36832980254565,3,Smart Phone,Phone4,Norway
+1839.5485844773866,17,Smart Phone,Phone4,Germany
+339.06515012738589,11,Smart Phone,Phone4,Germany
+-161.09599465594772,9,Smart Phone,Phone4,Germany
+-503.78323253084443,7,Smart Phone,Phone4,Qatar
+2497.1836361691576,19,Smart Phone,Phone4,Qatar
+-1254.0249497058448,4,Smart Phone,Phone4,Qatar
+16300.500572791352,5,Smart Phone,Phone5,Japan
+19301.467441491353,17,Smart Phone,Phone5,Japan
+19551.548013883021,18,Smart Phone,Phone5,Japan
+15550.258855616352,2,Smart Phone,Phone5,Japan
+646.24888103695992,5,Smart Phone,Phone5,HongKong
+4147.3768945202955,19,Smart Phone,Phone5,HongKong
+1146.4100258202934,7,Smart Phone,Phone5,HongKong
+1704.4641633080682,14,Smart Phone,Phone5,Oman
+-1546.5832777836004,1,Smart Phone,Phone5,Oman
+-1296.5027053919339,2,Smart Phone,Phone5,Oman
+2369.1238543553704,10,Smart Phone,Phone5,Norway
+2869.2849991387038,12,Smart Phone,Phone5,Norway
+118.39870283036873,1,Smart Phone,Phone5,Norway
+4869.9295782720392,20,Smart Phone,Phone5,Norway
+-762.73182398136794,2,Smart Phone,Phone5,Germany
+2738.3961895019679,16,Smart Phone,Phone5,Germany
+1645.4672344520709,11,Smart Phone,Phone5,Qatar
+895.22551727707025,8,Smart Phone,Phone5,Qatar
+-692.701783934111,4,Smart Phone,Phone6,HongKong
+3058.5068019408918,19,Smart Phone,Phone6,HongKong
+2808.4262295492254,18,Smart Phone,Phone6,HongKong
+-384.72821883800304,10,Smart Phone,Phone6,Oman
+1280.2537617759663,10,Smart Phone,Phone6,Norway
+3781.0594856926355,20,Smart Phone,Phone6,Norway
+-1601.5213441691053,3,Smart Phone,Phone6,Germany
+1649.5260969225642,16,Smart Phone,Phone6,Germany
+2149.687241705898,18,Smart Phone,Phone6,Germany
+-1193.9668648690013,4,Smart Phone,Phone6,Qatar
+806.67771426433376,12,Smart Phone,Phone6,Qatar
+-1944.2085820440016,1,Smart Phone,Phone6,Qatar
+-1694.1280096523351,2,Smart Phone,Phone6,Qatar
+18215.823109910816,12,Shoes,Shoes1,Japan
+6541.25307013289,10,Shoes,Shoes1,SriLanka
+6291.1724977412223,9,Shoes,Shoes1,SriLanka
+5791.0113529578894,7,Shoes,Shoes1,SriLanka
+3811.9742801147568,17,Shoes,Shoes1,HongKong
+2311.4908457647562,11,Shoes,Shoes1,HongKong
+-1381.8247474058057,1,Shoes,Shoes1,Oman
+118.65868694419544,7,Shoes,Shoes1,Oman
+2533.8823847331655,10,Shoes,Shoes1,Norway
+1783.6406675581648,7,Shoes,Shoes1,Norway
+1783.6406675581648,7,Shoes,Shoes1,Norway
+1283.4795227748309,5,Shoes,Shoes1,Norway
+3903.4770094464307,20,Shoes,Shoes1,Germany
+3653.3964370547642,19,Shoes,Shoes1,Germany
+1652.7518579214288,11,Shoes,Shoes1,Germany
+-190.41881430346882,3,Shoes,Shoes1,Qatar
+1810.225764829866,11,Shoes,Shoes1,Qatar
+309.74233047986479,5,Shoes,Shoes1,Qatar
+14260.465650616057,5,Shoes,Shoes2,Japan
+18011.674236491061,20,Shoes,Shoes2,Japan
+13760.304505832722,3,Shoes,Shoes2,Japan
+14260.465650616057,5,Shoes,Shoes2,Japan
+17511.513091707726,18,Shoes,Shoes2,Japan
+2335.8150384464639,2,Shoes,Shoes2,SriLanka
+3336.1373280131311,6,Shoes,Shoes2,SriLanka
+2085.7344660547969,1,Shoes,Shoes2,SriLanka
+2835.9761832297977,4,Shoes,Shoes2,SriLanka
+3836.2984727964649,8,Shoes,Shoes2,SriLanka
+2335.8150384464639,2,Shoes,Shoes2,SriLanka
+-2144.0277583133366,2,Shoes,Shoes2,HongKong
+-643.54432396333539,8,Shoes,Shoes2,HongKong
+664.7515306994402,18,Shoes,Shoes2,Oman
+-1421.4750745615938,3,Shoes,Shoes2,Norway
+-2302.60560137333,4,Shoes,Shoes2,Germany
+-2802.7667461566639,2,Shoes,Shoes2,Germany
+-802.12216702332887,10,Shoes,Shoes2,Germany
+1198.5224121100059,18,Shoes,Shoes2,Germany
+-2145.1316944648929,4,Shoes,Shoes2,Qatar
+1355.996319018443,18,Shoes,Shoes2,Qatar
+605.7546018434424,15,Shoes,Shoes2,Qatar
+1606.07689141011,19,Shoes,Shoes2,Qatar
+-1394.8899772898926,7,Shoes,Shoes2,Qatar
+16323.966442785022,14,Shoes,Shoes3,Japan
+15573.724725610022,11,Shoes,Shoes3,Japan
+13823.160718868354,4,Shoes,Shoes3,Japan
+13573.080146476686,3,Shoes,Shoes3,Japan
+13823.160718868354,4,Shoes,Shoes3,Japan
+2148.5906790904273,2,Shoes,Shoes3,SriLanka
+3148.912968657095,6,Shoes,Shoes3,SriLanka
+2898.8323962654281,5,Shoes,Shoes3,SriLanka
+2398.6712514820942,3,Shoes,Shoes3,SriLanka
+1169.8758958139633,16,Shoes,Shoes3,HongKong
+-22.633973439929719,16,Shoes,Shoes3,Oman
+727.60774373507058,19,Shoes,Shoes3,Oman
+141.86457282403819,10,Shoes,Shoes3,Norway
+2642.6702967407073,20,Shoes,Shoes3,Norway
+-1858.7800063092973,2,Shoes,Shoes3,Norway
+1392.2674347823722,15,Shoes,Shoes3,Norway
+-1739.5882435543658,7,Shoes,Shoes3,Germany
+-1239.427098771032,9,Shoes,Shoes3,Germany
+261.05633557896897,15,Shoes,Shoes3,Germany
+-1989.6688159460327,6,Shoes,Shoes3,Germany
+1418.8525320540734,19,Shoes,Shoes3,Qatar
+168.44967009573918,14,Shoes,Shoes3,Qatar
+-2582.4366262125964,3,Shoes,Shoes3,Qatar
+-1582.1143366459287,7,Shoes,Shoes3,Qatar
+-1081.9531918625948,9,Shoes,Shoes3,Qatar
+18712.337391430494,15,Shoes,Shoes4,Japan
+5537.2839173025668,7,Shoes,Shoes4,SriLanka
+6287.5256344775671,10,Shoes,Shoes4,SriLanka
+5287.2033449109,6,Shoes,Shoes4,SriLanka
+5037.1227725192339,5,Shoes,Shoes4,SriLanka
+6037.4450620859016,9,Shoes,Shoes4,SriLanka
+5787.3644896942342,8,Shoes,Shoes4,SriLanka
+557.27997575943289,5,Shoes,Shoes4,HongKong
+-443.04231380723456,1,Shoes,Shoes4,HongKong
+807.36054815109981,6,Shoes,Shoes4,HongKong
+2615.8175475972093,18,Shoes,Shoes4,Oman
+-135.0687487111262,7,Shoes,Shoes4,Oman
+-635.22989349446,5,Shoes,Shoes4,Oman
+2615.8175475972093,18,Shoes,Shoes4,Oman
+365.09239607220763,9,Shoes,Shoes4,Oman
+279.51036994450851,2,Shoes,Shoes4,Norway
+3780.6383834278449,16,Shoes,Shoes4,Norway
+3530.5578110361776,15,Shoes,Shoes4,Norway
+2899.5078566161078,17,Shoes,Shoes4,Germany
+2399.346711832774,15,Shoes,Shoes4,Germany
+2806.9011911328785,16,Shoes,Shoes4,Qatar
+16974.739921726359,12,Shoes,Shoes5,Japan
+16724.659349334692,11,Shoes,Shoes5,Japan
+3549.605875206767,3,Shoes,Shoes5,SriLanka
+5050.0893095567681,9,Shoes,Shoes5,SriLanka
+3799.6864475984339,4,Shoes,Shoes5,SriLanka
+5300.1698819484345,10,Shoes,Shoes5,SriLanka
+4049.7670199901004,5,Shoes,Shoes5,SriLanka
+3299.5253028151,2,Shoes,Shoes5,SriLanka
+4800.0087371651016,8,Shoes,Shoes5,SriLanka
+2570.8910919303025,17,Shoes,Shoes5,HongKong
+820.32708518863444,10,Shoes,Shoes5,HongKong
+3071.0522367136364,19,Shoes,Shoes5,HongKong
+1628.4617950680763,18,Shoes,Shoes5,Oman
+-2372.8273631985935,2,Shoes,Shoes5,Oman
+1878.5423674597432,19,Shoes,Shoes5,Oman
+-1122.4245012402594,7,Shoes,Shoes5,Oman
+-122.10221167359157,11,Shoes,Shoes5,Oman
+3543.5243480737126,19,Shoes,Shoes5,Norway
+-957.92595497629111,1,Shoes,Shoes5,Norway
+-338.57304743802649,8,Shoes,Shoes5,Germany
+-1431.5020024879236,3,Shoes,Shoes5,Qatar
+2819.8677281704136,20,Shoes,Shoes5,Qatar
+18446.02681259406,14,Shoes,Shoes6,Japan
+18195.946240202393,13,Shoes,Shoes6,Japan
+5020.8927660744648,5,Shoes,Shoes6,SriLanka
+6021.2150556411325,9,Shoes,Shoes6,SriLanka
+4770.8121936827984,4,Shoes,Shoes6,SriLanka
+6021.2150556411325,9,Shoes,Shoes6,SriLanka
+4270.6510488994645,2,Shoes,Shoes6,SriLanka
+2291.6139760563328,12,Shoes,Shoes6,HongKong
+2541.6945484479993,13,Shoes,Shoes6,HongKong
+-1151.6210447225621,3,Shoes,Shoes6,Oman
+-1401.7016171142291,2,Shoes,Shoes6,Oman
+1349.1846791941061,13,Shoes,Shoes6,Oman
+2349.5069687607738,17,Shoes,Shoes6,Oman
+-401.37932754756173,6,Shoes,Shoes6,Oman
+-617.8501633119962,3,Shoes,Shoes6,Germany
+2790.6711846881103,16,Shoes,Shoes6,Qatar
+1790.3488951214426,12,Shoes,Shoes6,Qatar
+2290.510039904776,14,Shoes,Shoes6,Qatar
+2790.6711846881103,16,Shoes,Shoes6,Qatar
+4216.4408401431756,3,Smart Phone,SmartPhone1,SriLanka
+5967.0048468848436,10,Smart Phone,SmartPhone1,SriLanka
+4466.521412534843,4,Smart Phone,SmartPhone1,SriLanka
+4966.6825573181759,6,Smart Phone,SmartPhone1,SriLanka
+5466.84370210151,8,Smart Phone,SmartPhone1,SriLanka
+4216.4408401431756,3,Smart Phone,SmartPhone1,SriLanka
+4216.4408401431756,3,Smart Phone,SmartPhone1,SriLanka
+4466.521412534843,4,Smart Phone,SmartPhone1,SriLanka
+3353.8101828205986,5,Smart Phone,SmartPhone2,SriLanka
+2353.4878932539314,1,Smart Phone,SmartPhone2,SriLanka
+2853.6490380372647,3,Smart Phone,SmartPhone2,SriLanka
+3101.1638767969316,4,Smart Phone,SmartPhone3,SriLanka
+6397.116767381619,10,Smart Phone,SmartPhone4,SriLanka
+5146.7139054232857,5,Smart Phone,SmartPhone4,SriLanka
+4896.6333330316183,4,Smart Phone,SmartPhone4,SriLanka
+7932.079972350256,10,Smart Phone,SmartPhone5,SriLanka
+6931.7576827835892,6,Smart Phone,SmartPhone5,SriLanka
+7181.8382551752557,7,Smart Phone,SmartPhone5,SriLanka
+6431.5965380002554,4,Smart Phone,SmartPhone5,SriLanka
+7932.079972350256,10,Smart Phone,SmartPhone5,SriLanka
+7932.079972350256,10,Smart Phone,SmartPhone5,SriLanka
+5059.3588459782013,6,Smart Phone,SmartPhone6,SriLanka
+4559.1977011948675,4,Smart Phone,SmartPhone6,SriLanka
+4059.0365564115336,2,Smart Phone,SmartPhone6,SriLanka
+4559.1977011948675,4,Smart Phone,SmartPhone6,SriLanka
+5809.6005631532016,9,Smart Phone,SmartPhone6,SriLanka
+4059.0365564115336,2,Smart Phone,SmartPhone6,SriLanka
+3808.9559840198672,1,Smart Phone,SmartPhone6,SriLanka
+5309.4394183698687,7,Smart Phone,SmartPhone6,SriLanka
+3808.9559840198672,1,Smart Phone,SmartPhone6,SriLanka
+17122.403221754081,11,Tshirts,Tshirt1,Japan
+15121.758642620747,3,Tshirts,Tshirt1,Japan
+17872.644938929083,14,Tshirts,Tshirt1,Japan
+4447.5108924094884,5,Tshirts,Tshirt1,SriLanka
+4697.5914648011558,6,Tshirts,Tshirt1,SriLanka
+5197.7526095844887,8,Tshirts,Tshirt1,SriLanka
+5697.9137543678235,10,Tshirts,Tshirt1,SriLanka
+5697.9137543678235,10,Tshirts,Tshirt1,SriLanka
+4197.4303200178219,4,Tshirts,Tshirt1,SriLanka
+5197.7526095844887,8,Tshirts,Tshirt1,SriLanka
+-532.49304913364574,3,Tshirts,Tshirt1,HongKong
+1025.8833779207962,14,Tshirts,Tshirt1,Oman
+1275.9639503124636,15,Tshirts,Tshirt1,Oman
+3691.1876481014333,18,Tshirts,Tshirt1,Norway
+4191.3487928847671,20,Tshirts,Tshirt1,Norway
+2059.8154041146959,16,Tshirts,Tshirt1,Germany
+309.25139737302823,9,Tshirts,Tshirt1,Germany
+2059.8154041146959,16,Tshirts,Tshirt1,Germany
+1309.5736869396956,13,Tshirts,Tshirt1,Germany
+809.41254215636184,11,Tshirts,Tshirt1,Germany
+2467.3698834148004,17,Tshirts,Tshirt1,Qatar
+2967.5310281981342,19,Tshirts,Tshirt1,Qatar
+-283.51641289353518,6,Tshirts,Tshirt1,Qatar
+2717.4504558064668,18,Tshirts,Tshirt1,Qatar
+2467.3698834148004,17,Tshirts,Tshirt1,Qatar
+1967.2087386314665,15,Tshirts,Tshirt1,Qatar
+13527.243730266129,2,Tshirts,Tshirt2,Japan
+16278.130026574465,13,Tshirts,Tshirt2,Japan
+2102.7542628798706,1,Tshirts,Tshirt2,SriLanka
+3853.3182696215385,8,Tshirts,Tshirt2,SriLanka
+3103.0765524465378,5,Tshirts,Tshirt2,SriLanka
+4353.4794144048728,10,Tshirts,Tshirt2,SriLanka
+3603.2376972298716,7,Tshirts,Tshirt2,SriLanka
+123.71719003673877,11,Tshirts,Tshirt2,HongKong
+1874.2811967784069,18,Tshirts,Tshirt2,HongKong
+2124.3617691700738,19,Tshirts,Tshirt2,HongKong
+1374.120051995073,16,Tshirts,Tshirt2,HongKong
+-3319.5178307421565,2,Tshirts,Tshirt2,Oman
+431.6907551328469,17,Tshirts,Tshirt2,Oman
+-2319.1955411754889,6,Tshirts,Tshirt2,Oman
+931.85189991618074,19,Tshirts,Tshirt2,Oman
+346.10872900514812,10,Tshirts,Tshirt2,Norway
+846.26987378848173,12,Tshirts,Tshirt2,Norway
+1215.5422089350795,18,Tshirts,Tshirt2,Germany
+-1377.870180464819,7,Tshirts,Tshirt2,Qatar
+872.854971060183,16,Tshirts,Tshirt2,Qatar
+17179.514678441166,14,Tshirts,Tshirt3,Japan
+14428.628382132829,3,Tshirts,Tshirt3,Japan
+3504.300059529904,4,Tshirts,Tshirt3,SriLanka
+2754.0583423549037,1,Tshirts,Tshirt3,SriLanka
+5004.7834938799051,10,Tshirts,Tshirt3,SriLanka
+1833.2365517828803,20,Tshirts,Tshirt3,Oman
+-917.649744525455,9,Tshirts,Tshirt3,Oman
+-1667.8914617004557,6,Tshirts,Tshirt3,Oman
+-417.48859974212121,11,Tshirts,Tshirt3,Oman
+-2.909481086486494,6,Tshirts,Tshirt3,Norway
+2998.0573876135159,18,Tshirts,Tshirt3,Norway
+747.33223608851415,9,Tshirts,Tshirt3,Norway
+-252.9900534781533,5,Tshirts,Tshirt3,Norway
+1866.8462884101123,18,Tshirts,Tshirt3,Germany
+-1884.3622974648906,3,Tshirts,Tshirt3,Germany
+1524.1590505352156,16,Tshirts,Tshirt3,Qatar
+-1976.9689629481204,2,Tshirts,Tshirt3,Qatar
+1524.1590505352156,16,Tshirts,Tshirt3,Qatar
+-1976.9689629481204,2,Tshirts,Tshirt3,Qatar
+-1226.7272457731196,5,Tshirts,Tshirt3,Qatar
+18227.443938752305,12,Tshirts,Tshirt4,Japan
+20228.088517885644,20,Tshirts,Tshirt4,Japan
+6052.7127541910477,8,Tshirts,Tshirt4,SriLanka
+5552.5516094077129,6,Tshirts,Tshirt4,SriLanka
+5302.4710370160465,5,Tshirts,Tshirt4,SriLanka
+6552.8738989743806,10,Tshirts,Tshirt4,SriLanka
+5802.63218179938,7,Tshirts,Tshirt4,SriLanka
+6302.7933265827141,9,Tshirts,Tshirt4,SriLanka
+6302.7933265827141,9,Tshirts,Tshirt4,SriLanka
+2323.1116746062476,11,Tshirts,Tshirt4,HongKong
+3073.3533917812474,14,Tshirts,Tshirt4,HongKong
+2323.1116746062476,11,Tshirts,Tshirt4,HongKong
+1572.8699574312468,8,Tshirts,Tshirt4,HongKong
+1380.6823777440213,12,Tshirts,Tshirt4,Oman
+2130.9240949190216,15,Tshirts,Tshirt4,Oman
+1045.0197792246558,4,Tshirts,Tshirt4,Norway
+2545.5032135746569,10,Tshirts,Tshirt4,Norway
+-586.35246476208147,2,Tshirts,Tshirt4,Germany
+1414.2921143712533,10,Tshirts,Tshirt4,Germany
+3915.0978382879225,20,Tshirts,Tshirt4,Germany
+3164.8561211129213,17,Tshirts,Tshirt4,Germany
+1414.2921143712533,10,Tshirts,Tshirt4,Germany
+3915.0978382879225,20,Tshirts,Tshirt4,Germany
+2572.0883108463572,14,Tshirts,Tshirt4,Qatar
+20475.193944644878,18,Tshirts,Tshirt5,Japan
+20475.193944644878,18,Tshirts,Tshirt5,Japan
+5799.6570361669483,4,Tshirts,Tshirt5,SriLanka
+6799.979325733616,8,Tshirts,Tshirt5,SriLanka
+7300.1404705169489,10,Tshirts,Tshirt5,SriLanka
+5299.4958913836144,2,Tshirts,Tshirt5,SriLanka
+6299.8181809502812,6,Tshirts,Tshirt5,SriLanka
+7300.1404705169489,10,Tshirts,Tshirt5,SriLanka
+7050.0598981252824,9,Tshirts,Tshirt5,SriLanka
+5799.6570361669483,4,Tshirts,Tshirt5,SriLanka
+6299.8181809502812,6,Tshirts,Tshirt5,SriLanka
+6799.979325733616,8,Tshirts,Tshirt5,SriLanka
+7050.0598981252824,9,Tshirts,Tshirt5,SriLanka
+3128.2712388532573,16,Tshirts,Tshirt5,Oman
+3628.43238363659,18,Tshirts,Tshirt5,Oman
+377.38494254492173,5,Tshirts,Tshirt5,Oman
+1792.2863507672241,4,Tshirts,Tshirt5,Norway
+2042.366923158891,5,Tshirts,Tshirt5,Norway
+410.99467917215372,3,Tshirts,Tshirt5,Germany
+2661.7198306971554,12,Tshirts,Tshirt5,Germany
+4069.5965995639267,17,Tshirts,Tshirt5,Qatar
+4569.757744347261,19,Tshirts,Tshirt5,Qatar
+17007.694738207272,12,Tshirts,Tshirt6,Japan
+16757.614165815605,11,Tshirts,Tshirt6,Japan
+3582.5606916876795,3,Tshirts,Tshirt6,SriLanka
+3082.3995469043457,1,Tshirts,Tshirt6,SriLanka
+3332.4801192960126,2,Tshirts,Tshirt6,SriLanka
+3082.3995469043457,1,Tshirts,Tshirt6,SriLanka
+2603.8459084112151,17,Tshirts,Tshirt6,HongKong
+3104.0070531945494,19,Tshirts,Tshirt6,HongKong
+603.20132927788006,9,Tshirts,Tshirt6,HongKong
+353.12075688621314,8,Tshirts,Tshirt6,HongKong
+-1397.4432498554552,1,Tshirts,Tshirt6,HongKong
+2353.7653360195482,16,Tshirts,Tshirt6,HongKong
+-147.04038789712058,6,Tshirts,Tshirt6,HongKong
+-1089.4696847593468,7,Tshirts,Tshirt6,Oman
+3076.3180197712909,17,Tshirts,Tshirt6,Norway
+75.351151071288882,5,Tshirts,Tshirt6,Norway
+75.351151071288882,5,Tshirts,Tshirt6,Norway
+-174.72942132037792,4,Tshirts,Tshirt6,Norway
+1695.0263481762208,16,Tshirts,Tshirt6,Germany
+194.54291382621989,10,Tshirts,Tshirt6,Germany
+-1305.9405205237813,4,Tshirts,Tshirt6,Germany
+1695.0263481762208,16,Tshirts,Tshirt6,Germany
+-1148.4666136153442,4,Tshirts,Tshirt6,Qatar
+2852.8225446513256,20,Tshirts,Tshirt6,Qatar
+7428.4224262196522,10,Water bottles,WaterBottle1,SriLanka
+7428.4224262196522,10,Water bottles,WaterBottle1,SriLanka
+5677.8584194779842,3,Water bottles,WaterBottle1,SriLanka
+7428.4224262196522,10,Water bottles,WaterBottle1,SriLanka
+6678.1807090446518,7,Water bottles,WaterBottle1,SriLanka
+5177.6972746946512,1,Water bottles,WaterBottle1,SriLanka
+7428.4224262196522,10,Water bottles,WaterBottle1,SriLanka
+6178.0195642613189,5,Water bottles,WaterBottle1,SriLanka
+7428.4224262196522,10,Water bottles,WaterBottle1,SriLanka
+6428.1001366529854,6,Water bottles,WaterBottle1,SriLanka
+8231.7300552412344,7,Water bottles,WaterBottle2,SriLanka
+8981.9717724162347,10,Water bottles,WaterBottle2,SriLanka
+7731.5689104579005,5,Water bottles,WaterBottle2,SriLanka
+8481.8106276329017,8,Water bottles,WaterBottle2,SriLanka
+7231.4077656745658,3,Water bottles,WaterBottle2,SriLanka
+7325.00905177308,8,Water bottles,WaterBottle3,SriLanka
+6074.6061898147464,3,Water bottles,WaterBottle3,SriLanka
+7325.00905177308,8,Water bottles,WaterBottle3,SriLanka
+7825.1701965564143,10,Water bottles,WaterBottle3,SriLanka
+7575.089624164747,9,Water bottles,WaterBottle3,SriLanka
+6824.8479069897467,6,Water bottles,WaterBottle3,SriLanka
+6324.6867622064128,4,Water bottles,WaterBottle3,SriLanka
+3856.8232174360019,5,Water bottles,WaterBottle4,SriLanka
+3856.8232174360019,5,Water bottles,WaterBottle4,SriLanka
+3856.8232174360019,5,Water bottles,WaterBottle4,SriLanka
+2856.5009278693346,1,Water bottles,WaterBottle4,SriLanka
+2856.5009278693346,1,Water bottles,WaterBottle4,SriLanka
+4289.9725027015465,2,Water bottles,WaterBottle5,SriLanka
+5540.3753646598807,7,Water bottles,WaterBottle5,SriLanka
+5040.2142198765478,5,Water bottles,WaterBottle5,SriLanka
+5040.2142198765478,5,Water bottles,WaterBottle5,SriLanka
+5290.2947922682142,6,Water bottles,WaterBottle5,SriLanka
+6290.6170818348819,10,Water bottles,WaterBottle5,SriLanka
+5040.2142198765478,5,Water bottles,WaterBottle5,SriLanka
+4878.4166441508805,6,Water bottles,WaterBottle6,SriLanka
+5128.497216542547,7,Water bottles,WaterBottle6,SriLanka
+4878.4166441508805,6,Water bottles,WaterBottle6,SriLanka
+4128.17492697588,3,Water bottles,WaterBottle6,SriLanka
+1765.8021850669306,8,Shoes,Adidas Shoes,India
+2265.9633298502645,10,Shoes,Adidas Shoes,India
+265.31875071692934,2,Shoes,Adidas Shoes,India
+880.64936750664549,4,Shoes,Bata Shoes,India
+1742.2999145769206,8,Shoes,Nike Shoes,India
+-8.2640921647473533,1,Shoes,Nike Shoes,India
+1492.2193421852537,7,Shoes,Nike Shoes,India
+1242.138769793587,6,Shoes,Nike Shoes,India
+2066.6445119440723,10,Tshirts,Nike Tshirt,India
+1547.8646873412304,9,Tshirts,Peter England Tshirt,India
+1047.7035425578965,7,Tshirts,Peter England Tshirt,India
+-452.77989179210442,1,Tshirts,Peter England Tshirt,India
+1547.8646873412304,9,Tshirts,Peter England Tshirt,India
+881.44327581782568,6,Shoes,Reebok Shoes,India
+881.44327581782568,6,Shoes,Reebok Shoes,India
+381.28213103449207,4,Shoes,Reebok Shoes,India
+985.01548072094317,7,Water bottles,Cello Water bottles,India
+1432.5814666965236,8,Water bottles,Kinley Water bottles,India
+1932.7426114798577,10,Water bottles,Kinley Water bottles,India
+745.33454729220034,3,Water bottles,Milton Water bottles,India
+495.25397490053331,2,Water bottles,Milton Water bottles,India
+745.33454729220034,3,Water bottles,Milton Water bottles,India
+1027.2265333766395,6,Water bottles,Tupperware Water bottles,India
+2069.2787294499635,9,Jeans,Lee Jeans,India
+68.634150316628734,1,Jeans,Lee Jeans,India
+-108.41500986967981,1,Jeans,Levi's Jeans,India
+891.90727969698764,5,Jeans,Levi's Jeans,India
+1450.0911937200872,9,Jeans,Mufti Jeans,India
+1603.66645828868,9,Jeans,Wrangler Jeans,India
+1853.7470306803471,10,Jeans,Wrangler Jeans,India
+-146.89754845298808,2,Jeans,Wrangler Jeans,India
+1380.8105122899792,6,Shoes,Bata Shoes,India
+1992.3804869685878,9,Shoes,Nike Shoes,India
+741.97762501025329,4,Shoes,Nike Shoes,India
+631.36270342615887,5,Shoes,Reebok Shoes,India
+1166.6444223231247,9,Shoes,Woodland Shoes,India
+1416.7249947147916,10,Shoes,Woodland Shoes,India
+544.29206526429743,3,Smart Phone,OnePlus Smart Phone,India
+187.73813871018228,3,Smart Phone,Redmi Smart Phone,India
+687.899283493516,5,Smart Phone,Redmi Smart Phone,India
+687.899283493516,5,Smart Phone,Redmi Smart Phone,India
+-12.500752897518851,2,Smart Phone,Samsung Smart Phone,India
+987.8215366691486,6,Smart Phone,Samsung Smart Phone,India
+589.53554152705908,6,Smart Phone,Vivo Smart Phone,India
+839.616113918726,7,Smart Phone,Vivo Smart Phone,India
+839.616113918726,7,Smart Phone,Vivo Smart Phone,India
+665.80764534028788,5,Smart Phone,iPhone Smart Phone,India
+1487.9167458483171,8,Water bottles,Aquafina Water bottles,India
+985.01548072094317,7,Water bottles,Cello Water bottles,India
+734.93490832927625,6,Water bottles,Cello Water bottles,India
+1777.46825055164,9,Water bottles,Tupperware Water bottles,India
+527.06538859330578,4,Water bottles,Tupperware Water bottles,India
+1319.037012274963,6,Jeans,Lee Jeans,India
+68.634150316628734,1,Jeans,Lee Jeans,India
+818.87586749162938,4,Jeans,Lee Jeans,India
+1892.2295692636553,9,Jeans,Levi's Jeans,India
+199.68833176175303,4,Jeans,Mufti Jeans,India
+165.53265214129055,2,Jeans,Pepe Jeans Jeans,India
+2166.1772312746257,10,Jeans,Pepe Jeans Jeans,India
+353.26359633034576,4,Jeans,Wrangler Jeans,India
+987.75560106498347,6,Water bottles,Aquafina Water bottles,India
+737.67502867331666,5,Water bottles,Aquafina Water bottles,India
+1485.1766255042769,9,Water bottles,Cello Water bottles,India
+484.85433593760945,5,Water bottles,Cello Water bottles,India
+-67.901967653477641,2,Water bottles,Kinley Water bottles,India
+932.42032191319,6,Water bottles,Kinley Water bottles,India
+237.51388388998294,3,Water bottles,Aquafina Water bottles,India
+-515.46795362905766,1,Water bottles,Cello Water bottles,India
+-15.306808845724277,3,Water bottles,Cello Water bottles,India
+-67.901967653477641,2,Water bottles,Kinley Water bottles,India
+495.25397490053331,2,Water bottles,Milton Water bottles,India
+2495.8985540338685,10,Water bottles,Milton Water bottles,India
+1527.3876781599731,8,Water bottles,Tupperware Water bottles,India
+26.904243809971831,2,Water bottles,Tupperware Water bottles,India
+1133.1672105591956,5,Tshirts,Adidas Tshirt,India
+-184.08063958092976,1,Tshirts,Nike Tshirt,India
+1797.9452597328973,10,Tshirts,Peter England Tshirt,India
+1450.7099381423304,8,Tshirts,Zara Tshirt,India
+200.30707618399606,3,Tshirts,Zara Tshirt,India
+950.54879335899659,6,Tshirts,Zara Tshirt,India
+568.79529509996246,3,Jeans,Lee Jeans,India
+141.665562521987,2,Jeans,Levi's Jeans,India
+1141.9878520886546,6,Jeans,Levi's Jeans,India
+1892.2295692636553,9,Jeans,Levi's Jeans,India
+141.665562521987,2,Jeans,Levi's Jeans,India
+141.665562521987,2,Jeans,Levi's Jeans,India
+641.826707305321,4,Jeans,Levi's Jeans,India
+1700.1717661117541,10,Jeans,Mufti Jeans,India
+-84.547920250376364,1,Jeans,Pepe Jeans Jeans,India
+1603.66645828868,9,Jeans,Wrangler Jeans,India
+1429.5566818486188,7,Perfumes,AXE Perfumes,India
+929.39553706528511,5,Perfumes,AXE Perfumes,India
+1429.5566818486188,7,Perfumes,AXE Perfumes,India
+-70.926752501382339,1,Perfumes,AXE Perfumes,India
+1179.4761094569519,6,Perfumes,AXE Perfumes,India
+617.6502481400754,2,Perfumes,Denver Perfumes,India
+617.6502481400754,2,Perfumes,Denver Perfumes,India
+867.73082053174232,3,Perfumes,Denver Perfumes,India
+145.10226569234146,2,Perfumes,Fogg Perfumes,India
+145.10226569234146,2,Perfumes,Fogg Perfumes,India
+395.18283808400838,3,Perfumes,Fogg Perfumes,India
+1395.5051276506758,7,Perfumes,Fogg Perfumes,India
+895.34398286734222,5,Perfumes,Fogg Perfumes,India
+145.10226569234146,2,Perfumes,Fogg Perfumes,India
+1645.5857000423425,8,Perfumes,Fogg Perfumes,India
+1129.449506972589,7,Perfumes,Park Avenue Perfumes,India
+1379.5300793642559,8,Perfumes,Park Avenue Perfumes,India
+1050.7250691822403,5,Perfumes,Wild Stone Perfumes,India
+1550.8862139655739,7,Perfumes,Wild Stone Perfumes,India
+800.6444967905735,4,Perfumes,Wild Stone Perfumes,India
+1550.8862139655739,7,Perfumes,Wild Stone Perfumes,India
+1050.7250691822403,5,Perfumes,Wild Stone Perfumes,India
+294.21149287263052,2,Smart Phone,OnePlus Smart Phone,India
+187.73813871018228,3,Smart Phone,Redmi Smart Phone,India
+1738.0632538441491,9,Smart Phone,Samsung Smart Phone,India
+1237.9021090608157,7,Smart Phone,Samsung Smart Phone,India
+987.8215366691486,6,Smart Phone,Samsung Smart Phone,India
+1416.0493625152883,8,Smart Phone,iPhone Smart Phone,India
+568.79529509996246,3,Jeans,Lee Jeans,India
+391.74613491365392,3,Jeans,Levi's Jeans,India
+1392.0684244803215,7,Jeans,Levi's Jeans,India
+641.826707305321,4,Jeans,Levi's Jeans,India
+199.68833176175303,4,Jeans,Mufti Jeans,India
+665.69379692462439,4,Jeans,Pepe Jeans Jeans,India
+1666.0160864912916,8,Jeans,Pepe Jeans Jeans,India
+1353.5858858970132,8,Jeans,Wrangler Jeans,India
+603.34416872201257,5,Jeans,Wrangler Jeans,India
+1383.2477829508623,6,Tshirts,Adidas Tshirt,India
+883.08663816752869,4,Tshirts,Adidas Tshirt,India
+566.161077594071,4,Tshirts,Nike Tshirt,India
+1566.4833671607382,8,Tshirts,Nike Tshirt,India
+1297.7841149495634,8,Tshirts,Peter England Tshirt,India
+1356.0447988914343,6,Tshirts,Puma Tshirt,India
+355.722509324767,2,Tshirts,Puma Tshirt,India
+105.64193693310017,1,Tshirts,Puma Tshirt,India
+-49.77349620767086,2,Tshirts,Zara Tshirt,India
+1950.8710829256643,10,Tshirts,Zara Tshirt,India
+2265.9633298502645,10,Shoes,Adidas Shoes,India
+15.238178325262538,1,Shoes,Adidas Shoes,India
+265.31875071692934,2,Shoes,Adidas Shoes,India
+1130.7299398983123,5,Shoes,Bata Shoes,India
+630.56879511497857,3,Shoes,Bata Shoes,India
+880.64936750664549,4,Shoes,Bata Shoes,India
+241.81648022691934,2,Shoes,Nike Shoes,India
+881.44327581782568,6,Shoes,Reebok Shoes,India
+-118.87901374884177,2,Shoes,Reebok Shoes,India
+916.56384993145787,8,Shoes,Woodland Shoes,India
+568.79529509996246,3,Jeans,Lee Jeans,India
+818.87586749162938,4,Jeans,Lee Jeans,India
+2319.3593018416304,10,Jeans,Lee Jeans,India
+1892.2295692636553,9,Jeans,Levi's Jeans,India
+1700.1717661117541,10,Jeans,Mufti Jeans,India
+1200.0106213284203,8,Jeans,Mufti Jeans,India
+165.53265214129055,2,Jeans,Pepe Jeans Jeans,India
+353.26359633034576,4,Jeans,Wrangler Jeans,India
+353.26359633034576,4,Jeans,Wrangler Jeans,India
+1487.9167458483171,8,Water bottles,Aquafina Water bottles,India
+1735.2571978959438,10,Water bottles,Cello Water bottles,India
+-317.982540045144,1,Water bottles,Kinley Water bottles,India
+495.25397490053331,2,Water bottles,Milton Water bottles,India
+777.14596098497259,5,Water bottles,Tupperware Water bottles,India
+276.98481620163886,3,Water bottles,Tupperware Water bottles,India
+816.24164998573781,5,Tshirts,Nike Tshirt,India
+566.161077594071,4,Tshirts,Nike Tshirt,India
+1047.7035425578965,7,Tshirts,Peter England Tshirt,India
+1856.2059436747682,8,Tshirts,Puma Tshirt,India
+605.80308171643389,3,Tshirts,Puma Tshirt,India
+1606.1253712831012,7,Tshirts,Puma Tshirt,India
+1105.9642264997676,5,Tshirts,Puma Tshirt,India
+200.30707618399606,3,Tshirts,Zara Tshirt,India
+950.54879335899659,6,Tshirts,Zara Tshirt,India
+1679.6372542402855,8,Perfumes,AXE Perfumes,India
+1429.5566818486188,7,Perfumes,AXE Perfumes,India
+-70.926752501382339,1,Perfumes,AXE Perfumes,India
+367.5696757484086,1,Perfumes,Denver Perfumes,India
+1645.5857000423425,8,Perfumes,Fogg Perfumes,India
+1879.6912241475898,10,Perfumes,Park Avenue Perfumes,India
+1800.9667863572408,8,Perfumes,Wild Stone Perfumes,India
+2051.0473587489078,9,Perfumes,Wild Stone Perfumes,India
+1188.0604282768497,7,Smart Phone,Redmi Smart Phone,India
+1938.3021454518503,10,Smart Phone,Redmi Smart Phone,India
+437.8187111018492,4,Smart Phone,Redmi Smart Phone,India
+737.74096427748191,5,Smart Phone,Samsung Smart Phone,India
+1738.0632538441491,9,Smart Phone,Samsung Smart Phone,India
+1589.8578310937264,10,Smart Phone,Vivo Smart Phone,India
+1429.5566818486188,7,Perfumes,AXE Perfumes,India
+-70.926752501382339,1,Perfumes,AXE Perfumes,India
+1929.7178266319524,9,Perfumes,AXE Perfumes,India
+1617.972537706743,6,Perfumes,Denver Perfumes,India
+1395.5051276506758,7,Perfumes,Fogg Perfumes,India
+395.18283808400838,3,Perfumes,Fogg Perfumes,India
+895.34398286734222,5,Perfumes,Fogg Perfumes,India
+1379.5300793642559,8,Perfumes,Park Avenue Perfumes,India
+1879.6912241475898,10,Perfumes,Park Avenue Perfumes,India
+1379.5300793642559,8,Perfumes,Park Avenue Perfumes,India
+129.12721740592156,3,Perfumes,Park Avenue Perfumes,India
+300.48335200723966,2,Perfumes,Wild Stone Perfumes,India
+1050.7250691822403,5,Perfumes,Wild Stone Perfumes,India
+237.51388388998294,3,Water bottles,Aquafina Water bottles,India
+1237.8361734566504,7,Water bottles,Aquafina Water bottles,India
+1432.5814666965236,8,Water bottles,Kinley Water bottles,India
+1182.500894304857,7,Water bottles,Kinley Water bottles,India
+1682.6620390881906,9,Water bottles,Kinley Water bottles,India
+432.25917712985643,4,Water bottles,Kinley Water bottles,India
+245.17340250886684,1,Water bottles,Milton Water bottles,India
+495.25397490053331,2,Water bottles,Milton Water bottles,India
+1777.46825055164,9,Water bottles,Tupperware Water bottles,India
+1777.46825055164,9,Water bottles,Tupperware Water bottles,India
+1027.2265333766395,6,Water bottles,Tupperware Water bottles,India
+-223.17632858169463,1,Water bottles,Tupperware Water bottles,India
+1527.3876781599731,8,Water bottles,Tupperware Water bottles,India
+26.904243809971831,2,Water bottles,Tupperware Water bottles,India
+1068.9564398832963,5,Jeans,Lee Jeans,India
+1068.9564398832963,5,Jeans,Lee Jeans,India
+449.76890415341984,5,Jeans,Mufti Jeans,India
+1700.1717661117541,10,Jeans,Mufti Jeans,India
+915.7743693162912,5,Jeans,Pepe Jeans Jeans,India
+-396.97812084465488,1,Jeans,Wrangler Jeans,India
+1938.3021454518503,10,Smart Phone,Redmi Smart Phone,India
+437.8187111018492,4,Smart Phone,Redmi Smart Phone,India
+937.97985588518281,6,Smart Phone,Redmi Smart Phone,India
+1738.0632538441491,9,Smart Phone,Samsung Smart Phone,India
+987.8215366691486,6,Smart Phone,Samsung Smart Phone,India
+1738.0632538441491,9,Smart Phone,Samsung Smart Phone,India
+-12.500752897518851,2,Smart Phone,Samsung Smart Phone,India
+987.8215366691486,6,Smart Phone,Samsung Smart Phone,India
+1294.533782439298,6,Smart Phone,OnePlus Smart Phone,India
+1794.6949272226316,8,Smart Phone,OnePlus Smart Phone,India
+589.53554152705908,6,Smart Phone,Vivo Smart Phone,India
+1666.1299349069552,9,Smart Phone,iPhone Smart Phone,India
+915.88821773195468,6,Smart Phone,iPhone Smart Phone,India
+-334.51464422637935,1,Smart Phone,iPhone Smart Phone,India
+1916.2105072986224,10,Smart Phone,iPhone Smart Phone,India
+2015.8827574585976,9,Shoes,Adidas Shoes,India
+1765.8021850669306,8,Shoes,Adidas Shoes,India
+265.31875071692934,2,Shoes,Adidas Shoes,India
+515.39932310859626,3,Shoes,Adidas Shoes,India
+380.48822272331165,2,Shoes,Bata Shoes,India
+380.48822272331165,2,Shoes,Bata Shoes,India
+-8.2640921647473533,1,Shoes,Nike Shoes,India
+992.0581974019201,5,Shoes,Nike Shoes,India
+1631.6849929928262,9,Shoes,Reebok Shoes,India
+1881.7655653844931,10,Shoes,Reebok Shoes,India
+416.40270514812414,6,Shoes,Woodland Shoes,India
+544.29206526429743,3,Smart Phone,OnePlus Smart Phone,India
+1938.3021454518503,10,Smart Phone,Redmi Smart Phone,India
+1487.9826814524822,8,Smart Phone,Samsung Smart Phone,India
+339.45496913539228,5,Smart Phone,Vivo Smart Phone,India
+339.45496913539228,5,Smart Phone,Vivo Smart Phone,India
+1589.8578310937264,10,Smart Phone,Vivo Smart Phone,India
+-160.70617564794156,3,Smart Phone,Vivo Smart Phone,India
+1179.4761094569519,6,Perfumes,AXE Perfumes,India
+1133.1672105591956,5,Tshirts,Adidas Tshirt,India
+1367.891965315076,5,Perfumes,Denver Perfumes,India
+1379.5300793642559,8,Perfumes,Park Avenue Perfumes,India
+797.62297016622972,6,Tshirts,Peter England Tshirt,India
+1047.7035425578965,7,Tshirts,Peter England Tshirt,India
+547.54239777456291,5,Tshirts,Peter England Tshirt,India
+1797.9452597328973,10,Tshirts,Peter England Tshirt,India
+797.62297016622972,6,Tshirts,Peter England Tshirt,India
+1105.9642264997676,5,Tshirts,Puma Tshirt,India
+105.64193693310017,1,Tshirts,Puma Tshirt,India
+105.64193693310017,1,Tshirts,Puma Tshirt,India
+2356.367088458102,10,Tshirts,Puma Tshirt,India
+550.56392439890658,3,Perfumes,Wild Stone Perfumes,India
+800.6444967905735,4,Perfumes,Wild Stone Perfumes,India
+450.387648575663,4,Tshirts,Zara Tshirt,India
+-70.926752501382339,1,Perfumes,AXE Perfumes,India
+1645.5857000423425,8,Perfumes,Fogg Perfumes,India
+-120.95335498574536,2,Perfumes,Park Avenue Perfumes,India
+50.402779615572854,1,Perfumes,Wild Stone Perfumes,India
+300.48335200723966,2,Perfumes,Wild Stone Perfumes,India
+1265.6410402835968,6,Shoes,Adidas Shoes,India
+765.47989550026318,4,Shoes,Adidas Shoes,India
+765.47989550026318,4,Shoes,Adidas Shoes,India
+1630.8910846816461,7,Shoes,Bata Shoes,India
+2242.4610593602547,10,Shoes,Nike Shoes,India
+2133.4895001258628,9,Tshirts,Adidas Tshirt,India
+132.84492099252793,1,Tshirts,Adidas Tshirt,India
+1883.4089277341959,8,Tshirts,Adidas Tshirt,India
+132.84492099252793,1,Tshirts,Adidas Tshirt,India
+1547.8646873412304,9,Tshirts,Peter England Tshirt,India
+297.46182538289611,4,Tshirts,Peter England Tshirt,India
+105.64193693310017,1,Tshirts,Puma Tshirt,India
