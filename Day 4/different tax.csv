@@ -1,0 +1,268 @@
+Country,Category,Product,Amount,Tax
+Germany,Water bottles,Bottle1,605056.94,30252.85
+Germany,Water bottles,Bottle2,870042.95,43502.15
+Germany,Water bottles,Bottle3,528835.62,26441.78
+Germany,Water bottles,Bottle4,147126.01,7356.3
+Germany,Water bottles,Bottle5,200923.87,10046.19
+Germany,Water bottles,Bottle6,507975.63,25398.78
+Germany,Jeans,Jeans1,696505.36,34825.27
+Germany,Jeans,Jeans3,188161.65,9408.08
+Germany,Jeans,Jeans4,62923.95,3146.2
+Germany,Jeans,Jeans5,26789.49,1339.47
+Germany,Jeans,Jeans6,345117.74,17255.89
+Germany,Perfumes,Perfume1,136385.55,6819.28
+Germany,Perfumes,Perfume2,605092.67,30254.63
+Germany,Perfumes,Perfume4,625695.37,31284.77
+Germany,Perfumes,Perfume5,205733.94,10286.7
+Germany,Perfumes,Perfume6,352842.97,17642.15
+Germany,Smart Phone,Phone1,308410.61,15420.53
+Germany,Smart Phone,Phone2,362064.64,18103.23
+Germany,Smart Phone,Phone3,819610.52,40980.53
+Germany,Smart Phone,Phone4,294470.89,14723.54
+Germany,Smart Phone,Phone5,287891.0,14394.55
+Germany,Smart Phone,Phone6,605720.73,30286.04
+Germany,Shoes,Shoes1,772380.04,38619.0
+Germany,Shoes,Shoes2,481765.95,24088.3
+Germany,Shoes,Shoes3,403590.77,20179.54
+Germany,Shoes,Shoes4,479262.64,23963.13
+Germany,Shoes,Shoes5,75481.58,3774.08
+Germany,Shoes,Shoes6,8724.05,436.2
+Germany,Tshirts,Tshirt1,784587.45,39229.37
+Germany,Tshirts,Tshirt2,264391.01,13219.55
+Germany,Tshirts,Tshirt3,172189.45,8609.47
+Germany,Tshirts,Tshirt4,1159885.14,57994.26
+Germany,Tshirts,Tshirt5,150554.87,7527.74
+Germany,Tshirts,Tshirt6,562565.05,28128.25
+HongKong,Water bottles,Bottle1,512343.2,25617.16
+HongKong,Water bottles,Bottle3,42482.94,2124.15
+HongKong,Water bottles,Bottle4,599541.54,29977.08
+HongKong,Water bottles,Bottle5,146843.78,7342.19
+HongKong,Water bottles,Bottle6,282635.37,14131.77
+HongKong,Jeans,Jeans2,169344.61,8467.23
+HongKong,Jeans,Jeans3,412743.25,20637.16
+HongKong,Jeans,Jeans4,244880.2,12244.01
+HongKong,Jeans,Jeans5,366545.42,18327.27
+HongKong,Jeans,Jeans6,921431.68,46071.58
+HongKong,Perfumes,Perfume1,737458.03,36872.9
+HongKong,Perfumes,Perfume2,280069.34,14003.47
+HongKong,Perfumes,Perfume3,15550.11,777.51
+HongKong,Perfumes,Perfume4,6920.99,346.05
+HongKong,Perfumes,Perfume5,686964.38,34348.22
+HongKong,Perfumes,Perfume6,385055.81,19252.79
+HongKong,Smart Phone,Phone1,621760.92,31088.05
+HongKong,Smart Phone,Phone2,310363.25,15518.16
+HongKong,Smart Phone,Phone3,1039775.82,51988.79
+HongKong,Smart Phone,Phone4,12900.13,645.01
+HongKong,Smart Phone,Phone5,321716.02,16085.8
+HongKong,Smart Phone,Phone6,631573.66,31578.68
+HongKong,Shoes,Shoes1,390455.56,19522.78
+HongKong,Shoes,Shoes2,52440.17,2622.01
+HongKong,Shoes,Shoes3,173823.72,8691.19
+HongKong,Shoes,Shoes4,48450.5,2422.53
+HongKong,Shoes,Shoes5,707854.45,35392.72
+HongKong,Shoes,Shoes6,352079.46,17603.97
+HongKong,Tshirts,Tshirt1,9782.9,489.14
+HongKong,Tshirts,Tshirt2,1004845.18,50242.26
+HongKong,Tshirts,Tshirt4,435059.25,21752.96
+HongKong,Tshirts,Tshirt6,1143760.12,57188.01
+India,Perfumes,AXE Perfumes,60352.0,3017.6
+India,Shoes,Adidas Shoes,64027.0,3201.35
+India,Tshirts,Adidas Tshirt,39893.0,1994.65
+India,Water bottles,Aquafina Water bottles,31886.0,3188.6
+India,Shoes,Bata Shoes,28794.0,1439.7
+India,Water bottles,Cello Water bottles,33388.0,3338.8
+India,Perfumes,Denver Perfumes,17855.0,892.75
+India,Perfumes,Fogg Perfumes,54661.0,2733.05
+India,Water bottles,Kinley Water bottles,45555.0,4555.5
+India,Jeans,Lee Jeans,43291.0,2164.55
+India,Jeans,Levi's Jeans,47880.0,2394.0
+India,Water bottles,Milton Water bottles,17565.0,1756.5
+India,Jeans,Mufti Jeans,50376.0,2518.8
+India,Shoes,Nike Shoes,45562.0,2278.1
+India,Tshirts,Nike Tshirt,24793.0,1239.65
+India,Smart Phone,OnePlus Smart Phone,21565.0,1078.25
+India,Perfumes,Park Avenue Perfumes,60603.0,3030.15
+India,Jeans,Pepe Jeans Jeans,25671.0,1283.55
+India,Tshirts,Peter England Tshirt,86184.0,4309.2
+India,Tshirts,Puma Tshirt,48355.0,2417.75
+India,Smart Phone,Redmi Smart Phone,62820.0,3141.0
+India,Shoes,Reebok Shoes,38839.0,1941.95
+India,Smart Phone,Samsung Smart Phone,79068.0,3953.4
+India,Water bottles,Tupperware Water bottles,61093.0,6109.3
+India,Smart Phone,Vivo Smart Phone,53345.0,2667.25
+India,Perfumes,Wild Stone Perfumes,56474.0,2823.7
+India,Shoes,Woodland Shoes,25126.0,1256.3
+India,Jeans,Wrangler Jeans,40399.0,2019.95
+India,Tshirts,Zara Tshirt,35597.0,1779.85
+India,Smart Phone,iPhone Smart Phone,37316.0,1865.8
+Japan,Water bottles,Bottle1,391427.87,19571.39
+Japan,Water bottles,Bottle2,3726.63,186.33
+Japan,Water bottles,Bottle3,139394.48,6969.72
+Japan,Water bottles,Bottle4,168905.75,8445.29
+Japan,Water bottles,Bottle6,629562.02,31478.1
+Japan,Jeans,Jeans1,349704.88,17485.24
+Japan,Jeans,Jeans2,487497.37,24374.87
+Japan,Jeans,Jeans3,648631.59,32431.58
+Japan,Jeans,Jeans4,192596.1,9629.81
+Japan,Jeans,Jeans5,80623.55,4031.18
+Japan,Jeans,Jeans6,702406.14,35120.31
+Japan,Perfumes,Perfume1,540541.83,27027.09
+Japan,Perfumes,Perfume2,587176.67,29358.83
+Japan,Perfumes,Perfume3,1496548.71,74827.44
+Japan,Perfumes,Perfume4,1009126.91,50456.35
+Japan,Perfumes,Perfume5,450910.28,22545.51
+Japan,Smart Phone,Phone1,507003.21,25350.16
+Japan,Smart Phone,Phone2,116893.27,5844.66
+Japan,Smart Phone,Phone3,780875.48,39043.77
+Japan,Smart Phone,Phone4,81513.96,4075.7
+Japan,Smart Phone,Phone5,640813.63,32040.68
+Japan,Shoes,Shoes1,165858.24,8292.91
+Japan,Shoes,Shoes2,551750.14,27587.51
+Japan,Shoes,Shoes3,249205.98,12460.3
+Japan,Shoes,Shoes4,123385.31,6169.27
+Japan,Shoes,Shoes5,227031.99,11351.6
+Japan,Shoes,Shoes6,319987.2,15999.36
+Japan,Tshirts,Tshirt1,251780.79,12589.04
+Japan,Tshirts,Tshirt2,87393.75,4369.69
+Japan,Tshirts,Tshirt3,159060.5,7953.03
+Japan,Tshirts,Tshirt4,550910.91,27545.55
+Japan,Tshirts,Tshirt5,652111.44,32605.57
+Japan,Tshirts,Tshirt6,250812.78,12540.64
+Norway,Water bottles,Bottle1,214166.72,10708.34
+Norway,Water bottles,Bottle2,313338.02,15666.9
+Norway,Water bottles,Bottle3,654727.47,32736.37
+Norway,Water bottles,Bottle4,726828.67,36341.43
+Norway,Water bottles,Bottle5,1034754.57,51737.73
+Norway,Water bottles,Bottle6,659883.02,32994.15
+Norway,Jeans,Jeans3,275816.1,13790.8
+Norway,Jeans,Jeans5,235221.84,11761.09
+Norway,Jeans,Jeans6,1145319.79,57265.99
+Norway,Perfumes,Perfume1,307695.2,15384.76
+Norway,Perfumes,Perfume2,569412.68,28470.63
+Norway,Perfumes,Perfume3,141950.9,7097.55
+Norway,Perfumes,Perfume4,731519.87,36575.99
+Norway,Perfumes,Perfume6,1087638.39,54381.92
+Norway,Smart Phone,Phone1,242747.12,12137.36
+Norway,Smart Phone,Phone2,779295.83,38964.79
+Norway,Smart Phone,Phone3,505298.74,25264.94
+Norway,Smart Phone,Phone4,932922.5,46646.12
+Norway,Smart Phone,Phone5,688480.67,34424.03
+Norway,Smart Phone,Phone6,435024.91,21751.25
+Norway,Shoes,Shoes1,183011.08,9150.55
+Norway,Shoes,Shoes2,7332.1,366.61
+Norway,Shoes,Shoes3,653420.11,32671.01
+Norway,Shoes,Shoes4,437555.89,21877.79
+Norway,Shoes,Shoes5,260543.61,13027.18
+Norway,Tshirts,Tshirt1,773281.02,38664.05
+Norway,Tshirts,Tshirt2,250313.05,12515.65
+Norway,Tshirts,Tshirt3,536869.88,26843.49
+Norway,Tshirts,Tshirt4,107138.53,5356.93
+Norway,Tshirts,Tshirt5,27054.82,1352.74
+Norway,Tshirts,Tshirt6,412061.05,20603.05
+Oman,Water bottles,Bottle1,326226.26,16311.31
+Oman,Water bottles,Bottle2,679252.76,33962.64
+Oman,Water bottles,Bottle3,529064.48,26453.22
+Oman,Water bottles,Bottle4,839985.24,41999.26
+Oman,Water bottles,Bottle5,531012.97,26550.65
+Oman,Water bottles,Bottle6,934693.52,46734.68
+Oman,Jeans,Jeans1,78275.51,3913.78
+Oman,Jeans,Jeans2,214048.46,10702.42
+Oman,Jeans,Jeans3,116934.76,5846.74
+Oman,Jeans,Jeans4,417319.93,20866.0
+Oman,Jeans,Jeans5,684365.36,34218.27
+Oman,Jeans,Jeans6,302799.21,15139.96
+Oman,Perfumes,Perfume1,214104.5,10705.23
+Oman,Perfumes,Perfume2,131968.68,6598.43
+Oman,Perfumes,Perfume3,995191.29,49759.56
+Oman,Perfumes,Perfume4,341764.53,17088.23
+Oman,Perfumes,Perfume5,672624.9,33631.25
+Oman,Perfumes,Perfume6,784072.01,39203.6
+Oman,Smart Phone,Phone1,611754.25,30587.71
+Oman,Smart Phone,Phone2,31660.67,1583.03
+Oman,Smart Phone,Phone3,753818.82,37690.94
+Oman,Smart Phone,Phone4,363529.76,18176.49
+Oman,Smart Phone,Phone5,128989.91,6449.5
+Oman,Smart Phone,Phone6,86905.73,4345.29
+Oman,Shoes,Shoes1,47593.39,2379.67
+Oman,Shoes,Shoes2,229407.84,11470.39
+Oman,Shoes,Shoes3,417729.45,20886.47
+Oman,Shoes,Shoes4,667277.35,33363.87
+Oman,Shoes,Shoes5,631877.06,31593.85
+Oman,Shoes,Shoes6,452748.24,22637.41
+Oman,Tshirts,Tshirt1,290528.52,14526.43
+Oman,Tshirts,Tshirt2,543171.58,27158.58
+Oman,Tshirts,Tshirt3,433765.63,21688.28
+Oman,Tshirts,Tshirt4,261273.28,13063.66
+Oman,Tshirts,Tshirt5,461622.02,23081.1
+Oman,Tshirts,Tshirt6,36316.33,1815.82
+Qatar,Water bottles,Bottle1,674080.9,33704.05
+Qatar,Water bottles,Bottle2,74082.33,3704.12
+Qatar,Water bottles,Bottle3,275770.58,13788.53
+Qatar,Water bottles,Bottle4,32113.14,1605.66
+Qatar,Water bottles,Bottle5,243270.02,12163.5
+Qatar,Water bottles,Bottle6,476542.42,23827.12
+Qatar,Jeans,Jeans1,592759.53,29637.98
+Qatar,Jeans,Jeans3,167775.46,8388.77
+Qatar,Jeans,Jeans4,282000.14,14100.01
+Qatar,Jeans,Jeans5,61395.2,3069.76
+Qatar,Jeans,Jeans6,56674.15,2833.71
+Qatar,Perfumes,Perfume1,221296.07,11064.8
+Qatar,Perfumes,Perfume2,45403.12,2270.16
+Qatar,Perfumes,Perfume3,407226.42,20361.32
+Qatar,Perfumes,Perfume4,721112.83,36055.64
+Qatar,Perfumes,Perfume5,345060.04,17253.0
+Qatar,Perfumes,Perfume6,488709.03,24435.45
+Qatar,Smart Phone,Phone1,12546.02,627.3
+Qatar,Smart Phone,Phone2,283535.17,14176.76
+Qatar,Smart Phone,Phone3,645311.13,32265.56
+Qatar,Smart Phone,Phone4,297409.94,14870.5
+Qatar,Smart Phone,Phone5,184767.42,9238.37
+Qatar,Smart Phone,Phone6,91183.6,4559.18
+Qatar,Shoes,Shoes1,82790.54,4139.53
+Qatar,Shoes,Shoes2,559607.4,27980.37
+Qatar,Shoes,Shoes3,743509.87,37175.49
+Qatar,Shoes,Shoes4,292479.86,14623.99
+Qatar,Shoes,Shoes5,212192.66,10609.63
+Qatar,Shoes,Shoes6,780024.8,39001.24
+Qatar,Tshirts,Tshirt1,1188690.89,59434.54
+Qatar,Tshirts,Tshirt2,251735.81,12586.79
+Qatar,Tshirts,Tshirt3,535405.91,26770.3
+Qatar,Tshirts,Tshirt4,137334.81,6866.74
+Qatar,Tshirts,Tshirt5,632836.23,31641.81
+Qatar,Tshirts,Tshirt6,481085.09,24054.25
+SriLanka,Jeans,Jeans1,67951.4,3397.57
+SriLanka,Jeans,Jeans2,47362.35,2368.12
+SriLanka,Jeans,Jeans3,18371.49,918.57
+SriLanka,Jeans,Jeans4,26919.65,1345.98
+SriLanka,Jeans,Jeans5,61535.53,3076.78
+SriLanka,Jeans,Jeans6,72605.86,3630.29
+SriLanka,Perfumes,Perfume1,52452.22,2622.61
+SriLanka,Perfumes,Perfume2,44679.19,2233.96
+SriLanka,Perfumes,Perfume3,45701.6,2285.08
+SriLanka,Perfumes,Perfume4,42442.29,2122.11
+SriLanka,Perfumes,Perfume5,28236.63,1411.83
+SriLanka,Perfumes,Perfume6,40469.52,2023.48
+SriLanka,Shoes,Shoes1,38315.14,1915.76
+SriLanka,Shoes,Shoes2,25760.34,1288.02
+SriLanka,Shoes,Shoes3,15668.31,783.42
+SriLanka,Shoes,Shoes4,77000.02,3850.0
+SriLanka,Shoes,Shoes5,48579.09,2428.95
+SriLanka,Shoes,Shoes6,35931.31,1796.57
+SriLanka,Smart Phone,SmartPhone1,59285.2,2964.26
+SriLanka,Smart Phone,SmartPhone2,6157.15,307.86
+SriLanka,Smart Phone,SmartPhone3,2898.92,144.95
+SriLanka,Smart Phone,SmartPhone4,26344.18,1317.21
+SriLanka,Smart Phone,SmartPhone5,91615.63,4580.78
+SriLanka,Smart Phone,SmartPhone6,50291.55,2514.58
+SriLanka,Tshirts,Tshirt1,102690.25,5134.51
+SriLanka,Tshirts,Tshirt2,55057.43,2752.87
+SriLanka,Tshirts,Tshirt3,25323.81,1266.19
+SriLanka,Tshirts,Tshirt4,88823.31,4441.17
+SriLanka,Tshirts,Tshirt5,117742.04,5887.1
+SriLanka,Tshirts,Tshirt6,2810.45,140.52
+SriLanka,Water bottles,WaterBottle1,142394.25,7119.71
+SriLanka,Water bottles,WaterBottle2,59532.54,2976.63
+SriLanka,Water bottles,WaterBottle3,86439.09,4321.95
+SriLanka,Water bottles,WaterBottle4,18761.23,938.06
+SriLanka,Water bottles,WaterBottle5,60540.44,3027.02
+SriLanka,Water bottles,WaterBottle6,27120.26,1356.01
