@@ -1,0 +1,95 @@
+#Tax_by_5_percent
+SELECT
+  Country,
+  ROUND(SUM(INR_Amount),2) AS Amount,
+  ROUND(SUM(INR_Amount) * 0.05, 2) AS Tax_5_percent,
+  Category,
+  Product
+FROM
+  p2project-460510.testdb.cleaned_table
+GROUP BY
+  Country, Category, Product
+ORDER BY
+  Country, Tax_5_percent DESC;
+
+#Different_taxes
+SELECT
+  Country,
+  Category,
+  Product,
+  Round(SUM(INR_Amount),2) AS Amount,
+  
+  ROUND(SUM(INR_Amount) *
+    CASE
+      WHEN Product LIKE '%jeans%' THEN 0.16
+      WHEN Product LIKE '%bottle%' THEN 0.10
+      WHEN Product LIKE '%shoes%' THEN 0.18
+      WHEN Product LIKE '%t-shirt%' THEN 0.21
+      ELSE 0.05  
+    END, 2) AS Tax
+
+FROM
+  `p2project-460510.testdb.cleaned_table`
+GROUP BY
+  Country, Category, Product
+ORDER BY
+  Country, Product;
+
+#Highest saled product
+SELECT
+  Country,
+  Product,
+  Total_INR_Sales
+FROM (
+  SELECT
+    Country,
+    Product,
+    Round(SUM(INR_Amount),2) AS Total_INR_Sales,
+    RANK() OVER (PARTITION BY Country ORDER BY SUM(INR_Amount) DESC) AS rank
+  FROM
+    p2project-460510.testdb.cleaned_table
+  GROUP BY
+    Country, Product
+  Order by Total_INR_Sales DESC
+)
+WHERE rank = 1;
+
+
+#Product-wise sales
+SELECT 
+  Product AS ProductName,
+  Category,
+  SUM(Qty) AS Total_Quantity_Sold,
+  Round(SUM(Amount),2) AS Total_Revenue
+FROM 
+  p2project-460510.testdb.cleaned_table
+GROUP BY 
+  Product, Category, Country
+ORDER BY 
+  Total_Revenue DESC;
+
+
+#category-wise sales
+SELECT 
+  Category,
+  SUM(Qty) AS Total_Quantity_Sold,
+  Round(SUM(Amount),2) AS Total_Sales_Amount
+FROM 
+  p2project-460510.testdb.cleaned_table
+GROUP BY 
+  Category
+ORDER BY 
+  Total_Sales_Amount DESC;
+
+#country-wise sales
+SELECT 
+  Product,
+  Country,
+  SUM(Qty) AS Total_Quantity_Sold,
+  Round(SUM(Amount),2) AS Total_Sales_Amount
+FROM 
+  p2project-460510.testdb.cleaned_table
+GROUP BY 
+  Product,Country
+ORDER BY 
+  Total_Sales_Amount DESC;
