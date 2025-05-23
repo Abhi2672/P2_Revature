@@ -1,0 +1,49 @@
+#Linear Regression
+ SELECT
+  *,
+  predicted_Sale
+FROM
+  ML.PREDICT(
+    MODEL `p2project-460510.testdb.predict_sales`,
+    (
+      SELECT
+        Qty,
+        Category,
+        Product,
+        Country
+      FROM
+        `p2project-460510.testdb.cleaned_table`
+      -- WHERE Sale IS NOT NULL
+      -- WHERE Country = "India"
+    )
+  );
+
+#Linear Regression
+SELECT
+  Category,
+  Product,
+  Qty,
+  Country,
+  Amount,
+  predicted_Sale
+FROM
+  ML.PREDICT(
+    MODEL `p2project-460510.testdb.predict_sales`,
+    (
+      SELECT
+        "Shoes" AS Category,
+        "Adidas Shoes" AS Product,
+        10 AS Qty,
+        "India" AS Country,
+        100000 AS Amount
+      FROM
+        `p2project-460510.testdb.cleaned_table`
+      LIMIT 10
+    )
+  );
+
+#Accuracy
+SELECT
+  *
+FROM
+  ML.EVALUATE(MODEL `p2project-460510.testdb.predict_sales`);
